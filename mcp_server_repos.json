@@ -219,5 +219,13 @@
     "enabled": true,
     "serverName": "io.github.SergiuPogor/curlshot",
     "note": "Hosted MCP for CurlShot, a screenshot API: take_screenshot and list_devices return PNG, JPEG, WebP, PDF or scrolling video captures of public web pages. Hosted MCP: https://curlshot.com/api/mcp (Streamable HTTP, Bearer API key; free plan with 100 screenshots a month). The repo holds client setup, server.json and an agent skill, not the server implementation. Site: https://curlshot.com"
+  },
+  "fclairamb/solidping": {
+    "owner": "fclairamb",
+    "name": "solidping",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.fclairamb/solidping",
+    "note": "SolidPing is a self-hostable uptime monitor (Go, AGPL-3.0) with 40+ check types, multi-region workers, status pages, incidents and on-call. Its MCP server exposes checks, results, incidents and status pages. Hosted MCP: https://solidping.io/api/v1/mcp (Streamable HTTP, needs a SolidPing account, free tier). Canonical metadata is in server.json. Docs: https://docs.solidping.io"
   }
 }
