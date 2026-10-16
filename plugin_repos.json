@@ -1,4 +1,13 @@
 {
+  "human-stuff/prodready": {
+    "name": "prodready",
+    "description": "Takes an app from localhost to production and proves each step: env capture, Docker pack, clean-room verify, migration and backup checks, a deploy manual tested by a fresh agent, deploy, and live checks. Also a 13-area production-readiness check. Claude Code, Codex, Cursor. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "human-stuff",
+    "repoName": "prodready",
+    "repoBranch": "main"
+  },
   "fclairamb/solidping-plugin": {
     "name": "solidping",
     "description": "SolidPing uptime monitoring for Claude Code and Codex: the hosted SolidPing MCP server plus a monitoring skill. Create checks across 40+ check types (HTTP, TCP, DNS, SSL, databases, MQTT, Kafka...), read results and incidents, manage status pages. Free tier on solidping.io, or point it at a self-hosted server. MIT.",
