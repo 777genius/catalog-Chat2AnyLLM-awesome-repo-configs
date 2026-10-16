@@ -47468,5 +47468,98 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "ponomr/palych": {
+        "owner": "ponomr",
+        "name": "palych",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Confidee/flowreel": {
+        "owner": "Confidee",
+        "name": "flowreel",
+        "branch": "main",
+        "enabled": true
+    },
+    "liftli-ai/linkedin-agent-skills": {
+        "owner": "liftli-ai",
+        "name": "linkedin-agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "HelloPixDig/improve-system": {
+        "owner": "HelloPixDig",
+        "name": "improve-system",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "fcoluiz/context-tools": {
+        "owner": "fcoluiz",
+        "name": "context-tools",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Up-Coast/beacon": {
+        "owner": "Up-Coast",
+        "name": "beacon",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mvbsoft/keel": {
+        "owner": "mvbsoft",
+        "name": "keel",
+        "branch": "main",
+        "enabled": true
+    },
+    "senlindesign/proof": {
+        "owner": "senlindesign",
+        "name": "proof",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mach-Five-Group/machvive-chat-syncopation-ai": {
+        "owner": "Mach-Five-Group",
+        "name": "machvive-chat-syncopation-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "dmakam/launch-my-site": {
+        "owner": "dmakam",
+        "name": "launch-my-site",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Temperbyte/temperbyte-skills.": {
+        "owner": "Temperbyte",
+        "name": "temperbyte-skills.",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ghuron/skills": {
+        "owner": "ghuron",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "justuchena/design-contract": {
+        "owner": "justuchena",
+        "name": "design-contract",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mirzaaghazadeh/unity-meta-quest-skills": {
+        "owner": "mirzaaghazadeh",
+        "name": "unity-meta-quest-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

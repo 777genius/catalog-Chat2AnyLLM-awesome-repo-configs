@@ -39781,5 +39781,149 @@
     "repoOwner": "PickleBoxer",
     "repoName": "pickle",
     "repoBranch": "main"
+  },
+  "ponomr/palych": {
+    "name": "ponomr/palych",
+    "description": "Palych: clear conversational replies in Russian and English. Named after Anton Chekhov.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ponomr",
+    "repoName": "palych",
+    "repoBranch": "main"
+  },
+  "Confidee/flowreel": {
+    "name": "Confidee/flowreel",
+    "description": "Deterministic Playwright flows that double as narrated, branded videos, with a development-then-staging release gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Confidee",
+    "repoName": "flowreel",
+    "repoBranch": "main"
+  },
+  "johnydec/floofbot": {
+    "name": "johnydec/floofbot",
+    "description": "Plush, animated companions that sit above the Claude Code prompt: a Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnydec",
+    "repoName": "floofbot",
+    "repoBranch": "main"
+  },
+  "liftli-ai/linkedin-agent-skills": {
+    "name": "liftli-ai/linkedin-agent-skills",
+    "description": "LinkedIn agent skills for Claude Code, Codex, Cursor and Gemini CLI: 31 free skills for posts, hooks, comments, profile audits and pre-publish checks. Install one or all. By Liftli.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liftli-ai",
+    "repoName": "linkedin-agent-skills",
+    "repoBranch": "main"
+  },
+  "leonidb/claude-code-mods": {
+    "name": "leonidb/claude-code-mods",
+    "description": "Don't let your attention wander off while waiting for Claude Code's answer.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "leonidb",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "Jakobbarnwell/less-bloat": {
+    "name": "Jakobbarnwell/less-bloat",
+    "description": "Kill the bloat in Claude Code's system prompt, without turning a single tool off.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Jakobbarnwell",
+    "repoName": "less-bloat",
+    "repoBranch": "main"
+  },
+  "fcoluiz/context-tools": {
+    "name": "fcoluiz/context-tools",
+    "description": "Code navigation and documentation hygiene for AI coding agents (Claude Code and Codex). Zero dependencies, generated on the spot, never stale.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fcoluiz",
+    "repoName": "context-tools",
+    "repoBranch": "main"
+  },
+  "Up-Coast/beacon": {
+    "name": "Up-Coast/beacon",
+    "description": "Bug, feature-request and feedback reporting you drop into a macOS or iOS app, and the Claude triage that works the reports",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Up-Coast",
+    "repoName": "beacon",
+    "repoBranch": "main"
+  },
+  "cioxideru/agent-radar": {
+    "name": "cioxideru/agent-radar",
+    "description": "Live pane for Claude Code (macOS): Claude subagents and the Codex runs they launch \u2014 model, effort, tokens, context, time, launch method",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cioxideru",
+    "repoName": "agent-radar",
+    "repoBranch": "main"
+  },
+  "mvbsoft/keel": {
+    "name": "mvbsoft/keel",
+    "description": "Plan, build and independently verify your work with coding agents (Claude Code today).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mvbsoft",
+    "repoName": "keel",
+    "repoBranch": "main"
+  },
+  "senlindesign/proof": {
+    "name": "senlindesign/proof",
+    "description": "Proof \u2014 a product design skill for Claude Code & Codex. Product pages that look shipped, not generated, learned from 400+ real product pages: 8 page types, 10 sections, and 4 visual styles (Minimal, Business, Colorful...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "senlindesign",
+    "repoName": "proof",
+    "repoBranch": "main"
+  },
+  "Mach-Five-Group/machvive-chat-syncopation-ai": {
+    "name": "Mach-Five-Group/machvive-chat-syncopation-ai",
+    "description": "Dependency-free web components for prototyping complex chat interactions \u2014 engagement, low cognitive load, and user agency over their own data.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mach-Five-Group",
+    "repoName": "machvive-chat-syncopation-ai",
+    "repoBranch": "main"
+  },
+  "Temperbyte/temperbyte-skills.": {
+    "name": "Temperbyte/temperbyte-skills.",
+    "description": "Professional Claude skills for real estate agents and fitness coaches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Temperbyte",
+    "repoName": "temperbyte-skills.",
+    "repoBranch": "main"
+  },
+  "ghuron/skills": {
+    "name": "ghuron/skills",
+    "description": "Agent skills (SKILL.md) for Dutch everyday services: Magister, OVpay, HTM, ABN AMRO, Albert Heijn, Epson. For Claude Code, Codex, Cursor and other agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ghuron",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "justuchena/design-contract": {
+    "name": "justuchena/design-contract",
+    "description": "A design-doc method, 152 design-system references, and a checker that enforces the rules a machine can hold. Because a design system written down is a claim; one that runs is a contract.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justuchena",
+    "repoName": "design-contract",
+    "repoBranch": "main"
+  },
+  "mirzaaghazadeh/unity-meta-quest-skills": {
+    "name": "mirzaaghazadeh/unity-meta-quest-skills",
+    "description": "Claude Code skill library for building Meta Quest VR games in Unity (Unity CLI) and shipping on the Meta Horizon Store",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mirzaaghazadeh",
+    "repoName": "unity-meta-quest-skills",
+    "repoBranch": "main"
   }
 }
