@@ -1,4 +1,11 @@
 {
+    "NoEdgeAI/doc2x-cli-skills": {
+        "owner": "NoEdgeAI",
+        "name": "doc2x-cli-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "SergiuPogor/curlshot-mcp": {
         "owner": "SergiuPogor",
         "name": "curlshot-mcp",
