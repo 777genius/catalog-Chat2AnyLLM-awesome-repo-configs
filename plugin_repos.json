@@ -1,4 +1,13 @@
 {
+  "SergiuPogor/curlshot-mcp": {
+    "name": "curlshot",
+    "description": "CurlShot screenshot API for Claude Code: the hosted CurlShot MCP server plus an agent skill. Screenshots of any public web page as PNG, JPEG, WebP, PDF or a scrolling video. Needs a CurlShot API key (free plan available). MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SergiuPogor",
+    "repoName": "curlshot-mcp",
+    "repoBranch": "main"
+  },
   "edtrackai/supabase-stripe-checks": {
     "name": "supabase-stripe-checks",
     "description": "Two free, read-only checks for Next.js + Supabase + Stripe apps: rls-check finds row-level security gaps in Supabase migrations, stripe-webhook-check finds webhook handlers that skip signature verification. Zero dependencies, MIT.",

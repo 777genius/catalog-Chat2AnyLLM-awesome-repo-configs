@@ -1,4 +1,11 @@
 {
+    "SergiuPogor/curlshot-mcp": {
+        "owner": "SergiuPogor",
+        "name": "curlshot-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "makepartsnow/skills": {
         "owner": "makepartsnow",
         "name": "skills",
