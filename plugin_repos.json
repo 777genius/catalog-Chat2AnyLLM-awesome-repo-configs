@@ -1,4 +1,13 @@
 {
+  "fclairamb/solidping-plugin": {
+    "name": "solidping",
+    "description": "SolidPing uptime monitoring for Claude Code and Codex: the hosted SolidPing MCP server plus a monitoring skill. Create checks across 40+ check types (HTTP, TCP, DNS, SSL, databases, MQTT, Kafka...), read results and incidents, manage status pages. Free tier on solidping.io, or point it at a self-hosted server. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fclairamb",
+    "repoName": "solidping-plugin",
+    "repoBranch": "main"
+  },
   "SergiuPogor/curlshot-mcp": {
     "name": "curlshot",
     "description": "CurlShot screenshot API for Claude Code: the hosted CurlShot MCP server plus an agent skill. Screenshots of any public web page as PNG, JPEG, WebP, PDF or a scrolling video. Needs a CurlShot API key (free plan available). MIT.",
