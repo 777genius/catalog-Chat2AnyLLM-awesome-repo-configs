@@ -211,5 +211,13 @@
     "serverName": "io.github.getchordlabs/chord",
     "subPath": "agent",
     "note": "Chord: best-route DEX swap quotes and unsigned swap transactions on 7 EVM chains (Base, Monad, BNB Chain, Avalanche, Arbitrum, Robinhood Chain, Arc), plus token boards, candles, trades, wallet PnL, smart money, holders and LP pools (Solana data read-only). Hosted MCP: https://api.getchord.xyz/v1/mcp (Streamable HTTP, no key for data and swap tools at about 60 requests a minute; only chord_ask needs a Chord API key). Non-custodial. The MIT repo holds the TypeScript stdio bridge in agent/, plus the SDK, contracts and skills, not the hosted server itself. Canonical metadata is in server.json. Docs: https://getchord.xyz/docs/agents/mcp/"
+  },
+  "SergiuPogor/curlshot-mcp": {
+    "owner": "SergiuPogor",
+    "name": "curlshot-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.SergiuPogor/curlshot",
+    "note": "Hosted MCP for CurlShot, a screenshot API: take_screenshot and list_devices return PNG, JPEG, WebP, PDF or scrolling video captures of public web pages. Hosted MCP: https://curlshot.com/api/mcp (Streamable HTTP, Bearer API key; free plan with 100 screenshots a month). The repo holds client setup, server.json and an agent skill, not the server implementation. Site: https://curlshot.com"
   }
 }
