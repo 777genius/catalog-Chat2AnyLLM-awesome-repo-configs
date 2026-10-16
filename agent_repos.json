@@ -6316,5 +6316,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "PickleBoxer/pickle": {
+    "owner": "PickleBoxer",
+    "name": "pickle",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

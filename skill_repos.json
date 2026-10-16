@@ -47340,5 +47340,120 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "eatmoreduck/yaya-skills": {
+        "owner": "eatmoreduck",
+        "name": "yaya-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "devsolux/storytold": {
+        "owner": "devsolux",
+        "name": "storytold",
+        "branch": "main",
+        "enabled": true
+    },
+    "arsenyajurist-sudo/devils-advocate-claude-skill": {
+        "owner": "arsenyajurist-sudo",
+        "name": "devils-advocate-claude-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "RitualDev-Lab/mcp-builder-kit": {
+        "owner": "RitualDev-Lab",
+        "name": "mcp-builder-kit",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "WST2002/claude-code-skills": {
+        "owner": "WST2002",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bggoranoff/agent-blindfold": {
+        "owner": "bggoranoff",
+        "name": "agent-blindfold",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nkrrish/krrish-skills": {
+        "owner": "nkrrish",
+        "name": "krrish-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Baptoshi/silicon-floor": {
+        "owner": "Baptoshi",
+        "name": "silicon-floor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ro0oman/OverlayGenerator-Claude-Skill": {
+        "owner": "Ro0oman",
+        "name": "OverlayGenerator-Claude-Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Harshil-Jani/tanmay-bhat-content": {
+        "owner": "Harshil-Jani",
+        "name": "tanmay-bhat-content",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "pv-ca/latex-ops": {
+        "owner": "pv-ca",
+        "name": "latex-ops",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SureshKumar-24/artifact-hub": {
+        "owner": "SureshKumar-24",
+        "name": "artifact-hub",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arsenyajurist-sudo/legal-skills": {
+        "owner": "arsenyajurist-sudo",
+        "name": "legal-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "kristian-presso/claude-operator-starter": {
+        "owner": "kristian-presso",
+        "name": "claude-operator-starter",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Salberg87/claude-skills-no": {
+        "owner": "Salberg87",
+        "name": "claude-skills-no",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kristian-presso/claude-gtm-skills": {
+        "owner": "kristian-presso",
+        "name": "claude-gtm-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PickleBoxer/pickle": {
+        "owner": "PickleBoxer",
+        "name": "pickle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

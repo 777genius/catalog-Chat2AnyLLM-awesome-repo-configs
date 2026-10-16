@@ -39646,5 +39646,131 @@
     "repoOwner": "rakaga66",
     "repoName": "hojas-studio",
     "repoBranch": "main"
+  },
+  "eatmoreduck/yaya-skills": {
+    "name": "eatmoreduck/yaya-skills",
+    "description": "Agent Skills \u628a X Space \u53d8\u6210\u4e2d\u6587\u5e72\u8d27\u7b14\u8bb0\uff1a\u4e0b\u8f7d \u2192 \u5e26\u8bf4\u8bdd\u4eba\u8f6c\u5199 \u2192 LLM \u84b8\u998f \u2192 \u5206\u4eab\u56fe / Turn X Spaces into distilled Chinese notes with speaker labels & share cards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eatmoreduck",
+    "repoName": "yaya-skills",
+    "repoBranch": "master"
+  },
+  "devsolux/storytold": {
+    "name": "devsolux/storytold",
+    "description": "Claude Code & Codex plugin for the open-source ArtCraft Craft App Suite: one craft Skill drives 13 local, headless Craft MCP apps (photo, vector, video, RAW, PDF, layout, sheets, docs, slides, CAD, audio, motion) with...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devsolux",
+    "repoName": "storytold",
+    "repoBranch": "main"
+  },
+  "WST2002/claude-code-skills": {
+    "name": "WST2002/claude-code-skills",
+    "description": "Ready-to-use Claude Code skills and plugins: make AI coding agents faster, more reliable, and prove their work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WST2002",
+    "repoName": "claude-code-skills",
+    "repoBranch": "main"
+  },
+  "bggoranoff/agent-blindfold": {
+    "name": "bggoranoff/agent-blindfold",
+    "description": "Let a browser agent sign in without ever seeing your password",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bggoranoff",
+    "repoName": "agent-blindfold",
+    "repoBranch": "main"
+  },
+  "nkrrish/krrish-skills": {
+    "name": "nkrrish/krrish-skills",
+    "description": "Claude Code skills that verify their own output \u2014 SVG logo/icon design with a measurable quality gate, a per-project todo board, and Higgsfield API image and video generation (Soul 2, Kling, Seedance) with live pricin...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nkrrish",
+    "repoName": "krrish-skills",
+    "repoBranch": "main"
+  },
+  "Baptoshi/silicon-floor": {
+    "name": "Baptoshi/silicon-floor",
+    "description": "Who owns AI and chip stocks, who's buying and selling \u2014 rebuilt from SEC filings and FINRA, every figure cited. A terminal for humans and AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Baptoshi",
+    "repoName": "silicon-floor",
+    "repoBranch": "main"
+  },
+  "Ro0oman/OverlayGenerator-Claude-Skill": {
+    "name": "Ro0oman/OverlayGenerator-Claude-Skill",
+    "description": "Claude skill that designs a custom OBS overlay pack for your Twitch channel: alerts, scenes, control panel, hotkeys. No templates, no code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ro0oman",
+    "repoName": "OverlayGenerator-Claude-Skill",
+    "repoBranch": "main"
+  },
+  "pv-ca/latex-ops": {
+    "name": "pv-ca/latex-ops",
+    "description": "Agent skill for LaTeX documents that look published, not exported: 32 document types x 9 visual styles, compiled and checked page by page. Windows, macOS, Linux.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pv-ca",
+    "repoName": "latex-ops",
+    "repoBranch": "main"
+  },
+  "SureshKumar-24/artifact-hub": {
+    "name": "SureshKumar-24/artifact-hub",
+    "description": "Every Claude artifact you publish, filed and searchable: links saved on your machine at publish time, filed into project folders on one private index page with gallery, search, status, pins and a weekly digest. Claude...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SureshKumar-24",
+    "repoName": "artifact-hub",
+    "repoBranch": "main"
+  },
+  "arsenyajurist-sudo/legal-skills": {
+    "name": "arsenyajurist-sudo/legal-skills",
+    "description": "AI skills and plugins for licensed lawyers (Claude Code). Red Team Brief: stress-test legal work product. Not legal advice.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arsenyajurist-sudo",
+    "repoName": "legal-skills",
+    "repoBranch": "main"
+  },
+  "kristian-presso/claude-skills": {
+    "name": "kristian-presso/claude-skills",
+    "description": "Claude skills and plugins from the agents that run my business. Every skill tested against plain Claude. Two commands to install. Free, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kristian-presso",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "kristian-presso/claude-operator-starter": {
+    "name": "kristian-presso/claude-operator-starter",
+    "description": "Set up Claude Code to help run a small business safely: an interview that writes your CLAUDE.md rules and memory folder, a hook that asks before Claude sends, publishes, pays or deletes, and a Friday weekly review. Cl...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kristian-presso",
+    "repoName": "claude-operator-starter",
+    "repoBranch": "main"
+  },
+  "kristian-presso/claude-gtm-skills": {
+    "name": "kristian-presso/claude-gtm-skills",
+    "description": "Claude skills for founder-led B2B outbound: signal-based prospecting with a sourced reason to contact, and sequences that do not burn your sending domains. Claude Code plugin, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kristian-presso",
+    "repoName": "claude-gtm-skills",
+    "repoBranch": "main"
+  },
+  "PickleBoxer/pickle": {
+    "name": "PickleBoxer/pickle",
+    "description": "pickle for Claude Code: language-agnostic engineering playbooks and principles, lazy-loaded by effort level (low, medium, high), extendable per project",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PickleBoxer",
+    "repoName": "pickle",
+    "repoBranch": "main"
   }
 }
