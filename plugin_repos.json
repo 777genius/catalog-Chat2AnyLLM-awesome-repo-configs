@@ -39934,5 +39934,131 @@
     "repoOwner": "mirzaaghazadeh",
     "repoName": "unity-meta-quest-skills",
     "repoBranch": "main"
+  },
+  "Ikalus1988/MisakaNet": {
+    "name": "Ikalus1988/MisakaNet",
+    "description": "\ud83d\udcda A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ikalus1988",
+    "repoName": "MisakaNet",
+    "repoBranch": "main"
+  },
+  "firecrawl/skills": {
+    "name": "firecrawl/skills",
+    "description": "Firecrawl agent skills for Claude Code, Codex and Cursor: web search, scraping, crawling and browser interaction. Firecrawl is the most complete web data API for AI agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "firecrawl",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "REMvisual/claude-handoff": {
+    "name": "REMvisual/claude-handoff",
+    "description": "Claude Code session handoffs \u2014 now a Claude Code mod: /compact-handoff swaps the conversation for a validated handoff and keeps going. Skills + chain-linked sessions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "REMvisual",
+    "repoName": "claude-handoff",
+    "repoBranch": "master"
+  },
+  "autodesk-platform-services/skills": {
+    "name": "autodesk-platform-services/skills",
+    "description": "A collection of reusable AI agent skills for Autodesk Platform Services and Autodesk industry clouds like Flow, Forma and Fusion.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "autodesk-platform-services",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Brainrot-Creations/plugins": {
+    "name": "Brainrot-Creations/plugins",
+    "description": "Official Claude Code plugin marketplace for Brainrot Creations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Brainrot-Creations",
+    "repoName": "plugins",
+    "repoBranch": "main"
+  },
+  "rashedInt32/glass": {
+    "name": "rashedInt32/glass",
+    "description": "A desktop-app look for Claude Code's terminal transcript, as a mod",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rashedInt32",
+    "repoName": "glass",
+    "repoBranch": "main"
+  },
+  "HaoYangJin/Big-Research": {
+    "name": "HaoYangJin/Big-Research",
+    "description": "Big Research\uff1a\u4eba\u7c7b\u4e3b\u5bfc\u7684 AI \u8f85\u52a9\u79d1\u7814\u5de5\u4f5c\u53f0\u3002\u7ec4\u5408\u7814\u7a76\u65b9\u6cd5\u3001\u8bc1\u636e\u8ffd\u8e2a\u3001\u672c\u5730 MCP \u4e0e\u4ea4\u4e92\u89c6\u56fe\uff0c\u652f\u6301 Codex \u548c Claude Code\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HaoYangJin",
+    "repoName": "Big-Research",
+    "repoBranch": "main"
+  },
+  "kvothesson/ar-plugins": {
+    "name": "kvothesson/ar-plugins",
+    "description": "Marketplace de 15 plugins para Claude Code y Codex sobre Argentina: d\u00f3lar e inflaci\u00f3n en vivo, tr\u00e1mites, sueldos, derechos, salud y facturaci\u00f3n del monotributo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kvothesson",
+    "repoName": "ar-plugins",
+    "repoBranch": "master"
+  },
+  "EdelmarSchneider/trailmark": {
+    "name": "EdelmarSchneider/trailmark",
+    "description": "\ud83d\udd16 Read what your AI writes. Write what it reads. A free, open-source Markdown app for Windows, macOS and Linux: open any .md as a clean page, keep notes that save themselves, and follow, review and steer what your AI...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EdelmarSchneider",
+    "repoName": "trailmark",
+    "repoBranch": "develop"
+  },
+  "RyanNSJ/notworking": {
+    "name": "RyanNSJ/notworking",
+    "description": "Downdetector for AI agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RyanNSJ",
+    "repoName": "notworking",
+    "repoBranch": "main"
+  },
+  "cagdasyurekli/agy-worker": {
+    "name": "cagdasyurekli/agy-worker",
+    "description": "agy-worker: a skill for Codex and Claude Code to delegate bounded repository work to Antigravity CLI (agy), then independently verify the candidate before acceptance.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cagdasyurekli",
+    "repoName": "agy-worker",
+    "repoBranch": "main"
+  },
+  "kimjooyoon/gooo-go-ports": {
+    "name": "kimjooyoon/gooo-go-ports",
+    "description": "Gooo source examples for coding agents: edit, run and replay; independent Go ports and API policy regression checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kimjooyoon",
+    "repoName": "gooo-go-ports",
+    "repoBranch": "main"
+  },
+  "Benjaminnnnnn/product-idea-workbook": {
+    "name": "Benjaminnnnnn/product-idea-workbook",
+    "description": "Agent skills that turn a product idea into a validated, competitive product concept: problem, market, solution, value.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Benjaminnnnnn",
+    "repoName": "product-idea-workbook",
+    "repoBranch": "main"
+  },
+  "iart-ai/b-roll-skills": {
+    "name": "iart-ai/b-roll-skills",
+    "description": "Add b-roll motion graphics to a talking-head video with your AI coding agent: word-timed transcript, line-by-line plan, graphics drawn from what is said, MP4 with the original sound.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iart-ai",
+    "repoName": "b-roll-skills",
+    "repoBranch": "main"
   }
 }

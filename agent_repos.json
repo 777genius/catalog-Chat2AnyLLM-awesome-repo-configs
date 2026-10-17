@@ -6323,5 +6323,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Ikalus1988/MisakaNet": {
+    "owner": "Ikalus1988",
+    "name": "MisakaNet",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -47561,5 +47561,108 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Ikalus1988/MisakaNet": {
+        "owner": "Ikalus1988",
+        "name": "MisakaNet",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "firecrawl/skills": {
+        "owner": "firecrawl",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "REMvisual/claude-handoff": {
+        "owner": "REMvisual",
+        "name": "claude-handoff",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "autodesk-platform-services/skills": {
+        "owner": "autodesk-platform-services",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Brainrot-Creations/plugins": {
+        "owner": "Brainrot-Creations",
+        "name": "plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "HaoYangJin/Big-Research": {
+        "owner": "HaoYangJin",
+        "name": "Big-Research",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adexbn/walk-kcal": {
+        "owner": "adexbn",
+        "name": "walk-kcal",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kvothesson/ar-plugins": {
+        "owner": "kvothesson",
+        "name": "ar-plugins",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EdelmarSchneider/trailmark": {
+        "owner": "EdelmarSchneider",
+        "name": "trailmark",
+        "branch": "develop",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RyanNSJ/notworking": {
+        "owner": "RyanNSJ",
+        "name": "notworking",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cagdasyurekli/agy-worker": {
+        "owner": "cagdasyurekli",
+        "name": "agy-worker",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kimjooyoon/gooo-go-ports": {
+        "owner": "kimjooyoon",
+        "name": "gooo-go-ports",
+        "branch": "main",
+        "enabled": true
+    },
+    "Benjaminnnnnn/product-idea-workbook": {
+        "owner": "Benjaminnnnnn",
+        "name": "product-idea-workbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iart-ai/b-roll-skills": {
+        "owner": "iart-ai",
+        "name": "b-roll-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JKWIS1/openfield": {
+        "owner": "JKWIS1",
+        "name": "openfield",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
