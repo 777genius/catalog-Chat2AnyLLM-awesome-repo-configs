@@ -40303,5 +40303,95 @@
     "repoOwner": "Spectree-Tecnologia",
     "repoName": "spectree-invoker",
     "repoBranch": "main"
+  },
+  "tashfeenahmed/AgentDomains-skill": {
+    "name": "tashfeenahmed/AgentDomains-skill",
+    "description": "Free subdomains under makes.fyi / agentdomains.co, as a Claude Code skill: agents claim a name and set DNS records, auto-HTTPS proxy or forwarding.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tashfeenahmed",
+    "repoName": "AgentDomains-skill",
+    "repoBranch": "main"
+  },
+  "djethino/asymptomatik-claude-plugins": {
+    "name": "djethino/asymptomatik-claude-plugins",
+    "description": "My claude plugins dev",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "djethino",
+    "repoName": "asymptomatik-claude-plugins",
+    "repoBranch": "main"
+  },
+  "michalstrnadel/claude-docket": {
+    "name": "michalstrnadel/claude-docket",
+    "description": "\u25c6 A minimal task board inside Claude Code \u2014 see what Claude is working on, right above the prompt. Survives crashes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "michalstrnadel",
+    "repoName": "claude-docket",
+    "repoBranch": "main"
+  },
+  "clutcher/laminar-skills": {
+    "name": "clutcher/laminar-skills",
+    "description": "Claude Code plugin that reviews code against the 3 qualities of Laminar Software Design: simple to understand and change, correct in behavior, fast enough for its purpose. Each finding names its rule and the code that...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "clutcher",
+    "repoName": "laminar-skills",
+    "repoBranch": "main"
+  },
+  "iudizm/brave-cdp": {
+    "name": "iudizm/brave-cdp",
+    "description": "Claude Code skill: Agents can drive an isolated Brave browser via CDP + Playwright for any web task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iudizm",
+    "repoName": "brave-cdp",
+    "repoBranch": "main"
+  },
+  "immoJUMP/immo-agent-skills": {
+    "name": "immoJUMP/immo-agent-skills",
+    "description": "25+ KI-Skills f\u00fcr den deutschen Immobilienmarkt -- von der Objektpr\u00fcfung bis zur Anlage V. Strukturierte AI-Prompts f\u00fcr Claude, ChatGPT und jedes LLM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "immoJUMP",
+    "repoName": "immo-agent-skills",
+    "repoBranch": "main"
+  },
+  "deserteaglemj/shotproof": {
+    "name": "deserteaglemj/shotproof",
+    "description": "Turn a screenshot into matching HTML/CSS (or React + Tailwind) with Claude Code or Codex. No API key: uses your agent's own model, then renders, scores (SSIM) and fixes until it matches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "deserteaglemj",
+    "repoName": "shotproof",
+    "repoBranch": "main"
+  },
+  "igorsaevets/ai-second-opinion": {
+    "name": "igorsaevets/ai-second-opinion",
+    "description": "A second opinion from a panel of AI models: each trained on different data, in its own harness, so each brings its own advice, plus an UNASKED section for what you did not ask. See where they disagree; catch invented...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "igorsaevets",
+    "repoName": "ai-second-opinion",
+    "repoBranch": "main"
+  },
+  "DiogoMMP/syntraq": {
+    "name": "DiogoMMP/syntraq",
+    "description": "Power up your agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DiogoMMP",
+    "repoName": "syntraq",
+    "repoBranch": "main"
+  },
+  "holarchic/transcribe": {
+    "name": "holarchic/transcribe",
+    "description": "Local video transcription skill for Claude Code and Agent Skills: human subtitles via yt-dlp, else whisper.cpp.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "holarchic",
+    "repoName": "transcribe",
+    "repoBranch": "main"
   }
 }

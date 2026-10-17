@@ -47854,5 +47854,134 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "sfrangulov/claude-code-handbook-ru": {
+        "owner": "sfrangulov",
+        "name": "claude-code-handbook-ru",
+        "branch": "main",
+        "enabled": true
+    },
+    "tashfeenahmed/AgentDomains-skill": {
+        "owner": "tashfeenahmed",
+        "name": "AgentDomains-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "AvatarSD/KiSkill": {
+        "owner": "AvatarSD",
+        "name": "KiSkill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kimon1230/claude_extensions": {
+        "owner": "kimon1230",
+        "name": "claude_extensions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "capsrock/iphone-duo-skill": {
+        "owner": "capsrock",
+        "name": "iphone-duo-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "abdazez01/own-it": {
+        "owner": "abdazez01",
+        "name": "own-it",
+        "branch": "master",
+        "enabled": true
+    },
+    "Alexandre-LPZ/ultracode-cockpit": {
+        "owner": "Alexandre-LPZ",
+        "name": "ultracode-cockpit",
+        "branch": "main",
+        "enabled": true
+    },
+    "previtlab/suno-lyrics-skill": {
+        "owner": "previtlab",
+        "name": "suno-lyrics-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "clutcher/laminar-skills": {
+        "owner": "clutcher",
+        "name": "laminar-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "iudizm/brave-cdp": {
+        "owner": "iudizm",
+        "name": "brave-cdp",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "le0nardomartins/ClaudeMemorySync-Server": {
+        "owner": "le0nardomartins",
+        "name": "ClaudeMemorySync-Server",
+        "branch": "main",
+        "enabled": true
+    },
+    "le0nardomartins/ClaudeMemorySync": {
+        "owner": "le0nardomartins",
+        "name": "ClaudeMemorySync",
+        "branch": "main",
+        "enabled": true
+    },
+    "docsor1212/humanize-ai-text": {
+        "owner": "docsor1212",
+        "name": "humanize-ai-text",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Superfast-Robotics/robot-skill-hub": {
+        "owner": "Superfast-Robotics",
+        "name": "robot-skill-hub",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "immoJUMP/immo-agent-skills": {
+        "owner": "immoJUMP",
+        "name": "immo-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "deserteaglemj/shotproof": {
+        "owner": "deserteaglemj",
+        "name": "shotproof",
+        "branch": "main",
+        "enabled": true
+    },
+    "igorsaevets/ai-second-opinion": {
+        "owner": "igorsaevets",
+        "name": "ai-second-opinion",
+        "branch": "main",
+        "enabled": true
+    },
+    "DiogoMMP/syntraq": {
+        "owner": "DiogoMMP",
+        "name": "syntraq",
+        "branch": "main",
+        "enabled": true
+    },
+    "holarchic/transcribe": {
+        "owner": "holarchic",
+        "name": "transcribe",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varunk130/ai-ecosystem-partnerships": {
+        "owner": "varunk130",
+        "name": "ai-ecosystem-partnerships",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
