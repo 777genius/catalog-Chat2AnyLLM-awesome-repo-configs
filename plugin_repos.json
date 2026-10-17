@@ -40060,5 +40060,140 @@
     "repoOwner": "iart-ai",
     "repoName": "b-roll-skills",
     "repoBranch": "main"
+  },
+  "YeonwooSung/my-claude-code-mods": {
+    "name": "YeonwooSung/my-claude-code-mods",
+    "description": "Custom Claude Code Mods that I need",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YeonwooSung",
+    "repoName": "my-claude-code-mods",
+    "repoBranch": "main"
+  },
+  "theBstar/shipreel": {
+    "name": "theBstar/shipreel",
+    "description": "Turn a pull request into a short narrated walkthrough video. An agent skill: local, free, zero setup on a Mac.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theBstar",
+    "repoName": "shipreel",
+    "repoBranch": "main"
+  },
+  "DipeshPansuriya/agentic-skill-kit": {
+    "name": "DipeshPansuriya/agentic-skill-kit",
+    "description": "Claude Code plugin marketplace: 24 skills for engineering, SQL, performance, refactoring, security, Playwright and work comms.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DipeshPansuriya",
+    "repoName": "agentic-skill-kit",
+    "repoBranch": "main"
+  },
+  "rishichawda/sensei": {
+    "name": "rishichawda/sensei",
+    "description": "Learn anything in Claude Code with a plan you approve first and a check you pass at every step. Looks facts up on the web before it teaches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rishichawda",
+    "repoName": "sensei",
+    "repoBranch": "main"
+  },
+  "awahids/noskill": {
+    "name": "awahids/noskill",
+    "description": "Skill dan agent untuk kerja development seperti tim engineering: tiket dikerjakan developer, dicek reviewer, diuji QA, lalu masuk DONE. Kodenya hanya mengubah yang diminta, memakai ulang yang sudah ada, dan setiap kla...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "awahids",
+    "repoName": "noskill",
+    "repoBranch": "master"
+  },
+  "svd/agent-skills": {
+    "name": "svd/agent-skills",
+    "description": "Claude Code plugins: ctx-guard (context & usage-limit guard with safe auto-restart), session-handoff, session-analyzer, manage-claude-projects",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "svd",
+    "repoName": "agent-skills",
+    "repoBranch": "main"
+  },
+  "KiranPothana/session-board": {
+    "name": "KiranPothana/session-board",
+    "description": "Claude Code mod: every Claude Code session in one floating window, with live summaries of what each is doing and which need you. Mac, Windows and Linux.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KiranPothana",
+    "repoName": "session-board",
+    "repoBranch": "main"
+  },
+  "vibecodedapps-official/reimagine-claude": {
+    "name": "vibecodedapps-official/reimagine-claude",
+    "description": "Four Claude Code plugins: house rules in one block, a ticket-to-pull-request loop, an adversarial audit of finished pull requests, and hub-and-spoke instruction files with a drift hook.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vibecodedapps-official",
+    "repoName": "reimagine-claude",
+    "repoBranch": "main"
+  },
+  "Sotvorenniy/ai-market": {
+    "name": "Sotvorenniy/ai-market",
+    "description": "Claude Code plugin marketplace: engineering standards, review agents and a Spec Driven Development workflow",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sotvorenniy",
+    "repoName": "ai-market",
+    "repoBranch": "main"
+  },
+  "AnnihilationWizard/mods": {
+    "name": "AnnihilationWizard/mods",
+    "description": "A Claude Code plugin marketplace that lists AnnihilationWizard's mods: add it once, then install quiet-diffs, you-should-know-relay and chrome-close.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AnnihilationWizard",
+    "repoName": "mods",
+    "repoBranch": "main"
+  },
+  "FunJim/claude-code-add-to-chat": {
+    "name": "FunJim/claude-code-add-to-chat",
+    "description": "Codex-style Add to chat for Claude Code: annotate any part of a reply, send all annotations at once",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FunJim",
+    "repoName": "claude-code-add-to-chat",
+    "repoBranch": "main"
+  },
+  "piotr-yuxuan/shift-left": {
+    "name": "piotr-yuxuan/shift-left",
+    "description": "Shift left code quality from later review to the moment code is written in LLM harnesses (Claude Code, ChatGPT Codex, Cursor)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "piotr-yuxuan",
+    "repoName": "shift-left",
+    "repoBranch": "main"
+  },
+  "cgraf78/claude-plugins": {
+    "name": "cgraf78/claude-plugins",
+    "description": "Claude Code plugins: a rich status line with git state, model, context %, session cost, and turns",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cgraf78",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "catsby/claude-code-buddy": {
+    "name": "catsby/claude-code-buddy",
+    "description": "The Claude Code Buddy, back above the prompt as a mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "catsby",
+    "repoName": "claude-code-buddy",
+    "repoBranch": "main"
+  },
+  "miskopisko/claude-plugins": {
+    "name": "miskopisko/claude-plugins",
+    "description": "Claude Code plugins (desk, session-stats, \u2026), installable as a plugin marketplace",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "miskopisko",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }

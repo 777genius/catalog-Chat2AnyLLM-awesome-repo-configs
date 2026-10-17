@@ -47664,5 +47664,88 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "theBstar/shipreel": {
+        "owner": "theBstar",
+        "name": "shipreel",
+        "branch": "main",
+        "enabled": true
+    },
+    "SecPlusDev/verified-security-sweep": {
+        "owner": "SecPlusDev",
+        "name": "verified-security-sweep",
+        "branch": "main",
+        "enabled": true
+    },
+    "DipeshPansuriya/agentic-skill-kit": {
+        "owner": "DipeshPansuriya",
+        "name": "agentic-skill-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "tcheeric/clip-and-post": {
+        "owner": "tcheeric",
+        "name": "clip-and-post",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rishichawda/sensei": {
+        "owner": "rishichawda",
+        "name": "sensei",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "awahids/noskill": {
+        "owner": "awahids",
+        "name": "noskill",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "svd/agent-skills": {
+        "owner": "svd",
+        "name": "agent-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "KiranPothana/session-board": {
+        "owner": "KiranPothana",
+        "name": "session-board",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vibecodedapps-official/reimagine-claude": {
+        "owner": "vibecodedapps-official",
+        "name": "reimagine-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sotvorenniy/ai-market": {
+        "owner": "Sotvorenniy",
+        "name": "ai-market",
+        "branch": "main",
+        "enabled": true
+    },
+    "piotr-yuxuan/shift-left": {
+        "owner": "piotr-yuxuan",
+        "name": "shift-left",
+        "branch": "main",
+        "enabled": true
+    },
+    "cgraf78/claude-plugins": {
+        "owner": "cgraf78",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "catsby/claude-code-buddy": {
+        "owner": "catsby",
+        "name": "claude-code-buddy",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
