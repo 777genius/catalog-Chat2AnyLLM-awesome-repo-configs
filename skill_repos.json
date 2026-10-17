@@ -47747,5 +47747,105 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "10291124jcjc-dotcom/ancient-rap-battle": {
+        "owner": "10291124jcjc-dotcom",
+        "name": "ancient-rap-battle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MetcalfSolutions/Satori": {
+        "owner": "MetcalfSolutions",
+        "name": "Satori",
+        "branch": "main",
+        "enabled": true
+    },
+    "devohmycode/skills-atlas": {
+        "owner": "devohmycode",
+        "name": "skills-atlas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Fuenfgeld/pydantic-ai-skills": {
+        "owner": "Fuenfgeld",
+        "name": "pydantic-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vincentventalon/claude-code-video-editing-skill": {
+        "owner": "vincentventalon",
+        "name": "claude-code-video-editing-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "aranculleton/last-job-search": {
+        "owner": "aranculleton",
+        "name": "last-job-search",
+        "branch": "master",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "robert-botto/skipwatch": {
+        "owner": "robert-botto",
+        "name": "skipwatch",
+        "branch": "main",
+        "enabled": true
+    },
+    "LeaveMyYard/herdr-inbox": {
+        "owner": "LeaveMyYard",
+        "name": "herdr-inbox",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rsmed31/docs-studio": {
+        "owner": "rsmed31",
+        "name": "docs-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stefanBid/sb-context-fe": {
+        "owner": "stefanBid",
+        "name": "sb-context-fe",
+        "branch": "main",
+        "enabled": true
+    },
+    "qlheric/xizi-rujin": {
+        "owner": "qlheric",
+        "name": "xizi-rujin",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "exaltedo2/agent-crew": {
+        "owner": "exaltedo2",
+        "name": "agent-crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nadiwerk/trust-no-agent": {
+        "owner": "nadiwerk",
+        "name": "trust-no-agent",
+        "branch": "master",
+        "enabled": true
+    },
+    "Spectree-Tecnologia/spectree-invoker": {
+        "owner": "Spectree-Tecnologia",
+        "name": "spectree-invoker",
+        "branch": "main",
+        "enabled": true
+    },
+    "mabualsoud/loop-board": {
+        "owner": "mabualsoud",
+        "name": "loop-board",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

@@ -40195,5 +40195,104 @@
     "repoOwner": "miskopisko",
     "repoName": "claude-plugins",
     "repoBranch": "main"
+  },
+  "MetcalfSolutions/Satori": {
+    "name": "MetcalfSolutions/Satori",
+    "description": "A Claude skill blending psychology, philosophy, and wisdom traditions into a conversation partner with actual depth. Free, open-source, not a therapist.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MetcalfSolutions",
+    "repoName": "Satori",
+    "repoBranch": "main"
+  },
+  "devohmycode/skills-atlas": {
+    "name": "devohmycode/skills-atlas",
+    "description": "Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "devohmycode",
+    "repoName": "skills-atlas",
+    "repoBranch": "main"
+  },
+  "robert-botto/skipwatch": {
+    "name": "robert-botto/skipwatch",
+    "description": "Paste a video link, get a Claude skill. Turns tutorials on X, YouTube, TikTok, Instagram and Facebook into verified, installed Claude Code skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robert-botto",
+    "repoName": "skipwatch",
+    "repoBranch": "main"
+  },
+  "tojacob03/agentvcr": {
+    "name": "tojacob03/agentvcr",
+    "description": "Replays for AI coding sessions. Turn a Claude Code, Codex, Cursor, Gemini CLI, Qwen Code, Cline, Aider or OpenCode session into one HTML file you can watch, share as a link or embed, or get on every agent PR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tojacob03",
+    "repoName": "agentvcr",
+    "repoBranch": "main"
+  },
+  "LeaveMyYard/herdr-inbox": {
+    "name": "LeaveMyYard/herdr-inbox",
+    "description": "Non-blocking question inbox for Claude Code agents in herdr: agents ask once and keep working, you answer from one popup",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeaveMyYard",
+    "repoName": "herdr-inbox",
+    "repoBranch": "main"
+  },
+  "rsmed31/docs-studio": {
+    "name": "rsmed31/docs-studio",
+    "description": "Living docs for any project, written by Claude Code: animated architecture, flow & sequence diagrams from plain text, pages scanned from your repo on every commit (module graph, git activity, deps, TODOs), a kanban bo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rsmed31",
+    "repoName": "docs-studio",
+    "repoBranch": "main"
+  },
+  "stefanBid/sb-context-fe": {
+    "name": "stefanBid/sb-context-fe",
+    "description": "Claude Code plugin for Nuxt 4 + Tailwind 4 projects in progress: aligns the global style to a fixed structure (optionally from a Claude design), migrates templates, runs health checks and manages the GitHub side. Test...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stefanBid",
+    "repoName": "sb-context-fe",
+    "repoBranch": "main"
+  },
+  "exaltedo2/agent-crew": {
+    "name": "exaltedo2/agent-crew",
+    "description": "A reusable Claude Code agent team: orchestrator + subagents, cost ledger, hooks, and hire/retire/retro skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "exaltedo2",
+    "repoName": "agent-crew",
+    "repoBranch": "main"
+  },
+  "eel-brah/burn-baby-burn": {
+    "name": "eel-brah/burn-baby-burn",
+    "description": "\ud83d\udd25 A Claude Code mod that nags you, with fire, to use your weekly limit before it resets. It adds a status line, toasts that get more frequent as the reset nears, and a /burn command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eel-brah",
+    "repoName": "burn-baby-burn",
+    "repoBranch": "main"
+  },
+  "nadiwerk/trust-no-agent": {
+    "name": "nadiwerk/trust-no-agent",
+    "description": "The trust layer for AI coding agents. Proof over promises every 'done' backed by fresh verification evidence. Disciplines an agent that doesn't trust anyone, including itself.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nadiwerk",
+    "repoName": "trust-no-agent",
+    "repoBranch": "master"
+  },
+  "Spectree-Tecnologia/spectree-invoker": {
+    "name": "Spectree-Tecnologia/spectree-invoker",
+    "description": "Runtime que s\u00f3 aceita como pronto o que um comando provou \u2014 o harness por cima do Claude Code e do OpenAI Codex \u2014 e o squad de agentes de IA que ele executa.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Spectree-Tecnologia",
+    "repoName": "spectree-invoker",
+    "repoBranch": "main"
   }
 }
