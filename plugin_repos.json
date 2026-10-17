@@ -1,4 +1,13 @@
 {
+  "KuudoAI/skills": {
+    "name": "kuudo-skills",
+    "description": "22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability. Built for Kuudo's hosted Amazon Ads and SP-API MCP servers; price, budget, listing, and shipment writes are previewed and wait for explicit approval. Claude Code, Codex, Gemini CLI. PolyForm Shield 1.0.0 (source-available).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KuudoAI",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
   "human-stuff/prodready": {
     "name": "prodready",
     "description": "Takes an app from localhost to production and proves each step: env capture, Docker pack, clean-room verify, migration and backup checks, a deploy manual tested by a fresh agent, deploy, and live checks. Also a 13-area production-readiness check. Claude Code, Codex, Cursor. MIT.",
