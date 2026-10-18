@@ -40465,5 +40465,113 @@
     "repoOwner": "SuruchBoss",
     "repoName": "pilothouse",
     "repoBranch": "main"
+  },
+  "KuiyiGao/deepcrew": {
+    "name": "KuiyiGao/deepcrew",
+    "description": "\ud83e\udd3f The cheapest multi-agent workforce that is actually user-friendly: 7.7x more productive and 50x cheaper compared to your ultracode mode, an intelligent multi-agent swarm of Claude Code agents on DeepSeek or other pr...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "KuiyiGao",
+    "repoName": "deepcrew",
+    "repoBranch": "main"
+  },
+  "rookasrudzianskas/liquid-glass-mac-windows-ios-android": {
+    "name": "rookasrudzianskas/liquid-glass-mac-windows-ios-android",
+    "description": "Native Liquid Glass for iOS, macOS, Android and Windows: refraction, Clear and Regular materials, rim light and elastic motion in SwiftUI + Metal, Jetpack Compose + AGSL and WPF + HLSL, from one optical model.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rookasrudzianskas",
+    "repoName": "liquid-glass-mac-windows-ios-android",
+    "repoBranch": "main"
+  },
+  "vaibhavzapadiya/vz-skills": {
+    "name": "vaibhavzapadiya/vz-skills",
+    "description": "VZ Toolkit: evidence-driven skills, agents and guardrails for Claude Code (plugin marketplace)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vaibhavzapadiya",
+    "repoName": "vz-skills",
+    "repoBranch": "main"
+  },
+  "zeikar/pianoize": {
+    "name": "zeikar/pianoize",
+    "description": "Turn any song into a two-hand piano arrangement, played as falling notes. A Claude Code plugin that runs on your machine.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zeikar",
+    "repoName": "pianoize",
+    "repoBranch": "main"
+  },
+  "enebin/groundwork": {
+    "name": "enebin/groundwork",
+    "description": "Claude Code & Codex plugin: choose your repo's AI coding workflow, verification, architecture, and AI code review once \u2014 agents follow it.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enebin",
+    "repoName": "groundwork",
+    "repoBranch": "main"
+  },
+  "Smartulf123/check-before-you-build": {
+    "name": "Smartulf123/check-before-you-build",
+    "description": "Is this worth building, and what can I build it with? An agent skill that checks your idea against GitHub, skills.sh, MCP registries, npm and Hacker News, then gives a cited verdict and the best repos to build on.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Smartulf123",
+    "repoName": "check-before-you-build",
+    "repoBranch": "main"
+  },
+  "FreekMencke/claude-skills": {
+    "name": "FreekMencke/claude-skills",
+    "description": "Claude Code skills as a plugin marketplace: GitHub roadmaps, parallel subagents, doc and skill audits, tech debt, Angular, SEO and token use",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FreekMencke",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "pogonow/operator-toolkit": {
+    "name": "pogonow/operator-toolkit",
+    "description": "pogonow/operator-toolkit \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pogonow",
+    "repoName": "operator-toolkit",
+    "repoBranch": "main"
+  },
+  "jsahani/already-told-you": {
+    "name": "jsahani/already-told-you",
+    "description": "Stop typing 'I already told you this' to Claude. A free Claude Code plugin that reads your session history, finds what keeps going wrong, writes the fixes (CLAUDE.md rules + skills) and automates the jobs you repeat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jsahani",
+    "repoName": "already-told-you",
+    "repoBranch": "main"
+  },
+  "bogaja/moatbreak": {
+    "name": "bogaja/moatbreak",
+    "description": "Competitor teardown skill for Claude: recon with effort estimate, voice of customer from public reviews, rebuild parity and a new brand with distance check. EU/DACH, English and German.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bogaja",
+    "repoName": "moatbreak",
+    "repoBranch": "main"
+  },
+  "Rebellion1991/be-more-ambitious": {
+    "name": "Rebellion1991/be-more-ambitious",
+    "description": "Claude skill that raises the ambition of any task or prompt: aim at the outcome, work like a top expert, bring in other fields.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rebellion1991",
+    "repoName": "be-more-ambitious",
+    "repoBranch": "main"
+  },
+  "tjgazel/claude-usage-bar": {
+    "name": "tjgazel/claude-usage-bar",
+    "description": "Claude Code mod: a two-line usage bar above the prompt with project and git branch, model and effort, running subagents, context, 5-hour and weekly limits, cost and tokens. Windows and Linux.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tjgazel",
+    "repoName": "claude-usage-bar",
+    "repoBranch": "main"
   }
 }

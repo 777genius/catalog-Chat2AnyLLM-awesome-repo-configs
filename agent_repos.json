@@ -6393,5 +6393,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "zeikar/pianoize": {
+    "owner": "zeikar",
+    "name": "pianoize",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

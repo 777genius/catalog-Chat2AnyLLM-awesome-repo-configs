@@ -48123,5 +48123,115 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "KuiyiGao/deepcrew": {
+        "owner": "KuiyiGao",
+        "name": "deepcrew",
+        "branch": "main",
+        "enabled": true
+    },
+    "omaromar9091/Security-Analyst": {
+        "owner": "omaromar9091",
+        "name": "Security-Analyst",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nuttkku/MFA-example-coding": {
+        "owner": "nuttkku",
+        "name": "MFA-example-coding",
+        "branch": "main",
+        "enabled": true
+    },
+    "rookasrudzianskas/liquid-glass-mac-windows-ios-android": {
+        "owner": "rookasrudzianskas",
+        "name": "liquid-glass-mac-windows-ios-android",
+        "branch": "main",
+        "enabled": true
+    },
+    "vaibhavzapadiya/vz-skills": {
+        "owner": "vaibhavzapadiya",
+        "name": "vz-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "zeikar/pianoize": {
+        "owner": "zeikar",
+        "name": "pianoize",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "enebin/groundwork": {
+        "owner": "enebin",
+        "name": "groundwork",
+        "branch": "main",
+        "enabled": true
+    },
+    "Smartulf123/check-before-you-build": {
+        "owner": "Smartulf123",
+        "name": "check-before-you-build",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Scorpio-meow/Threads-skill": {
+        "owner": "Scorpio-meow",
+        "name": "Threads-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "FreekMencke/claude-skills": {
+        "owner": "FreekMencke",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "pogonow/operator-toolkit": {
+        "owner": "pogonow",
+        "name": "operator-toolkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "jsahani/already-told-you": {
+        "owner": "jsahani",
+        "name": "already-told-you",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lijianhui1405/inkroom": {
+        "owner": "lijianhui1405",
+        "name": "inkroom",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bogaja/moatbreak": {
+        "owner": "bogaja",
+        "name": "moatbreak",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Dakaric/claude-leitstelle": {
+        "owner": "Dakaric",
+        "name": "claude-leitstelle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Rebellion1991/be-more-ambitious": {
+        "owner": "Rebellion1991",
+        "name": "be-more-ambitious",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "max1874/skills": {
+        "owner": "max1874",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
     }
 }
