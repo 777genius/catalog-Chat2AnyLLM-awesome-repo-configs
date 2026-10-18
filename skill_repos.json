@@ -1,4 +1,10 @@
 {
+    "Keith-CY/sketchbook-style": {
+        "owner": "Keith-CY",
+        "name": "sketchbook-style",
+        "branch": "main",
+        "enabled": true
+    },
     "KuudoAI/skills": {
         "owner": "KuudoAI",
         "name": "skills",
