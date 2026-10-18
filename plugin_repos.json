@@ -40699,5 +40699,122 @@
     "repoOwner": "phantanphatdgteam-gif",
     "repoName": "snagon-dev-mods",
     "repoBranch": "main"
+  },
+  "lunati228/CLI-Subagents": {
+    "name": "lunati228/CLI-Subagents",
+    "description": "Give your coding agent subagents in your other agent CLIs and accounts, all sharing the same tools. Plugin for Claude Code, Codex and Antigravity; MCP server for any other client.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lunati228",
+    "repoName": "CLI-Subagents",
+    "repoBranch": "main"
+  },
+  "kl-autonomous/agent-team-skills": {
+    "name": "kl-autonomous/agent-team-skills",
+    "description": "Two Claude Code skills for running a team of Claude sessions: a chief-of-staff session between you and the team, and an owner desk for everything only you can decide or do.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kl-autonomous",
+    "repoName": "agent-team-skills",
+    "repoBranch": "main"
+  },
+  "zjeanero/vitrine-skill": {
+    "name": "zjeanero/vitrine-skill",
+    "description": "Seu site \u00e9 a vitrine. Ela precisa ter a sua cara. Skill para o Claude Code que cria sites, landing pages e portf\u00f3lios com personalidade (pt-BR)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zjeanero",
+    "repoName": "vitrine-skill",
+    "repoBranch": "main"
+  },
+  "MegumiinUwU/Dossier-Design-Skill-Creating-Visually-Stunning-PDFs": {
+    "name": "MegumiinUwU/Dossier-Design-Skill-Creating-Visually-Stunning-PDFs",
+    "description": "A personal skill I use constantly, now published. Turns research into PDFs that look commissioned: a dark cover whose palette and geometric motif come from the subject, then dense editorial body pages. Installs as a C...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MegumiinUwU",
+    "repoName": "Dossier-Design-Skill-Creating-Visually-Stunning-PDFs",
+    "repoBranch": "main"
+  },
+  "kadenkobashigawa/kstack": {
+    "name": "kadenkobashigawa/kstack",
+    "description": "A Claude Code skill set that builds, reviews and cleans a project, plus the Robovac Mac app. Built on pstack. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kadenkobashigawa",
+    "repoName": "kstack",
+    "repoBranch": "main"
+  },
+  "arifshariati/sdlckit": {
+    "name": "arifshariati/sdlckit",
+    "description": "Claude Code plugins for a structured SDLC: quality gates, expert reviewers, and an AI delivery team that turns feature requests into reviewed PRs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arifshariati",
+    "repoName": "sdlckit",
+    "repoBranch": "main"
+  },
+  "HarzerHeribert/claude-modpack": {
+    "name": "HarzerHeribert/claude-modpack",
+    "description": "Eight Claude Code mods, each measured on real tasks before it shipped, built to work together",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HarzerHeribert",
+    "repoName": "claude-modpack",
+    "repoBranch": "main"
+  },
+  "wrocpp/claude-marketplace": {
+    "name": "wrocpp/claude-marketplace",
+    "description": "Wro.cpp marketplace for Claude Code: plugins that help write C++ you would be happy to maintain",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wrocpp",
+    "repoName": "claude-marketplace",
+    "repoBranch": "main"
+  },
+  "okanerturan/claude-plugins": {
+    "name": "okanerturan/claude-plugins",
+    "description": "Claude Code plugins and agent skills: file organization, repo health audits, human-sounding writing. Install with npx skills or /plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "okanerturan",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "ayers-software-repair/marketplace": {
+    "name": "ayers-software-repair/marketplace",
+    "description": "Claude Code plugins from Ayers Electronics.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ayers-software-repair",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "matthewprice/otto": {
+    "name": "matthewprice/otto",
+    "description": "Ops layer for Claude agentic workflows: did each run happen, did it deliver, what did it cost. Paces 5-hour, weekly and API-credit limits, audits context tax, measures every change. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matthewprice",
+    "repoName": "otto",
+    "repoBranch": "main"
+  },
+  "itsomidho/claude-plugins": {
+    "name": "itsomidho/claude-plugins",
+    "description": "Claude Code plugin marketplace: clawd-statusbar, clawd-tasks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "itsomidho",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "anhermon/pstack-claude": {
+    "name": "anhermon/pstack-claude",
+    "description": "poteto's pstack (cursor/plugins) ported to Claude Code: poteto-mode, 23 playbooks, how/why/arena/swarm/interrogate, and engineering principles as a Claude Code plugin + marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anhermon",
+    "repoName": "pstack-claude",
+    "repoBranch": "main"
   }
 }

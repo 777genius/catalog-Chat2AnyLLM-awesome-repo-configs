@@ -48339,5 +48339,89 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "lunati228/CLI-Subagents": {
+        "owner": "lunati228",
+        "name": "CLI-Subagents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kl-autonomous/agent-team-skills": {
+        "owner": "kl-autonomous",
+        "name": "agent-team-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zjeanero/vitrine-skill": {
+        "owner": "zjeanero",
+        "name": "vitrine-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "MegumiinUwU/Dossier-Design-Skill-Creating-Visually-Stunning-PDFs": {
+        "owner": "MegumiinUwU",
+        "name": "Dossier-Design-Skill-Creating-Visually-Stunning-PDFs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hamza928505/GJUYearKit": {
+        "owner": "Hamza928505",
+        "name": "GJUYearKit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "kadenkobashigawa/kstack": {
+        "owner": "kadenkobashigawa",
+        "name": "kstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "salvatejero/myclaude-skills": {
+        "owner": "salvatejero",
+        "name": "myclaude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "arifshariati/sdlckit": {
+        "owner": "arifshariati",
+        "name": "sdlckit",
+        "branch": "main",
+        "enabled": true
+    },
+    "HarzerHeribert/claude-modpack": {
+        "owner": "HarzerHeribert",
+        "name": "claude-modpack",
+        "branch": "main",
+        "enabled": true
+    },
+    "wrocpp/claude-marketplace": {
+        "owner": "wrocpp",
+        "name": "claude-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "okanerturan/claude-plugins": {
+        "owner": "okanerturan",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "matthewprice/otto": {
+        "owner": "matthewprice",
+        "name": "otto",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anhermon/pstack-claude": {
+        "owner": "anhermon",
+        "name": "pstack-claude",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

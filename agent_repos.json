@@ -6421,5 +6421,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "lunati228/CLI-Subagents": {
+    "owner": "lunati228",
+    "name": "CLI-Subagents",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kadenkobashigawa/kstack": {
+    "owner": "kadenkobashigawa",
+    "name": "kstack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "matthewprice/otto": {
+    "owner": "matthewprice",
+    "name": "otto",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "anhermon/pstack-claude": {
+    "owner": "anhermon",
+    "name": "pstack-claude",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
