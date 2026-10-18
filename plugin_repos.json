@@ -40393,5 +40393,77 @@
     "repoOwner": "holarchic",
     "repoName": "transcribe",
     "repoBranch": "main"
+  },
+  "Adityaraj0421/naksha-studio": {
+    "name": "Adityaraj0421/naksha-studio",
+    "description": "A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot \u2014 26 roles, 62 commands, 15,000+ lines of expert design knowledge. Your agency's design brain, inside your terminal.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Adityaraj0421",
+    "repoName": "naksha-studio",
+    "repoBranch": "main"
+  },
+  "AftabIbrahimKazi/ai-dev-kit": {
+    "name": "AftabIbrahimKazi/ai-dev-kit",
+    "description": "Agent skills (SKILL.md), layered coding standards, a project-wide code audit and optional free/local MCP servers for AI-assisted development: Claude Code, OpenCode, Codex and any agent that reads markdown.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AftabIbrahimKazi",
+    "repoName": "ai-dev-kit",
+    "repoBranch": "main"
+  },
+  "EdelmarSchneider/permark": {
+    "name": "EdelmarSchneider/permark",
+    "description": "\ud83d\udd16 Read what your AI writes. Write what it reads. A free, open-source Markdown app for Windows, macOS and Linux: open any .md as a clean page, keep notes that save themselves, and follow, review and steer what your AI...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EdelmarSchneider",
+    "repoName": "permark",
+    "repoBranch": "develop"
+  },
+  "Sagargupta16/orrery": {
+    "name": "Sagargupta16/orrery",
+    "description": "Animated architecture and system design diagrams with official AWS, Azure, Google Cloud, Kubernetes, GitHub and IBM icons. YAML in; SVG, PNG, draw.io, React TSX and HTML out. An Agent Skill and Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sagargupta16",
+    "repoName": "orrery",
+    "repoBranch": "main"
+  },
+  "m4cd4r4/clear-resume": {
+    "name": "m4cd4r4/clear-resume",
+    "description": "A free, open-source plugin for Claude Code. Before you /clear, Claude writes a short handover you can read and edit, and the next session carries on from it. Back after the prompt cache expired: US$1.56 cold, US$0.15...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m4cd4r4",
+    "repoName": "clear-resume",
+    "repoBranch": "main"
+  },
+  "mohiddin7/resume-tribunal": {
+    "name": "mohiddin7/resume-tribunal",
+    "description": "Tailor your resume to a job description with AI, reviewed blind by an AI from a different company. ATS-safe, built from your own facts. Free Agent Skill (SKILL.md) for Claude, Codex, Gemini, Cursor and Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mohiddin7",
+    "repoName": "resume-tribunal",
+    "repoBranch": "main"
+  },
+  "rocosen/flashdata-mcp": {
+    "name": "rocosen/flashdata-mcp",
+    "description": "Official FlashData MCP server for Google Search, YouTube data, and media downloads.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rocosen",
+    "repoName": "flashdata-mcp",
+    "repoBranch": "main"
+  },
+  "SuruchBoss/pilothouse": {
+    "name": "SuruchBoss/pilothouse",
+    "description": "Claude Code skill that runs several sessions as one team with fixed roles. A team lead turns your plain words into work orders; you keep every merge decision.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SuruchBoss",
+    "repoName": "pilothouse",
+    "repoBranch": "main"
   }
 }

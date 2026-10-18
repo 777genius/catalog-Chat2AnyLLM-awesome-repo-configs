@@ -47983,5 +47983,139 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Adityaraj0421/naksha-studio": {
+        "owner": "Adityaraj0421",
+        "name": "naksha-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "UnderleveledBuilder/awesome-short-drama-skills": {
+        "owner": "UnderleveledBuilder",
+        "name": "awesome-short-drama-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/xiaohongshu-copywriter-skill": {
+        "owner": "beatra-ai",
+        "name": "xiaohongshu-copywriter-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/xiaohongshu-cover-maker-skill": {
+        "owner": "beatra-ai",
+        "name": "xiaohongshu-cover-maker-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/wechat-article-cover-skill": {
+        "owner": "beatra-ai",
+        "name": "wechat-article-cover-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-storyboard-generator-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-storyboard-generator-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-image-realism-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-image-realism-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-audiobook-generator-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-audiobook-generator-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EdelmarSchneider/permark": {
+        "owner": "EdelmarSchneider",
+        "name": "permark",
+        "branch": "develop",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Plastikelectrik/skill-auditor": {
+        "owner": "Plastikelectrik",
+        "name": "skill-auditor",
+        "branch": "main",
+        "enabled": true
+    },
+    "minhhoangho/idea-to-video-skill": {
+        "owner": "minhhoangho",
+        "name": "idea-to-video-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sagargupta16/orrery": {
+        "owner": "Sagargupta16",
+        "name": "orrery",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "m4cd4r4/clear-resume": {
+        "owner": "m4cd4r4",
+        "name": "clear-resume",
+        "branch": "main",
+        "enabled": true
+    },
+    "mohiddin7/resume-tribunal": {
+        "owner": "mohiddin7",
+        "name": "resume-tribunal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rocosen/flashdata-mcp": {
+        "owner": "rocosen",
+        "name": "flashdata-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "noqt/yumi-decision-ledger": {
+        "owner": "noqt",
+        "name": "yumi-decision-ledger",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SuruchBoss/pilothouse": {
+        "owner": "SuruchBoss",
+        "name": "pilothouse",
+        "branch": "main",
+        "enabled": true
+    },
+    "shadowandy/primary-school-teacher": {
+        "owner": "shadowandy",
+        "name": "primary-school-teacher",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "akhilvarier2000/youtube-summarizer": {
+        "owner": "akhilvarier2000",
+        "name": "youtube-summarizer",
+        "branch": "main",
+        "enabled": true
+    },
+    "tutul/blogger-mcp": {
+        "owner": "tutul",
+        "name": "blogger-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -6379,5 +6379,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Adityaraj0421/naksha-studio": {
+    "owner": "Adityaraj0421",
+    "name": "naksha-studio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Sagargupta16/orrery": {
+    "owner": "Sagargupta16",
+    "name": "orrery",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
