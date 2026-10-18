@@ -6400,5 +6400,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "matheus-rib1108/meu-kit-claude-code": {
+    "owner": "matheus-rib1108",
+    "name": "meu-kit-claude-code",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "JonathanBeck1/claude-studio-toolkit": {
+    "owner": "JonathanBeck1",
+    "name": "claude-studio-toolkit",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "phantanphatdgteam-gif/snagon-dev-mods": {
+    "owner": "phantanphatdgteam-gif",
+    "name": "snagon-dev-mods",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

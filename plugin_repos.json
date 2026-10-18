@@ -40573,5 +40573,131 @@
     "repoOwner": "tjgazel",
     "repoName": "claude-usage-bar",
     "repoBranch": "main"
+  },
+  "MarvelCollin/ClaudeDeck": {
+    "name": "MarvelCollin/ClaudeDeck",
+    "description": "A Claude mod for Claude Desktop and Claude Code: switch Claude accounts in place, see live usage per account, and auto switch to the account whose weekly quota runs out first.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MarvelCollin",
+    "repoName": "ClaudeDeck",
+    "repoBranch": "main"
+  },
+  "maturada/gh-prs-monitor": {
+    "name": "maturada/gh-prs-monitor",
+    "description": "Claude Code plugin for your GitHub pull requests: the PRs you opened and those waiting on your review, in a pane sorted by what needs you. Alerts for failing CI, reviews, comments and conflicts; one-press merge, updat...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maturada",
+    "repoName": "gh-prs-monitor",
+    "repoBranch": "main"
+  },
+  "gottsohn/appstore-screenshots": {
+    "name": "gottsohn/appstore-screenshots",
+    "description": "gottsohn/appstore-screenshots \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gottsohn",
+    "repoName": "appstore-screenshots",
+    "repoBranch": "main"
+  },
+  "eukosh/youtube-kit": {
+    "name": "eukosh/youtube-kit",
+    "description": "YouTube CLI (ytk) and MCP built for agents and humans",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eukosh",
+    "repoName": "youtube-kit",
+    "repoBranch": "main"
+  },
+  "matheus-rib1108/meu-kit-claude-code": {
+    "name": "matheus-rib1108/meu-kit-claude-code",
+    "description": "Meu kit do Claude Code: skills, agentes, plugins e conectores MCP, em portugu\u00eas, que se atualiza sozinho",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "matheus-rib1108",
+    "repoName": "meu-kit-claude-code",
+    "repoBranch": "main"
+  },
+  "JonathanBeck1/claude-studio-toolkit": {
+    "name": "JonathanBeck1/claude-studio-toolkit",
+    "description": "Claude Code plugin for building premium sites on the ether WebGL engine: skills, audits, hooks, and a review agent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JonathanBeck1",
+    "repoName": "claude-studio-toolkit",
+    "repoBranch": "master"
+  },
+  "asteria-jacky/skills": {
+    "name": "asteria-jacky/skills",
+    "description": "Claude Code skills for refactoring toward ubiquitous language and deep modules.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "asteria-jacky",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "gravityXX/aside": {
+    "name": "gravityXX/aside",
+    "description": "A prompt queue for Claude Code. Queue prompts, ideas and comments while Claude works, without interrupting it, and send them once it finishes or whenever you are ready.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gravityXX",
+    "repoName": "aside",
+    "repoBranch": "main"
+  },
+  "tomregan-revenueleaks/artemis-gtm-plugins-community": {
+    "name": "tomregan-revenueleaks/artemis-gtm-plugins-community",
+    "description": "Artemis GTM - free B2B GTM diagnostic agents for Claude Code (community / affiliate-free edition).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomregan-revenueleaks",
+    "repoName": "artemis-gtm-plugins-community",
+    "repoBranch": "main"
+  },
+  "tomregan-revenueleaks/artemis-gtm-plugins": {
+    "name": "tomregan-revenueleaks/artemis-gtm-plugins",
+    "description": "Claude Code plugin marketplace for GTM agents. Two are free: audit your funnel, price each leak.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomregan-revenueleaks",
+    "repoName": "artemis-gtm-plugins",
+    "repoBranch": "main"
+  },
+  "ExtReMLapin/tqdm-claude": {
+    "name": "ExtReMLapin/tqdm-claude",
+    "description": "Claude Code mod: live tqdm-style progress bars above the prompt for background tasks and subagents, with crash and stall detection.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ExtReMLapin",
+    "repoName": "tqdm-claude",
+    "repoBranch": "main"
+  },
+  "mordor-forge/claude-plugins": {
+    "name": "mordor-forge/claude-plugins",
+    "description": "Claude Code plugin marketplace for mordor-forge: gemini-media (Gemini images, video, speech, music) and trident (Tripo 3D)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mordor-forge",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "stephanhuez-wh/loadout-for-claude-code": {
+    "name": "stephanhuez-wh/loadout-for-claude-code",
+    "description": "Clean, per-project Claude Code environments. Unofficial.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stephanhuez-wh",
+    "repoName": "loadout-for-claude-code",
+    "repoBranch": "main"
+  },
+  "phantanphatdgteam-gif/snagon-dev-mods": {
+    "name": "phantanphatdgteam-gif/snagon-dev-mods",
+    "description": "Coding-agent harness mod for Claude Code: project memory, safety gate, journal and handoff, setup interview, plus skills, agents and commands.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phantanphatdgteam-gif",
+    "repoName": "snagon-dev-mods",
+    "repoBranch": "main"
   }
 }
