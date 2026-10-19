@@ -48669,5 +48669,12 @@
         "name": "gh-pms",
         "branch": "main",
         "enabled": true
+    },
+    "IgorVaryvoda/image-optimization-skill": {
+        "owner": "IgorVaryvoda",
+        "name": "image-optimization-skill",
+        "branch": "main",
+        "enabled": true,
+        "skillsPath": "skills"
     }
 }

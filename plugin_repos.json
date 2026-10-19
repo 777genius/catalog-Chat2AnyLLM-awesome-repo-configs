@@ -40996,5 +40996,14 @@
     "repoOwner": "fadymondy",
     "repoName": "gh-pms",
     "repoBranch": "main"
+  },
+  "IgorVaryvoda/image-optimization-skill": {
+    "name": "IgorVaryvoda/image-optimization-skill",
+    "description": "Image and video optimization for web performance, plus Sirv dynamic imaging, REST API, Media Viewer, 360 spins, AI Studio, and e-commerce image workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "IgorVaryvoda",
+    "repoName": "image-optimization-skill",
+    "repoBranch": "main"
   }
 }
