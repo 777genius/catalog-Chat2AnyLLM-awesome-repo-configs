@@ -48848,5 +48848,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "founden-bot/yap-mcp": {
+        "owner": "founden-bot",
+        "name": "yap-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
