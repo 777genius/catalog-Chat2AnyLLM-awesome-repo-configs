@@ -37658,15 +37658,6 @@
     "repoName": "sw-guardrails",
     "repoBranch": "main"
   },
-  "waynehamadi/datacircle-plugin": {
-    "name": "datacircle",
-    "description": "Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Right now we have 3 live LinkedIn profile APIs that we trust: Up2Data, HarvestAPI and Fetchin.",
-    "enabled": true,
-    "type": "marketplace",
-    "repoOwner": "waynehamadi",
-    "repoName": "datacircle-plugin",
-    "repoBranch": "main"
-  },
   "iamumeransari/claude-show-your-work": {
     "name": "show-your-work",
     "description": "Claude shows its finished work inline in the terminal: screenshots, Playwright recordings of it clicking through your app, and synced side-by-side before/after QA.",
