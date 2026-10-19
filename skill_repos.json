@@ -48676,5 +48676,177 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "skills"
+    },
+    "metalbear-co/skills": {
+        "owner": "metalbear-co",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pezhik/skilltotal": {
+        "owner": "pezhik",
+        "name": "skilltotal",
+        "branch": "main",
+        "enabled": true
+    },
+    "VenusOne-Lee/popia-compliance": {
+        "owner": "VenusOne-Lee",
+        "name": "popia-compliance",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mrKanoh/wcag-accessibility-audit-skill": {
+        "owner": "mrKanoh",
+        "name": "wcag-accessibility-audit-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "vincentventalon/my-claude-skills": {
+        "owner": "vincentventalon",
+        "name": "my-claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "layoza/layoza": {
+        "owner": "layoza",
+        "name": "layoza",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tpc-pascal/agent-skills": {
+        "owner": "tpc-pascal",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RZ-Logic/clean-thumbnail-skill": {
+        "owner": "RZ-Logic",
+        "name": "clean-thumbnail-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "omnigami-ai/ui-morph": {
+        "owner": "omnigami-ai",
+        "name": "ui-morph",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/typed-promise": {
+        "owner": "omnigami-ai",
+        "name": "typed-promise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/struck-hook": {
+        "owner": "omnigami-ai",
+        "name": "struck-hook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/product-reel": {
+        "owner": "omnigami-ai",
+        "name": "product-reel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/product-film": {
+        "owner": "omnigami-ai",
+        "name": "product-film",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/milestone": {
+        "owner": "omnigami-ai",
+        "name": "milestone",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/language-launch": {
+        "owner": "omnigami-ai",
+        "name": "language-launch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/illustrated-ad": {
+        "owner": "omnigami-ai",
+        "name": "illustrated-ad",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/end-card": {
+        "owner": "omnigami-ai",
+        "name": "end-card",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/cursor-camera": {
+        "owner": "omnigami-ai",
+        "name": "cursor-camera",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/chat-launch": {
+        "owner": "omnigami-ai",
+        "name": "chat-launch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/app-store-preview": {
+        "owner": "omnigami-ai",
+        "name": "app-store-preview",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/whats-new": {
+        "owner": "omnigami-ai",
+        "name": "whats-new",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "omnigami-ai/unfold": {
+        "owner": "omnigami-ai",
+        "name": "unfold",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Srcanesen/grillboard": {
+        "owner": "Srcanesen",
+        "name": "grillboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robsonvleite/agv-execute": {
+        "owner": "robsonvleite",
+        "name": "agv-execute",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gretchenfitze/anti-slop": {
+        "owner": "gretchenfitze",
+        "name": "anti-slop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

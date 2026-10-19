@@ -41005,5 +41005,50 @@
     "repoOwner": "IgorVaryvoda",
     "repoName": "image-optimization-skill",
     "repoBranch": "main"
+  },
+  "metalbear-co/skills": {
+    "name": "metalbear-co/skills",
+    "description": "MetalBear Skills for our users",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "metalbear-co",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "pezhik/skilltotal": {
+    "name": "pezhik/skilltotal",
+    "description": "Static security scanner for npm/PyPI packages, MCP servers, agent skills and repos. Runs locally, never runs the code, no LLM. CLI, Claude Code plugin, Action.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pezhik",
+    "repoName": "skilltotal",
+    "repoBranch": "main"
+  },
+  "vincentventalon/my-claude-skills": {
+    "name": "vincentventalon/my-claude-skills",
+    "description": "Les skills Claude Code que j'utilise vraiment sur mes sites et mes vid\u00e9os, une nouvelle chaque mardi (montage vid\u00e9o, SEO Search Console\u2026)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vincentventalon",
+    "repoName": "my-claude-skills",
+    "repoBranch": "main"
+  },
+  "JNevermind/goldfished": {
+    "name": "JNevermind/goldfished",
+    "description": "Your goal and rules, handed back to your coding agent when it compacts. Plus a free offline count of what survived.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JNevermind",
+    "repoName": "goldfished",
+    "repoBranch": "main"
+  },
+  "gretchenfitze/anti-slop": {
+    "name": "gretchenfitze/anti-slop",
+    "description": "Agent skills that keep AI-written TypeScript and React code in check: measure which anti-slop checks a repo needs (strict tsc, sonarjs, knip, jscpd, react-doctor, Stryker, CI gates), plan them as small PRs, and roll t...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gretchenfitze",
+    "repoName": "anti-slop",
+    "repoBranch": "main"
   }
 }
