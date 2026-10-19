@@ -48423,5 +48423,143 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "webkubor/deadcode-reaper-skill": {
+        "owner": "webkubor",
+        "name": "deadcode-reaper-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "webkubor/charmoji-sticker-skill": {
+        "owner": "webkubor",
+        "name": "charmoji-sticker-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "webkubor/writing-standard-skills": {
+        "owner": "webkubor",
+        "name": "writing-standard-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eeeemune/claude-code-sdd": {
+        "owner": "eeeemune",
+        "name": "claude-code-sdd",
+        "branch": "main",
+        "enabled": true
+    },
+    "ghiaog123/ai-native-sdlc": {
+        "owner": "ghiaog123",
+        "name": "ai-native-sdlc",
+        "branch": "main",
+        "enabled": true
+    },
+    "sajor2000/methodsmith": {
+        "owner": "sajor2000",
+        "name": "methodsmith",
+        "branch": "main",
+        "enabled": true
+    },
+    "Melvynx/ai-maxxing-skills": {
+        "owner": "Melvynx",
+        "name": "ai-maxxing-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "betayyang/agent-habit-distiller": {
+        "owner": "betayyang",
+        "name": "agent-habit-distiller",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "thinhledev/simem": {
+        "owner": "thinhledev",
+        "name": "simem",
+        "branch": "master",
+        "enabled": true
+    },
+    "zecalis/fael-crew": {
+        "owner": "zecalis",
+        "name": "fael-crew",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "congthien2003/sb-kit": {
+        "owner": "congthien2003",
+        "name": "sb-kit",
+        "branch": "master",
+        "enabled": true
+    },
+    "raazi29/gridkeeper": {
+        "owner": "raazi29",
+        "name": "gridkeeper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andyed/wunderkammer": {
+        "owner": "andyed",
+        "name": "wunderkammer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "isamu/lab": {
+        "owner": "isamu",
+        "name": "lab",
+        "branch": "main",
+        "enabled": true
+    },
+    "myzticbean/minecraft-elite-builder-skill": {
+        "owner": "myzticbean",
+        "name": "minecraft-elite-builder-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ledtorch/coding-agent-workflow": {
+        "owner": "ledtorch",
+        "name": "coding-agent-workflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arm-pz/do-better": {
+        "owner": "arm-pz",
+        "name": "do-better",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jeanamaralsilva/skills": {
+        "owner": "jeanamaralsilva",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "arm-pz/application-pilot": {
+        "owner": "arm-pz",
+        "name": "application-pilot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sovoyf999/workbuddy-powerkit": {
+        "owner": "sovoyf999",
+        "name": "workbuddy-powerkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "twelfth-ai/twelfth-mcp": {
+        "owner": "twelfth-ai",
+        "name": "twelfth-mcp",
+        "branch": "main",
+        "enabled": true
     }
 }

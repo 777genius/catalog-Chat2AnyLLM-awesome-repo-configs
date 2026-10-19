@@ -40807,5 +40807,86 @@
     "repoOwner": "anhermon",
     "repoName": "pstack-claude",
     "repoBranch": "main"
+  },
+  "eeeemune/claude-code-sdd": {
+    "name": "eeeemune/claude-code-sdd",
+    "description": "Claude Code plugin for writing, reviewing and publishing Software Design Descriptions (IEEE 1016), one section at a time",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eeeemune",
+    "repoName": "claude-code-sdd",
+    "repoBranch": "main"
+  },
+  "ghiaog123/ai-native-sdlc": {
+    "name": "ghiaog123/ai-native-sdlc",
+    "description": "An AI-native SDLC as a Claude Code and Codex plugin: six stages, one committed Markdown artifact each, a human gate at every handoff. Implements Anthropic's AI-Native SDLC playbook.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ghiaog123",
+    "repoName": "ai-native-sdlc",
+    "repoBranch": "main"
+  },
+  "sajor2000/methodsmith": {
+    "name": "sajor2000/methodsmith",
+    "description": "Rigorous methods for statistics, machine learning and meta-analysis, from question to paper. A plugin for Claude Code and Codex: you make the scientific decisions, it plans, runs and reviews the work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sajor2000",
+    "repoName": "methodsmith",
+    "repoBranch": "main"
+  },
+  "thinhledev/simem": {
+    "name": "thinhledev/simem",
+    "description": "simem \u2014 Super Intelligence Memory for AI coding agents. Local project memory shared across Claude Code, Codex and Cursor (every account, every worktree), and fewer tokens per session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "thinhledev",
+    "repoName": "simem",
+    "repoBranch": "master"
+  },
+  "raazi29/gridkeeper": {
+    "name": "raazi29/gridkeeper",
+    "description": "Gridkeeper \u2014 every agent in one grid. GPU-accelerated, Windows-native multi-agent terminal workspace (Tauri 2 + Rust + React + xterm.js).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "raazi29",
+    "repoName": "gridkeeper",
+    "repoBranch": "main"
+  },
+  "isamu/lab": {
+    "name": "isamu/lab",
+    "description": "chaff: a prose linter for English and Japanese that finds what makes writing hard to read and never rewrites it. Runs as a CLI or as a Claude Code skill. Also scoria, a code quality assay for TypeScript.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "isamu",
+    "repoName": "lab",
+    "repoBranch": "main"
+  },
+  "myzticbean/minecraft-elite-builder-skill": {
+    "name": "myzticbean/minecraft-elite-builder-skill",
+    "description": "Claude Code skill and plugin marketplace: Claude designs Minecraft builds in Python, checks them by numbers and renders, and exports a .schem for WorldEdit/FAWE.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "myzticbean",
+    "repoName": "minecraft-elite-builder-skill",
+    "repoBranch": "main"
+  },
+  "jeanamaralsilva/skills": {
+    "name": "jeanamaralsilva/skills",
+    "description": "Agent skills that review UX, dependencies, code and tests of mobile apps. Every data row has a source.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jeanamaralsilva",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "twelfth-ai/twelfth-mcp": {
+    "name": "twelfth-ai/twelfth-mcp",
+    "description": "Connect Claude, ChatGPT, GitHub Copilot, Cursor, Gemini and other AI assistants to your Twelfth retail workspace over MCP (hosted, OAuth, reads by default, changes opt-in). Plus 8 Agent Skills for category work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "twelfth-ai",
+    "repoName": "twelfth-mcp",
+    "repoBranch": "main"
   }
 }
