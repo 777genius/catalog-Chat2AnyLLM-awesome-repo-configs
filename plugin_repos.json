@@ -41050,5 +41050,14 @@
     "repoOwner": "gretchenfitze",
     "repoName": "anti-slop",
     "repoBranch": "main"
+  },
+  "founden-bot/yap-mcp": {
+    "name": "founden-bot/yap-mcp",
+    "description": "Private, on-device speech to text: transcribe local audio and video files and search your Yap dictations. No upload, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "founden-bot",
+    "repoName": "yap-mcp",
+    "repoBranch": "main"
   }
 }
