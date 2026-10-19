@@ -6449,5 +6449,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "nickyjacobs/DutchQuill-AI": {
+    "owner": "nickyjacobs",
+    "name": "DutchQuill-AI",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ashlrai/ashlr-plugin": {
+    "owner": "ashlrai",
+    "name": "ashlr-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "enekesabel/dev-flow": {
+    "owner": "enekesabel",
+    "name": "dev-flow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

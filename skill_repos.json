@@ -48561,5 +48561,113 @@
         "name": "twelfth-mcp",
         "branch": "main",
         "enabled": true
+    },
+    "eater2/homerenovationfreetools": {
+        "owner": "eater2",
+        "name": "homerenovationfreetools",
+        "branch": "main",
+        "enabled": true
+    },
+    "Ekos-Labs/skills": {
+        "owner": "Ekos-Labs",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nickyjacobs/DutchQuill-AI": {
+        "owner": "nickyjacobs",
+        "name": "DutchQuill-AI",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "sshah03/teach-me": {
+        "owner": "sshah03",
+        "name": "teach-me",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ashlrai/ashlr-plugin": {
+        "owner": "ashlrai",
+        "name": "ashlr-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hariFED/howitworks": {
+        "owner": "hariFED",
+        "name": "howitworks",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "enekesabel/dev-flow": {
+        "owner": "enekesabel",
+        "name": "dev-flow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ravinder82/FlyMascots": {
+        "owner": "Ravinder82",
+        "name": "FlyMascots",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sunmer/cliphouse": {
+        "owner": "sunmer",
+        "name": "cliphouse",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gagoar/html-effectiveness": {
+        "owner": "gagoar",
+        "name": "html-effectiveness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JesperDramsch/pogo-filter-workshop": {
+        "owner": "JesperDramsch",
+        "name": "pogo-filter-workshop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yaojie-shen/Skills-Manager-TUI": {
+        "owner": "yaojie-shen",
+        "name": "Skills-Manager-TUI",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mfoureyes/vibeupslides": {
+        "owner": "mfoureyes",
+        "name": "vibeupslides",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "moshspro-dev/video-effect-reel": {
+        "owner": "moshspro-dev",
+        "name": "video-effect-reel",
+        "branch": "main",
+        "enabled": true
+    },
+    "aontwit/pitwall": {
+        "owner": "aontwit",
+        "name": "pitwall",
+        "branch": "main",
+        "enabled": true
+    },
+    "fadymondy/gh-pms": {
+        "owner": "fadymondy",
+        "name": "gh-pms",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -40888,5 +40888,113 @@
     "repoOwner": "twelfth-ai",
     "repoName": "twelfth-mcp",
     "repoBranch": "main"
+  },
+  "eater2/homerenovationfreetools": {
+    "name": "eater2/homerenovationfreetools",
+    "description": "Free home renovation tools: paint & tile calculators, room planner, document generators and design resources for DIY | Darmowe kalkulatory remontowe, planer pomieszcze\u0144 i generatory dokument\u00f3w",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eater2",
+    "repoName": "homerenovationfreetools",
+    "repoBranch": "main"
+  },
+  "sshah03/teach-me": {
+    "name": "sshah03/teach-me",
+    "description": "A Claude Code plugin that explains the ideas behind a pull request with a short lesson, an interactive diagram and a quiz.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sshah03",
+    "repoName": "teach-me",
+    "repoBranch": "main"
+  },
+  "ashlrai/ashlr-plugin": {
+    "name": "ashlrai/ashlr-plugin",
+    "description": "Token-efficiency plugin for Claude Code and Codex: MCP tools and hooks that replace high-volume Read/Grep/Edit/Bash calls with compact equivalents, powered by @ashlr/core-efficiency.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ashlrai",
+    "repoName": "ashlr-plugin",
+    "repoBranch": "main"
+  },
+  "hariFED/howitworks": {
+    "name": "hariFED/howitworks",
+    "description": "An interactive engineering-drawing skill for Claude Code that explains mechanisms and software concepts through physical cutaways and live simulations.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hariFED",
+    "repoName": "howitworks",
+    "repoBranch": "main"
+  },
+  "enekesabel/dev-flow": {
+    "name": "enekesabel/dev-flow",
+    "description": "Behavioral instructions and skills for coding agents. Stay present for the decisions that matter, while agents do the busywork.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "enekesabel",
+    "repoName": "dev-flow",
+    "repoBranch": "main"
+  },
+  "gagoar/html-effectiveness": {
+    "name": "gagoar/html-effectiveness",
+    "description": "Claude Code skill for generating rich, self-contained HTML documents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gagoar",
+    "repoName": "html-effectiveness",
+    "repoBranch": "main"
+  },
+  "mfoureyes/vibeupslides": {
+    "name": "mfoureyes/vibeupslides",
+    "description": "Presentations in your company's design and voice: agent skills for Claude (Claude Code, Cowork)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mfoureyes",
+    "repoName": "vibeupslides",
+    "repoBranch": "main"
+  },
+  "moshspro-dev/video-effect-reel": {
+    "name": "moshspro-dev/video-effect-reel",
+    "description": "Claude Code plugin + toolkit: look up 123 video-editing effect recipes, or analyze a Reel to see how it was edited. FFmpeg recipes, MIT",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "moshspro-dev",
+    "repoName": "video-effect-reel",
+    "repoBranch": "main"
+  },
+  "aontwit/pitwall": {
+    "name": "aontwit/pitwall",
+    "description": "The agent loop that queues your work, proves every PR, and leaves the merge to you.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aontwit",
+    "repoName": "pitwall",
+    "repoBranch": "main"
+  },
+  "Korvonordico/quotient-claude-tokens": {
+    "name": "Korvonordico/quotient-claude-tokens",
+    "description": "Token Quotient: know what a Claude Code or Hermes job will cost before it starts. Quotes in three levels with your 5-hour and weekly limits, the real cost after, a correction learned from your own jobs, and big jobs s...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Korvonordico",
+    "repoName": "quotient-claude-tokens",
+    "repoBranch": "main"
+  },
+  "wonjoonSeol-WS/claude-side-insights": {
+    "name": "wonjoonSeol-WS/claude-side-insights",
+    "description": "Side panel for Claude Code (a mod): checks every question got answered, walks through the logic of changed code, and shows tool calls live.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wonjoonSeol-WS",
+    "repoName": "claude-side-insights",
+    "repoBranch": "main"
+  },
+  "fadymondy/gh-pms": {
+    "name": "fadymondy/gh-pms",
+    "description": "GitHub Issues as a project-management system for Claude Code \u2014 plans, features, bugs, evidence-gated lifecycle, PR-driven review. Backed by GitHub primitives.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fadymondy",
+    "repoName": "gh-pms",
+    "repoBranch": "main"
   }
 }
