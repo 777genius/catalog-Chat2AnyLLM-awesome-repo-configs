@@ -48416,5 +48416,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "pipiguai87-alt/pikpak-skills": {
+        "owner": "pipiguai87-alt",
+        "name": "pikpak-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
