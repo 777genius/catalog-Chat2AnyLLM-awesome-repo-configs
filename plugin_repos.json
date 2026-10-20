@@ -1,4 +1,13 @@
 {
+  "GetSHIM/shim-cli": {
+    "name": "shim-cli",
+    "description": "Local hooks that mask secrets and personal data in Claude Code tool results before the model reads them, report what a typed prompt contains, and refuse risky tool calls under enforce mode. Also covers Codex and Copilot CLI through the shim package. No account, network call or telemetry. Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GetSHIM",
+    "repoName": "shim-cli",
+    "repoBranch": "main"
+  },
   "KuudoAI/skills": {
     "name": "kuudo-skills",
     "description": "22 Agent Skills for Amazon sellers and advertisers: Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability. Built for Kuudo's hosted Amazon Ads and SP-API MCP servers; price, budget, listing, and shipment writes are previewed and wait for explicit approval. Claude Code, Codex, Gemini CLI. PolyForm Shield 1.0.0 (source-available).",
