@@ -49077,5 +49077,12 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "skills"
+    },
+    "0xrome/agentshandbook": {
+        "owner": "0xrome",
+        "name": "agentshandbook",
+        "branch": "master",
+        "enabled": true,
+        "skillsPath": "./"
     }
 }
