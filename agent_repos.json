@@ -6519,5 +6519,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "Kimeur/duology": {
+    "owner": "Kimeur",
+    "name": "duology",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

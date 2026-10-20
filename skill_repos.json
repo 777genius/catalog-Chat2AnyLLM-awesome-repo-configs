@@ -49084,5 +49084,134 @@
         "branch": "master",
         "enabled": true,
         "skillsPath": "./"
+    },
+    "dagoSte/squadra": {
+        "owner": "dagoSte",
+        "name": "squadra",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "novibe-org/novibe": {
+        "owner": "novibe-org",
+        "name": "novibe",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kimeur/duology": {
+        "owner": "Kimeur",
+        "name": "duology",
+        "branch": "main",
+        "enabled": true
+    },
+    "beatra-ai/ai-logo-maker-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-logo-maker-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-poster-maker-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-poster-maker-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-media-generator-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-media-generator-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/viral-video-remake-skill": {
+        "owner": "beatra-ai",
+        "name": "viral-video-remake-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/photo-to-anime-skill": {
+        "owner": "beatra-ai",
+        "name": "photo-to-anime-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/multilingual-voiceover-skill": {
+        "owner": "beatra-ai",
+        "name": "multilingual-voiceover-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-podcast-voiceover-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-podcast-voiceover-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-headshot-generator-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-headshot-generator-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beatra-ai/ai-voice-cloning-skill": {
+        "owner": "beatra-ai",
+        "name": "ai-voice-cloning-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "derwells/skills": {
+        "owner": "derwells",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bostonaholic/grokbot-skills": {
+        "owner": "bostonaholic",
+        "name": "grokbot-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "codebywater/WB-OZON-AI-TEAM": {
+        "owner": "codebywater",
+        "name": "WB-OZON-AI-TEAM",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "lodar/caveman-marketing": {
+        "owner": "lodar",
+        "name": "caveman-marketing",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Rmasood1122/commitproof": {
+        "owner": "Rmasood1122",
+        "name": "commitproof",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ParkPavel/borshkit": {
+        "owner": "ParkPavel",
+        "name": "borshkit",
+        "branch": "main",
+        "enabled": true
+    },
+    "dcamunas/model-router": {
+        "owner": "dcamunas",
+        "name": "model-router",
+        "branch": "main",
+        "enabled": true
     }
 }

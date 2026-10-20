@@ -41302,5 +41302,104 @@
     "repoOwner": "0xrome",
     "repoName": "agentshandbook",
     "repoBranch": "master"
+  },
+  "dagoSte/squadra": {
+    "name": "dagoSte/squadra",
+    "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code and forecast work....",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dagoSte",
+    "repoName": "squadra",
+    "repoBranch": "main"
+  },
+  "novibe-org/novibe": {
+    "name": "novibe-org/novibe",
+    "description": "Spec-driven development for coding agents \u2014 you manage the intent, the machine writes the code. Skills, conventions and git-hook guard rails.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novibe-org",
+    "repoName": "novibe",
+    "repoBranch": "main"
+  },
+  "ersinkoc/claude-mods": {
+    "name": "ersinkoc/claude-mods",
+    "description": "KOZMOS \u2014 live, visual mods for Claude Code (CLI + desktop): bands above the prompt, sidebars, status ticker, companions, guards and sound.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ersinkoc",
+    "repoName": "claude-mods",
+    "repoBranch": "main"
+  },
+  "Kimeur/duology": {
+    "name": "Kimeur/duology",
+    "description": "Claude Code skills for designing, building, testing and shipping apps on iPhone Duo and iOS 27. Layout patterns, app recipes, a fold linter and pose checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kimeur",
+    "repoName": "duology",
+    "repoBranch": "main"
+  },
+  "derwells/skills": {
+    "name": "derwells/skills",
+    "description": "Skills I day-to-day use with a fleet of agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "derwells",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "hellosverre/smart-compact": {
+    "name": "hellosverre/smart-compact",
+    "description": "Claude Code mod: compacts at the right moment (after a commit, green tests, before the prompt cache expires) or when Claude asks",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hellosverre",
+    "repoName": "smart-compact",
+    "repoBranch": "main"
+  },
+  "codebywater/WB-OZON-AI-TEAM": {
+    "name": "codebywater/WB-OZON-AI-TEAM",
+    "description": "\u0418\u0418-\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0434\u043b\u044f \u0441\u0435\u043b\u043b\u0435\u0440\u043e\u0432 Wildberries \u0438 Ozon: \u044e\u043d\u0438\u0442-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430, \u043e\u0442\u0437\u044b\u0432\u044b, \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0438, \u0446\u0435\u043d\u044b \u043a\u043e\u043d\u043a\u0443\u0440\u0435\u043d\u0442\u043e\u0432. \u0414\u043b\u044f Claude Code, Codex, Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codebywater",
+    "repoName": "WB-OZON-AI-TEAM",
+    "repoBranch": "main"
+  },
+  "brunolca/claude-plugins": {
+    "name": "brunolca/claude-plugins",
+    "description": "Claude Code plugin marketplace: prototype-mode (skip git worktrees, commit straight to your branch) and worktree-terminal (/term opens a shell in any agent's worktree in kitty, tmux, WezTerm, iTerm)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "brunolca",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Rmasood1122/commitproof": {
+    "name": "Rmasood1122/commitproof",
+    "description": "CommitProof: an AI audit trail for your commits. See how much of a repo Claude wrote (/ai-history, no setup), then signed, hash-chained receipts and a change-control report. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Rmasood1122",
+    "repoName": "commitproof",
+    "repoBranch": "main"
+  },
+  "ParkPavel/borshkit": {
+    "name": "ParkPavel/borshkit",
+    "description": "Modular AI Workspace: AI agents work, evidence bound to the exact file state decides acceptance, the rest comes to you as a checklist",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ParkPavel",
+    "repoName": "borshkit",
+    "repoBranch": "main"
+  },
+  "dcamunas/model-router": {
+    "name": "dcamunas/model-router",
+    "description": "Router de modelos Claude: modelo + effort por tarea, verificaci\u00f3n por riesgo, escalado y coste por tarea resuelta. Hook y skill para Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dcamunas",
+    "repoName": "model-router",
+    "repoBranch": "main"
   }
 }
