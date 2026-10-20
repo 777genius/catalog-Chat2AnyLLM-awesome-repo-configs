@@ -41536,5 +41536,14 @@
     "repoOwner": "wilsonwu-ai",
     "repoName": "claude-graph-skills",
     "repoBranch": "main"
+  },
+  "jamesdfinance-dev/lazaretto-plugins": {
+    "name": "lazaretto-guard",
+    "description": "Claude Code hook that reads a remote MCP server's tool descriptions for poisoning before claude mcp add connects it, and checks pinned package installs against published malware advisories. Asks for permission on a finding, never blocks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jamesdfinance-dev",
+    "repoName": "lazaretto-plugins",
+    "repoBranch": "main"
   }
 }
