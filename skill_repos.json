@@ -48855,5 +48855,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "DecodedXR/claude-workflow-skills": {
+        "owner": "DecodedXR",
+        "name": "claude-workflow-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
