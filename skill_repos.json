@@ -49319,5 +49319,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "daniel3303/stock-market-mcp-server": {
+        "owner": "daniel3303",
+        "name": "stock-market-mcp-server",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

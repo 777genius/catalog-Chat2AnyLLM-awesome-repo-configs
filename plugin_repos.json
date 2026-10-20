@@ -41545,5 +41545,14 @@
     "repoOwner": "jamesdfinance-dev",
     "repoName": "lazaretto-plugins",
     "repoBranch": "main"
+  },
+  "daniel3303/stock-market-mcp-server": {
+    "name": "equibles",
+    "description": "Equibles plugin for Claude Code: the hosted Equibles MCP server (https://mcp.equibles.com/mcp) plus a stock research skill. US stock data from SEC filings, financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and options. Free plan of 100 requests a day, no card. https://equibles.com",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "daniel3303",
+    "repoName": "stock-market-mcp-server",
+    "repoBranch": "master"
   }
 }
