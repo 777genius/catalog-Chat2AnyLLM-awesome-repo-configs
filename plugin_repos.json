@@ -41293,5 +41293,14 @@
     "repoOwner": "sergebulaev",
     "repoName": "car-rental-skills",
     "repoBranch": "main"
+  },
+  "0xrome/agentshandbook": {
+    "name": "0xrome/agentshandbook",
+    "description": "Sourced playbooks for real jobs done with AI agents, each with a prompt, steps, human checkpoints and known failures. One remote MCP server plus skills, no hooks. CC BY 4.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xrome",
+    "repoName": "agentshandbook",
+    "repoBranch": "master"
   }
 }
