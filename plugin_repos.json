@@ -41401,5 +41401,14 @@
     "repoOwner": "dcamunas",
     "repoName": "model-router",
     "repoBranch": "main"
+  },
+  "kasovy/neverapply-mcp": {
+    "name": "neverapply",
+    "description": "Plugin for NeverApply's hosted MCP server: search and match jobs, tailor resumes, track applications and apply to jobs you approve. Three skills (find-jobs, apply-to-jobs, track-applications), OAuth 2.1 sign-in, no API key. MIT.",
+    "enabled": true,
+    "type": "plugin",
+    "repoOwner": "kasovy",
+    "repoName": "neverapply-mcp",
+    "repoBranch": "main"
   }
 }
