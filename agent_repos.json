@@ -6498,5 +6498,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "DevelopersGlobal/ai-agent-skills": {
+    "owner": "DevelopersGlobal",
+    "name": "ai-agent-skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "robo311/devflow": {
+    "owner": "robo311",
+    "name": "devflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "acus9345/haiku-delegate": {
+    "owner": "acus9345",
+    "name": "haiku-delegate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

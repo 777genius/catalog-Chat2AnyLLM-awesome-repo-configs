@@ -48970,5 +48970,105 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "DevelopersGlobal/ai-agent-skills": {
+        "owner": "DevelopersGlobal",
+        "name": "ai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "OnePathToFreedom/smart-notes-skill": {
+        "owner": "OnePathToFreedom",
+        "name": "smart-notes-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "better-isms/grcskills": {
+        "owner": "better-isms",
+        "name": "grcskills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Chaitanya299/Orient": {
+        "owner": "Chaitanya299",
+        "name": "Orient",
+        "branch": "main",
+        "enabled": true
+    },
+    "RZX00/niu-lai-skills": {
+        "owner": "RZX00",
+        "name": "niu-lai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robo311/devflow": {
+        "owner": "robo311",
+        "name": "devflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "andrometiq/sshgate": {
+        "owner": "andrometiq",
+        "name": "sshgate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adeelahmad/aloop": {
+        "owner": "adeelahmad",
+        "name": "aloop",
+        "branch": "master",
+        "enabled": true
+    },
+    "SeKondBrainAILabs/kemory-plugin": {
+        "owner": "SeKondBrainAILabs",
+        "name": "kemory-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "acus9345/haiku-delegate": {
+        "owner": "acus9345",
+        "name": "haiku-delegate",
+        "branch": "main",
+        "enabled": true
+    },
+    "luffysolution-svg/sanmu-skills": {
+        "owner": "luffysolution-svg",
+        "name": "sanmu-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eskokoivula/material-3-skill": {
+        "owner": "eskokoivula",
+        "name": "material-3-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "erickirmer17-lgtm/motion-director": {
+        "owner": "erickirmer17-lgtm",
+        "name": "motion-director",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "narendrachampaneri/htpd": {
+        "owner": "narendrachampaneri",
+        "name": "htpd",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "azakmo/collab-skill": {
+        "owner": "azakmo",
+        "name": "collab-skill",
+        "branch": "main",
+        "enabled": true
     }
 }

@@ -41176,5 +41176,113 @@
     "repoOwner": "whereisdw",
     "repoName": "lidnight-claude-plugin",
     "repoBranch": "main"
+  },
+  "midudev/better-claude": {
+    "name": "midudev/better-claude",
+    "description": "Small plugins and mods that make your life (and Claude Code) better",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "midudev",
+    "repoName": "better-claude",
+    "repoBranch": "main"
+  },
+  "better-isms/grcskills": {
+    "name": "better-isms/grcskills",
+    "description": "Open GRC skills for AI agents. By ISMS Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "better-isms",
+    "repoName": "grcskills",
+    "repoBranch": "main"
+  },
+  "34823/tg-pane": {
+    "name": "34823/tg-pane",
+    "description": "Telegram inside Claude Code: read chats and channels in a pane, get AI summaries of unread posts. No API key, no bot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "34823",
+    "repoName": "tg-pane",
+    "repoBranch": "main"
+  },
+  "Chaitanya299/Orient": {
+    "name": "Chaitanya299/Orient",
+    "description": "A living map of what you're building: state, decisions, and the why for Claude Code, opencode, and Codex. Cheap enough that it never gets in the way.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Chaitanya299",
+    "repoName": "Orient",
+    "repoBranch": "main"
+  },
+  "HMarzban/nextcost": {
+    "name": "HMarzban/nextcost",
+    "description": "See what your next Claude Code message costs: a live band above the prompt with the prompt-cache countdown, the re-warm price, session cost, context and 5h/weekly usage limits.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HMarzban",
+    "repoName": "nextcost",
+    "repoBranch": "main"
+  },
+  "RZX00/niu-lai-skills": {
+    "name": "RZX00/niu-lai-skills",
+    "description": "\u8ba9 Claude Code\u3001Codex \u91cc\u7684 Agent \u53eb\u4f60\u5988\u5988\uff0c\u5148\u628a\u6d3b\u5e72\u5b8c\uff0c\u6bcf\u6761\u56de\u590d\u6700\u540e\u56fa\u5b9a\u4e00\u884c\u300c\u725b\u6765\uff01\u300d\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RZX00",
+    "repoName": "niu-lai-skills",
+    "repoBranch": "main"
+  },
+  "BukeLy/claude-mermaid-ascii": {
+    "name": "BukeLy/claude-mermaid-ascii",
+    "description": "Claude Code mod: draws mermaid blocks in Claude's replies as Unicode diagrams in the terminal",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BukeLy",
+    "repoName": "claude-mermaid-ascii",
+    "repoBranch": "main"
+  },
+  "robo311/devflow": {
+    "name": "robo311/devflow",
+    "description": "Claude Code plugin: plan with you, build with subagents, review like a skeptic. Sized to the task, with a live progress panel.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robo311",
+    "repoName": "devflow",
+    "repoBranch": "main"
+  },
+  "andrometiq/sshgate": {
+    "name": "andrometiq/sshgate",
+    "description": "Let your AI coding agent diagnose and fix Linux servers over SSH without giving it a shell. Reads run instantly (kernel-jailed on supported hosts); every write needs one tap on your phone, enforced on each server by a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "andrometiq",
+    "repoName": "sshgate",
+    "repoBranch": "main"
+  },
+  "adeelahmad/aloop": {
+    "name": "adeelahmad/aloop",
+    "description": "Aladdin's Loop: a plugin for Claude Code, Codex and OpenCode that turns a one-line intent into planned, test-first, gate-verified code. You approve the plan; sub-agents build each task in its own git worktree, failing...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adeelahmad",
+    "repoName": "aloop",
+    "repoBranch": "master"
+  },
+  "SeKondBrainAILabs/kemory-plugin": {
+    "name": "SeKondBrainAILabs/kemory-plugin",
+    "description": "Persistent, cross-session memory for coding agents (Claude Code, Grok Build) \u2014 powered by Kemory. Recalls relevant memories under every prompt, keeps recall quality improving, and stores durable facts before they are...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SeKondBrainAILabs",
+    "repoName": "kemory-plugin",
+    "repoBranch": "main"
+  },
+  "luffysolution-svg/sanmu-skills": {
+    "name": "luffysolution-svg/sanmu-skills",
+    "description": "Sanmu's Agent Skills collection. Academic PDFs, textbooks and slides to Markdown with LaTeX validation, high-resolution figures and Zotero workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "luffysolution-svg",
+    "repoName": "sanmu-skills",
+    "repoBranch": "main"
   }
 }
