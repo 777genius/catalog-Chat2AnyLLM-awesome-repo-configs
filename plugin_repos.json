@@ -41284,5 +41284,14 @@
     "repoOwner": "luffysolution-svg",
     "repoName": "sanmu-skills",
     "repoBranch": "main"
+  },
+  "sergebulaev/car-rental-skills": {
+    "name": "sergebulaev/car-rental-skills",
+    "description": "8 skills for exotic, luxury and Turo car rental businesses: daily rate pricing against live published market rates, competitor scans, business plans, rental agreements, damage inspections, listings, social posts and review replies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sergebulaev",
+    "repoName": "car-rental-skills",
+    "repoBranch": "main"
   }
 }
