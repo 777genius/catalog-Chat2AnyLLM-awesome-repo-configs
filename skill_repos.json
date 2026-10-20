@@ -49213,5 +49213,12 @@
         "name": "model-router",
         "branch": "main",
         "enabled": true
+    },
+    "kasovy/neverapply-mcp": {
+        "owner": "kasovy",
+        "name": "neverapply-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
