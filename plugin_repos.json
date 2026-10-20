@@ -41410,5 +41410,131 @@
     "repoOwner": "kasovy",
     "repoName": "neverapply-mcp",
     "repoBranch": "main"
+  },
+  "emotixco/claude-skills-founder": {
+    "name": "emotixco/claude-skills-founder",
+    "description": "Claude Code skills for startup founders \u2014 product briefs, competitor analysis, pricing strategy, pitch decks, and GTM plans from your terminal",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "emotixco",
+    "repoName": "claude-skills-founder",
+    "repoBranch": "main"
+  },
+  "ziniman/ai-instruct": {
+    "name": "ziniman/ai-instruct",
+    "description": "Turn your AI assistant into a senior web developer. Production-ready guides for SEO, performance, and agent-readiness - for Claude Code, Cursor, Copilot, and Windsurf.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ziniman",
+    "repoName": "ai-instruct",
+    "repoBranch": "main"
+  },
+  "derob98/ailmanac": {
+    "name": "derob98/ailmanac",
+    "description": "Claude has never seen 68% of the Claude Code docs: research, interactive charts and a plugin that tells it what it missed. Plus a field guide to Claude and AI tools that says when each page was last checked, in 12 lan...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "derob98",
+    "repoName": "ailmanac",
+    "repoBranch": "main"
+  },
+  "namedtoaster/The-Last-Mile": {
+    "name": "namedtoaster/The-Last-Mile",
+    "description": "Claude Code skills that get your app into the App Store and Google Play. Rejection sweep, release build, store listing, upload. Any stack.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "namedtoaster",
+    "repoName": "The-Last-Mile",
+    "repoBranch": "main"
+  },
+  "HigorAlves/orc": {
+    "name": "HigorAlves/orc",
+    "description": "One command from \u201cI want X\u201d to a merged PR.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HigorAlves",
+    "repoName": "orc",
+    "repoBranch": "main"
+  },
+  "nmahavishnu/planloop": {
+    "name": "nmahavishnu/planloop",
+    "description": "An agent skill that turns requests into verified work and learns from your runs: ask, plan, delegate, verify, ask again. Built on Andrej Karpathy's agentic engineering and Aravind Srinivas's relentless questioning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nmahavishnu",
+    "repoName": "planloop",
+    "repoBranch": "main"
+  },
+  "gideon-e/claude-5-optimizer": {
+    "name": "gideon-e/claude-5-optimizer",
+    "description": "Claude Code plugin: rewrites pre-Claude-5 skills, agents, and CLAUDE.md files so Claude is no longer hobbled by them",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gideon-e",
+    "repoName": "claude-5-optimizer",
+    "repoBranch": "main"
+  },
+  "beau-education/beau-plugin": {
+    "name": "beau-education/beau-plugin",
+    "description": "Claude Plugin for Beau",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "beau-education",
+    "repoName": "beau-plugin",
+    "repoBranch": "main"
+  },
+  "Mihai-Codes/cv-witness": {
+    "name": "Mihai-Codes/cv-witness",
+    "description": "Agent skill for drafting and reviewing CVs from verified experience. Candidate-led wording, phrase-overlap review and local PDF tools.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mihai-Codes",
+    "repoName": "cv-witness",
+    "repoBranch": "main"
+  },
+  "mengjiasun1992/structural-llm-wiki": {
+    "name": "mengjiasun1992/structural-llm-wiki",
+    "description": "LLM Wiki skills that structure knowledge on git with tags, lineage and version control.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mengjiasun1992",
+    "repoName": "structural-llm-wiki",
+    "repoBranch": "mainline"
+  },
+  "john-farina/claude-plugins": {
+    "name": "john-farina/claude-plugins",
+    "description": "Claude Code plugins by John Farina \u2014 build extensions, automate workflows, make Claude smarter about your project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "john-farina",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "edwinidrus/dragonhoard": {
+    "name": "edwinidrus/dragonhoard",
+    "description": "Planning harness for coding agents: task packs, evidence-gated loop, self-improving with human-approved lessons",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "edwinidrus",
+    "repoName": "dragonhoard",
+    "repoBranch": "main"
+  },
+  "JCKodel/slot-guard": {
+    "name": "JCKodel/slot-guard",
+    "description": "Machine-wide FIFO concurrency slots for Claude Code terminals and subagents. Local, daemon-free, AGPL-3.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JCKodel",
+    "repoName": "slot-guard",
+    "repoBranch": "main"
+  },
+  "wilsonwu-ai/claude-graph-skills": {
+    "name": "wilsonwu-ai/claude-graph-skills",
+    "description": "Three Claude Code skills: /graph plans and gates agent fan-out, /bakeoff runs a blind champion/challenger test of build methods, /dag holds custody of releases with digest-bound human approval.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wilsonwu-ai",
+    "repoName": "claude-graph-skills",
+    "repoBranch": "main"
   }
 }

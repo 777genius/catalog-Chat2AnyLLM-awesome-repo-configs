@@ -6526,5 +6526,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "gideon-e/claude-5-optimizer": {
+    "owner": "gideon-e",
+    "name": "claude-5-optimizer",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "edwinidrus/dragonhoard": {
+    "owner": "edwinidrus",
+    "name": "dragonhoard",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

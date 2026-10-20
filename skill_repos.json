@@ -49220,5 +49220,104 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "emotixco/claude-skills-founder": {
+        "owner": "emotixco",
+        "name": "claude-skills-founder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ziniman/ai-instruct": {
+        "owner": "ziniman",
+        "name": "ai-instruct",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pizzaface/PizzaPi": {
+        "owner": "Pizzaface",
+        "name": "PizzaPi",
+        "branch": "main",
+        "enabled": true
+    },
+    "derob98/ailmanac": {
+        "owner": "derob98",
+        "name": "ailmanac",
+        "branch": "main",
+        "enabled": true
+    },
+    "namedtoaster/The-Last-Mile": {
+        "owner": "namedtoaster",
+        "name": "The-Last-Mile",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HigorAlves/orc": {
+        "owner": "HigorAlves",
+        "name": "orc",
+        "branch": "main",
+        "enabled": true
+    },
+    "nmahavishnu/planloop": {
+        "owner": "nmahavishnu",
+        "name": "planloop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gideon-e/claude-5-optimizer": {
+        "owner": "gideon-e",
+        "name": "claude-5-optimizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "beau-education/beau-plugin": {
+        "owner": "beau-education",
+        "name": "beau-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "Mihai-Codes/cv-witness": {
+        "owner": "Mihai-Codes",
+        "name": "cv-witness",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mengjiasun1992/structural-llm-wiki": {
+        "owner": "mengjiasun1992",
+        "name": "structural-llm-wiki",
+        "branch": "mainline",
+        "enabled": true
+    },
+    "niyankhadka/yantra": {
+        "owner": "niyankhadka",
+        "name": "yantra",
+        "branch": "main",
+        "enabled": true
+    },
+    "edwinidrus/dragonhoard": {
+        "owner": "edwinidrus",
+        "name": "dragonhoard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RakamakadoN/ghost-busters-skill": {
+        "owner": "RakamakadoN",
+        "name": "ghost-busters-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wilsonwu-ai/claude-graph-skills": {
+        "owner": "wilsonwu-ai",
+        "name": "claude-graph-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
