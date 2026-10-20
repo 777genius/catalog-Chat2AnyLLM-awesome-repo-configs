@@ -41068,5 +41068,95 @@
     "repoOwner": "DecodedXR",
     "repoName": "claude-workflow-skills",
     "repoBranch": "main"
+  },
+  "hsuanshao/AgentMemory": {
+    "name": "hsuanshao/AgentMemory",
+    "description": "Self-hosted memory service for AI agents, written in Rust: layered L0\u2192L3 memory, async LLM distillation, hybrid BM25 + vector recall, and multi-tenant isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hsuanshao",
+    "repoName": "AgentMemory",
+    "repoBranch": "main"
+  },
+  "mikeparcewski/wicked-garden": {
+    "name": "mikeparcewski/wicked-garden",
+    "description": "The skills your coding agent can't build alone: done re-checked from evidence, graph-aware refactor, 40 QE specialists, review panels from other models.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mikeparcewski",
+    "repoName": "wicked-garden",
+    "repoBranch": "main"
+  },
+  "Quorus-dev/Quorus": {
+    "name": "Quorus-dev/Quorus",
+    "description": "Quorus AI: multi-agent rooms for Claude Code, Codex, Gemini CLI and opencode. Agents fix in their own git worktrees, review each other and push to your repo. MCP + CLI, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Quorus-dev",
+    "repoName": "Quorus",
+    "repoBranch": "main"
+  },
+  "iadr-dev/greenlight": {
+    "name": "iadr-dev/greenlight",
+    "description": "greenlight is a plugin for AI \u00d7 BDD spec-driven development: a feature request        4 +becomes human-approved rules and examples, then red tests, then green code, under gates the        5 +AI cannot bypass",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iadr-dev",
+    "repoName": "greenlight",
+    "repoBranch": "main"
+  },
+  "Ketbome/decomp-skills": {
+    "name": "Ketbome/decomp-skills",
+    "description": "Agent skills for matching decompilation of video games: per-function loop, parallel agents, toolchain forensics, session recovery. Claude Code, Codex, OpenCode, Gemini CLI, Cursor, Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ketbome",
+    "repoName": "decomp-skills",
+    "repoBranch": "main"
+  },
+  "adityareddy-dev/deskstudio": {
+    "name": "adityareddy-dev/deskstudio",
+    "description": "Your own design studio inside the coding agent you already use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adityareddy-dev",
+    "repoName": "deskstudio",
+    "repoBranch": "main"
+  },
+  "MrToAster13/mrtoaster13-plugins": {
+    "name": "MrToAster13/mrtoaster13-plugins",
+    "description": "Clear instead of compact \u2014 two Claude Code skills: /handoff distills a session to disk, /resume reads it back into a fresh context.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrToAster13",
+    "repoName": "mrtoaster13-plugins",
+    "repoBranch": "main"
+  },
+  "stacksyncdata/skills": {
+    "name": "stacksyncdata/skills",
+    "description": "Agent Skills for Stacksync: build two-way syncs, workflows, Genies and full integrations from Claude, ChatGPT, Codex, Cursor and any AI agent",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stacksyncdata",
+    "repoName": "skills",
+    "repoBranch": "prod"
+  },
+  "takaratomita/claude-skills-shelf": {
+    "name": "takaratomita/claude-skills-shelf",
+    "description": "Free Claude Code skills that prove the work is done \u2014 verify-before-done, baseline-first-fix, handoff-prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "takaratomita",
+    "repoName": "claude-skills-shelf",
+    "repoBranch": "main"
+  },
+  "Zwl20085/jmag-agent-suite": {
+    "name": "Zwl20085/jmag-agent-suite",
+    "description": "All-in-one JMAG-Designer agent toolkit: MCP server (72 tools), physics checks and 10 Claude skills for electromagnetic FEA",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Zwl20085",
+    "repoName": "jmag-agent-suite",
+    "repoBranch": "main"
   }
 }

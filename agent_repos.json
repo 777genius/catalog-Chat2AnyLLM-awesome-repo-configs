@@ -6470,5 +6470,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "mikeparcewski/wicked-garden": {
+    "owner": "mikeparcewski",
+    "name": "wicked-garden",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "lamxy/agent-prompt-rules-system": {
+    "owner": "lamxy",
+    "name": "agent-prompt-rules-system",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iadr-dev/greenlight": {
+    "owner": "iadr-dev",
+    "name": "greenlight",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "adityareddy-dev/deskstudio": {
+    "owner": "adityareddy-dev",
+    "name": "deskstudio",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

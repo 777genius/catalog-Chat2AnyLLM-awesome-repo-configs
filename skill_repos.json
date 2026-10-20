@@ -48862,5 +48862,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "escoffier-labs/brigade": {
+        "owner": "escoffier-labs",
+        "name": "brigade",
+        "branch": "main",
+        "enabled": true
+    },
+    "yuxinlaile/McD-saver": {
+        "owner": "yuxinlaile",
+        "name": "McD-saver",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mikeparcewski/wicked-garden": {
+        "owner": "mikeparcewski",
+        "name": "wicked-garden",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "madrobotnet/3dprint-scout": {
+        "owner": "madrobotnet",
+        "name": "3dprint-scout",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lamxy/agent-prompt-rules-system": {
+        "owner": "lamxy",
+        "name": "agent-prompt-rules-system",
+        "branch": "main",
+        "enabled": true
+    },
+    "Quorus-dev/Quorus": {
+        "owner": "Quorus-dev",
+        "name": "Quorus",
+        "branch": "main",
+        "enabled": true
+    },
+    "kevanwee/sg-legalresearch-skill": {
+        "owner": "kevanwee",
+        "name": "sg-legalresearch-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gm365/shuita-ai-price": {
+        "owner": "gm365",
+        "name": "shuita-ai-price",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iadr-dev/greenlight": {
+        "owner": "iadr-dev",
+        "name": "greenlight",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ketbome/decomp-skills": {
+        "owner": "Ketbome",
+        "name": "decomp-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adityareddy-dev/deskstudio": {
+        "owner": "adityareddy-dev",
+        "name": "deskstudio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrToAster13/mrtoaster13-plugins": {
+        "owner": "MrToAster13",
+        "name": "mrtoaster13-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "stacksyncdata/skills": {
+        "owner": "stacksyncdata",
+        "name": "skills",
+        "branch": "prod",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "takaratomita/claude-skills-shelf": {
+        "owner": "takaratomita",
+        "name": "claude-skills-shelf",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ahmad1765/claude-mobile-game-playbook": {
+        "owner": "Ahmad1765",
+        "name": "claude-mobile-game-playbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Zwl20085/jmag-agent-suite": {
+        "owner": "Zwl20085",
+        "name": "jmag-agent-suite",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }
