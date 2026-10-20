@@ -41059,5 +41059,14 @@
     "repoOwner": "founden-bot",
     "repoName": "yap-mcp",
     "repoBranch": "main"
+  },
+  "DecodedXR/claude-workflow-skills": {
+    "name": "DecodedXR/claude-workflow-skills",
+    "description": "autopilot ships the next task that needs no human decision behind an independent verifier and a CI-gated auto-merge; wargame writes plans a cheaper model can execute blind; plus delegate, afk and prepare-for-next-session. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DecodedXR",
+    "repoName": "claude-workflow-skills",
+    "repoBranch": "main"
   }
 }
