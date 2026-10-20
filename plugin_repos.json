@@ -41158,5 +41158,14 @@
     "repoOwner": "Zwl20085",
     "repoName": "jmag-agent-suite",
     "repoBranch": "main"
+  },
+  "whereisdw/lidnight-claude-plugin": {
+    "name": "lidnight",
+    "description": "Keep a MacBook awake (lid closed, even on battery) while Claude Code works, then let it sleep when it's done. Commands /lidnight:awake, /lidnight:status, /lidnight:sleep and a keep-awake skill that drive the Lidnight menu bar app; without the app it only prints caffeinate/pmset guidance. No hooks or MCP servers. macOS, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whereisdw",
+    "repoName": "lidnight-claude-plugin",
+    "repoBranch": "main"
   }
 }
