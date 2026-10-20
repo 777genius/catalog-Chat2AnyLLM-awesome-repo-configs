@@ -112,6 +112,14 @@
     "serverName": "io.github.Noveum/api-market-gateway",
     "note": "Client configuration and documentation for the proprietary API.market hosted MCP gateway, not its server implementation. Streamable HTTP endpoint: https://api.market/api/mcp/gateway. Requires an account and OAuth (recommended) or an API key. API calls and subscription changes may incur charges; pricing and limits vary by API. Setup: https://api.market/mcp."
   },
+  "tonydzi/sqlite-graph-memory": {
+    "owner": "tonydzi",
+    "name": "sqlite-graph-memory",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "io.github.tonydzi/sqlite-graph-memory",
+    "note": "Local stdio memory over your own markdown notes: vector retrieval, the notes' [[wikilinks]] as the graph, cross-encoder rerank, one SQLite file. No API key, nothing leaves the machine. PyPI sqlite-graph-memory; canonical metadata is in server.json."
+  },
   "louis030195/hyperconsciousness": {
     "owner": "louis030195",
     "name": "hyperconsciousness",
