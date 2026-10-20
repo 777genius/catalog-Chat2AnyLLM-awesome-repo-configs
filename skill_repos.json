@@ -49070,5 +49070,12 @@
         "name": "collab-skill",
         "branch": "main",
         "enabled": true
+    },
+    "sergebulaev/car-rental-skills": {
+        "owner": "sergebulaev",
+        "name": "car-rental-skills",
+        "branch": "main",
+        "enabled": true,
+        "skillsPath": "skills"
     }
 }
