@@ -49326,5 +49326,33 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "luchasarie/bro-skill": {
+        "owner": "luchasarie",
+        "name": "bro-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "luchasarie/guided-goal": {
+        "owner": "luchasarie",
+        "name": "guided-goal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "luchasarie/feedback-loop": {
+        "owner": "luchasarie",
+        "name": "feedback-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "luchasarie/agent-cleanup": {
+        "owner": "luchasarie",
+        "name": "agent-cleanup",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
