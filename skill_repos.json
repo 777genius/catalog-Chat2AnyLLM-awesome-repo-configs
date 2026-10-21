@@ -49668,5 +49668,112 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "madjagstudios/grounded-engineering": {
+        "owner": "madjagstudios",
+        "name": "grounded-engineering",
+        "branch": "main",
+        "enabled": true
+    },
+    "gabrielbsandim/task-funnel": {
+        "owner": "gabrielbsandim",
+        "name": "task-funnel",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "skrypka-mark/stem": {
+        "owner": "skrypka-mark",
+        "name": "stem",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vdk888/local-tts": {
+        "owner": "vdk888",
+        "name": "local-tts",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Xenoneqq/unity-ai-skills": {
+        "owner": "Xenoneqq",
+        "name": "unity-ai-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ghosthat-studio/local-agents": {
+        "owner": "ghosthat-studio",
+        "name": "local-agents",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "amliuyong/html-to-explainer-video": {
+        "owner": "amliuyong",
+        "name": "html-to-explainer-video",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rokokol/headless-gui-skill": {
+        "owner": "rokokol",
+        "name": "headless-gui-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "thetouchsite/quote-to-code": {
+        "owner": "thetouchsite",
+        "name": "quote-to-code",
+        "branch": "main",
+        "enabled": true
+    },
+    "josenanez/criterio": {
+        "owner": "josenanez",
+        "name": "criterio",
+        "branch": "main",
+        "enabled": true
+    },
+    "mckayqsnell/snell-skills": {
+        "owner": "mckayqsnell",
+        "name": "snell-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DjoFE2021/paper-motion-video": {
+        "owner": "DjoFE2021",
+        "name": "paper-motion-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reyco2000/68000-dissasembler-skill": {
+        "owner": "reyco2000",
+        "name": "68000-dissasembler-skill",
+        "branch": "claude/wizardly-mendel-j1nvfp",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "mauronofrio/fixedlogic": {
+        "owner": "mauronofrio",
+        "name": "fixedlogic",
+        "branch": "main",
+        "enabled": true
+    },
+    "Growthr/no-ai-writing-slop": {
+        "owner": "Growthr",
+        "name": "no-ai-writing-slop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "joealfonso/AgentsAndSkills": {
+        "owner": "joealfonso",
+        "name": "AgentsAndSkills",
+        "branch": "main",
+        "enabled": true
     }
 }

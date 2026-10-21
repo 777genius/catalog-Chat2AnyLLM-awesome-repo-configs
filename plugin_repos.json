@@ -41905,5 +41905,122 @@
     "repoOwner": "alegauss",
     "repoName": "polyweave",
     "repoBranch": "main"
+  },
+  "madjagstudios/grounded-engineering": {
+    "name": "madjagstudios/grounded-engineering",
+    "description": "Source-backed engineering practices and a reviewed shelf of skill repos, as a Claude Code mod and a CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "madjagstudios",
+    "repoName": "grounded-engineering",
+    "repoBranch": "main"
+  },
+  "gabrielbsandim/task-funnel": {
+    "name": "gabrielbsandim/task-funnel",
+    "description": "Claude Code plugin that takes an issue to a draft PR through your own checks and a verified review, and stops for your approval before risky code (money, permissions, data). Simple tasks take a lighter lane.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gabrielbsandim",
+    "repoName": "task-funnel",
+    "repoBranch": "main"
+  },
+  "skrypka-mark/stem": {
+    "name": "skrypka-mark/stem",
+    "description": "Engineering discipline for coding agents: size the work, keep every change on the record, verify against intent, never lose a session. Works in Claude Code, Codex, Cursor, and Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "skrypka-mark",
+    "repoName": "stem",
+    "repoBranch": "main"
+  },
+  "vdk888/local-tts": {
+    "name": "vdk888/local-tts",
+    "description": "Local TTS plugin for Claude Code \u2014 30 languages, voice design, voice cloning. Free, offline, powered by VoxCPM2.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vdk888",
+    "repoName": "local-tts",
+    "repoBranch": "main"
+  },
+  "gaius-codius/ostrakon": {
+    "name": "gaius-codius/ostrakon",
+    "description": "A Claude Code mod for capturing thoughts mid-work, triaging them across projects and machines, and turning them into prompts",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gaius-codius",
+    "repoName": "ostrakon",
+    "repoBranch": "main"
+  },
+  "Xenoneqq/unity-ai-skills": {
+    "name": "Xenoneqq/unity-ai-skills",
+    "description": "Claude Code skills for making games in Unity, from writing code to working in the editor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Xenoneqq",
+    "repoName": "unity-ai-skills",
+    "repoBranch": "main"
+  },
+  "josenanez/criterio": {
+    "name": "josenanez/criterio",
+    "description": "Open-source AI agents for the project office: Vera reads the portfolio, Samuel runs a project, Alba defines the product. They read what your team already wrote and say what does not hold up. Claude Code and Cowork plu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "josenanez",
+    "repoName": "criterio",
+    "repoBranch": "main"
+  },
+  "JimmySadek/claude-code-tint-mod": {
+    "name": "JimmySadek/claude-code-tint-mod",
+    "description": "Claude Code mod (CC tint mod): color each window by its repository, ring the window you are in, number your threads, and tint the whole Claude desktop app. Light and dark mode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JimmySadek",
+    "repoName": "claude-code-tint-mod",
+    "repoBranch": "main"
+  },
+  "mckayqsnell/snell-skills": {
+    "name": "mckayqsnell/snell-skills",
+    "description": "Agent skills that turn plans and hard ideas into one offline HTML page you actually want to read.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mckayqsnell",
+    "repoName": "snell-skills",
+    "repoBranch": "main"
+  },
+  "DrumAndCode/terminal-gym": {
+    "name": "DrumAndCode/terminal-gym",
+    "description": "Terminal Gym is a Claude Code mod for a daily bodyweight rep goal: tracker band, streaks, and a strict mode that spreads your sets through the day. Your agent put in the reps. You next.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DrumAndCode",
+    "repoName": "terminal-gym",
+    "repoBranch": "main"
+  },
+  "DjoFE2021/paper-motion-video": {
+    "name": "DjoFE2021/paper-motion-video",
+    "description": "Turn a research paper into a 2-minute narrated explainer video with your coding agent: charts rebuilt from the numbers in the paper, synced voice-over and subtitles, 16:9 and phone cuts, rendered locally.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DjoFE2021",
+    "repoName": "paper-motion-video",
+    "repoBranch": "main"
+  },
+  "Growthr/no-ai-writing-slop": {
+    "name": "Growthr/no-ai-writing-slop",
+    "description": "A writing skill that removes AI writing patterns from prose, or flags them, while keeping the writer's voice. Agent Skills format: Claude, Codex, Cursor, Gemini CLI and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Growthr",
+    "repoName": "no-ai-writing-slop",
+    "repoBranch": "main"
+  },
+  "joealfonso/AgentsAndSkills": {
+    "name": "joealfonso/AgentsAndSkills",
+    "description": "My bank of AI skills, personas, agents and CLAUDE.md rules. Installable as a Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joealfonso",
+    "repoName": "AgentsAndSkills",
+    "repoBranch": "main"
   }
 }
