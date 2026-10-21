@@ -49567,5 +49567,85 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "renzrollon/interlock": {
+        "owner": "renzrollon",
+        "name": "interlock",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "awesomezun/awesome-showreels": {
+        "owner": "awesomezun",
+        "name": "awesome-showreels",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shangliy/kvleak": {
+        "owner": "shangliy",
+        "name": "kvleak",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adamriofc/indonesia-business-agent-skills": {
+        "owner": "adamriofc",
+        "name": "indonesia-business-agent-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "bostonaholic/skills": {
+        "owner": "bostonaholic",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hanafubuki/ops-control": {
+        "owner": "Hanafubuki",
+        "name": "ops-control",
+        "branch": "main",
+        "enabled": true
+    },
+    "astro-ascendant/ascendant-agents": {
+        "owner": "astro-ascendant",
+        "name": "ascendant-agents",
+        "branch": "main",
+        "enabled": true
+    },
+    "Synthos-Logic/penalista-italia": {
+        "owner": "Synthos-Logic",
+        "name": "penalista-italia",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Refuzal/Masterplan": {
+        "owner": "Refuzal",
+        "name": "Masterplan",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "makigjuro/cloudstack-ai-plugins": {
+        "owner": "makigjuro",
+        "name": "cloudstack-ai-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "elibowlby/adversarial-skeptic": {
+        "owner": "elibowlby",
+        "name": "adversarial-skeptic",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "alegauss/polyweave": {
+        "owner": "alegauss",
+        "name": "polyweave",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

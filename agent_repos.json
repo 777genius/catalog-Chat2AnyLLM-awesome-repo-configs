@@ -6568,5 +6568,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "renzrollon/interlock": {
+    "owner": "renzrollon",
+    "name": "interlock",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bostonaholic/skills": {
+    "owner": "bostonaholic",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "alegauss/polyweave": {
+    "owner": "alegauss",
+    "name": "polyweave",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

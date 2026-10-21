@@ -41770,5 +41770,140 @@
     "repoOwner": "HelixMorphe",
     "repoName": "whats-this-pr",
     "repoBranch": "main"
+  },
+  "renzrollon/interlock": {
+    "name": "renzrollon/interlock",
+    "description": "Spec-driven development for Claude Code, layered on OpenSpec. You read one spec; parallel agents ship it to a tested commit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "renzrollon",
+    "repoName": "interlock",
+    "repoBranch": "main"
+  },
+  "awesomezun/awesome-showreels": {
+    "name": "awesomezun/awesome-showreels",
+    "description": "A universal Claude Code skill for premium 2D motion-graphics showreels: style from your source's tone & manner, real app/CLI captures, beat-synced music, optional Gemini TTS narration, any length at the same BPM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "awesomezun",
+    "repoName": "awesome-showreels",
+    "repoBranch": "main"
+  },
+  "shangliy/kvleak": {
+    "name": "shangliy/kvleak",
+    "description": "Cut Claude Code token cost: find where your prompt-cache money leaks and fix it with one command. Also Codex CLI, Gemini CLI, OpenCode.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shangliy",
+    "repoName": "kvleak",
+    "repoBranch": "main"
+  },
+  "adamriofc/indonesia-business-agent-skills": {
+    "name": "adamriofc/indonesia-business-agent-skills",
+    "description": "Production-oriented AI domain-intelligence infrastructure for Indonesian legal, tax, HR, finance, marketing, and strategic business reasoning.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adamriofc",
+    "repoName": "indonesia-business-agent-skills",
+    "repoBranch": "master"
+  },
+  "bostonaholic/skills": {
+    "name": "bostonaholic/skills",
+    "description": "The skills I use to build software with coding agents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bostonaholic",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "Hanafubuki/ops-control": {
+    "name": "Hanafubuki/ops-control",
+    "description": "A Claude Code mod (plugin) to manage tasks, context and agents while your fav character do all the work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hanafubuki",
+    "repoName": "ops-control",
+    "repoBranch": "main"
+  },
+  "astro-ascendant/ascendant-agents": {
+    "name": "astro-ascendant/ascendant-agents",
+    "description": "AI Skills and Tools for Astrology Analysis and Prediction",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "astro-ascendant",
+    "repoName": "ascendant-agents",
+    "repoBranch": "main"
+  },
+  "Synthos-Logic/penalista-italia": {
+    "name": "Synthos-Logic/penalista-italia",
+    "description": "Claude Cowork skill kit for Italian criminal defense lawyers: 9 skills for defense strategy, filings, deadlines, custody measures and case law research, grounded on a verified jurisprudence database with anchored cita...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Synthos-Logic",
+    "repoName": "penalista-italia",
+    "repoBranch": "main"
+  },
+  "MaximusPokeZ/bang-prefill": {
+    "name": "MaximusPokeZ/bang-prefill",
+    "description": "MaximusPokeZ/bang-prefill \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MaximusPokeZ",
+    "repoName": "bang-prefill",
+    "repoBranch": "main"
+  },
+  "makigjuro/cloudstack-ai-plugins": {
+    "name": "makigjuro/cloudstack-ai-plugins",
+    "description": "Claude Code plugins that take a GitHub issue to a reviewed PR on .NET + React + Terraform/Helm.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "makigjuro",
+    "repoName": "cloudstack-ai-plugins",
+    "repoBranch": "main"
+  },
+  "GiuseppeBellamacina/cosmic-plugins": {
+    "name": "GiuseppeBellamacina/cosmic-plugins",
+    "description": "Claude Code plugin marketplace by Giuseppe Bellamacina (setup-sync and more)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GiuseppeBellamacina",
+    "repoName": "cosmic-plugins",
+    "repoBranch": "main"
+  },
+  "tinesoft/claude-mods": {
+    "name": "tinesoft/claude-mods",
+    "description": "A set of Mods to enhance your UX and DX on Claude",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tinesoft",
+    "repoName": "claude-mods",
+    "repoBranch": "develop"
+  },
+  "plexxed/claude-desktop-account-switcher": {
+    "name": "plexxed/claude-desktop-account-switcher",
+    "description": "Switch Claude Desktop and Claude Code between multiple accounts on Windows in one click, with each account's usage limits above the prompt (unofficial mod)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "plexxed",
+    "repoName": "claude-desktop-account-switcher",
+    "repoBranch": "main"
+  },
+  "elibowlby/adversarial-skeptic": {
+    "name": "elibowlby/adversarial-skeptic",
+    "description": "Stop AI agents from rubber-stamping their own bugs or editing failing tests to pass. Blind red-team test generation + SHA-256 test locking for Claude Code, Cursor & Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "elibowlby",
+    "repoName": "adversarial-skeptic",
+    "repoBranch": "main"
+  },
+  "alegauss/polyweave": {
+    "name": "alegauss/polyweave",
+    "description": "A Claude Code plugin that makes a game's parts by declaring what each has to satisfy and searching for the parameters that do: 3D assets, sound loops and names, on Blender and Godot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alegauss",
+    "repoName": "polyweave",
+    "repoBranch": "main"
   }
 }
