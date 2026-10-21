@@ -41671,5 +41671,104 @@
     "repoOwner": "rextail-ai",
     "repoName": "lessloc",
     "repoBranch": "main"
+  },
+  "Mikefluff/skills": {
+    "name": "Mikefluff/skills",
+    "description": "43 Claude Code skills for making content that doesn't read like a machine made it \u2014 prose editing with an offline linter, prompt engineering for 40+ image/video/music models with optional one-command execution, and or...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mikefluff",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "trustmybot/plugin": {
+    "name": "trustmybot/plugin",
+    "description": "TrustMyBot (TMB) \u2014 Claude Code multi-agent plugin: bro plans, swe builds, pr-reviewer gates. Guardrails enforced in code. MIT, free forever.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "trustmybot",
+    "repoName": "plugin",
+    "repoBranch": "dev"
+  },
+  "oneafrikan/the-grid": {
+    "name": "oneafrikan/the-grid",
+    "description": "the-grid turns Claude Code from an empty chat box into a ready-equipped workspace, and keeps it identical on every machine you use.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oneafrikan",
+    "repoName": "the-grid",
+    "repoBranch": "main"
+  },
+  "plasminds/team-skills": {
+    "name": "plasminds/team-skills",
+    "description": "Agent-team skills for Claude Code: a debating council, a refactoring-masters panel with a KISS/YAGNI gate, and a browser CEO gate where the human decides.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "plasminds",
+    "repoName": "team-skills",
+    "repoBranch": "main"
+  },
+  "financial-reports/financial-reports-mcp-server": {
+    "name": "financial-reports/financial-reports-mcp-server",
+    "description": "Official remote MCP server for FinancialFilings: regulatory filings, XBRL/ESEF financials and company data from securities regulators worldwide, inside Claude, ChatGPT, Cursor & co.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "financial-reports",
+    "repoName": "financial-reports-mcp-server",
+    "repoBranch": "main"
+  },
+  "guilhermebkel/harness-ledger": {
+    "name": "guilhermebkel/harness-ledger",
+    "description": "Names the harness piece behind each problem in your sessions, what it cost, and whether the fix worked.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guilhermebkel",
+    "repoName": "harness-ledger",
+    "repoBranch": "master"
+  },
+  "SouravAggarwal/Claude-Tools": {
+    "name": "SouravAggarwal/Claude-Tools",
+    "description": "Small, sharp add-ons for Claude Code: a live progress bar for long jobs, and multi-account switching that keeps your chat.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SouravAggarwal",
+    "repoName": "Claude-Tools",
+    "repoBranch": "main"
+  },
+  "dimokol/agent-dojo": {
+    "name": "dimokol/agent-dojo",
+    "description": "Plugins, skills and habits that help you do professional-grade work with coding agents. From my daily workflows as a web and game developer: git guardrails, a machine-pressure gate, agent-to-agent chat, review and ver...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dimokol",
+    "repoName": "agent-dojo",
+    "repoBranch": "main"
+  },
+  "yw0nam/agent-team": {
+    "name": "yw0nam/agent-team",
+    "description": "Claude Code plugin: delegate work to external coding-agent CLIs (codex, opencode, claude) with session-persistent, role-based conversations",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yw0nam",
+    "repoName": "agent-team",
+    "repoBranch": "main"
+  },
+  "superdocsapp/superdocs-plugin": {
+    "name": "superdocsapp/superdocs-plugin",
+    "description": "Typebar (formerly SuperDocs.app): AI document editing as an API, MCP server and web app, for Claude Code, Cursor and any MCP client. Section-precise edits on large documents (100+ pages), multi-document sessions, chan...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "superdocsapp",
+    "repoName": "superdocs-plugin",
+    "repoBranch": "main"
+  },
+  "HelixMorphe/whats-this-pr": {
+    "name": "HelixMorphe/whats-this-pr",
+    "description": "Turn a pull request into a guided review page: an interactive before/after diagram of the behaviour it changes, the diff in ordered steps with notes, and the risks to check. A Claude Code skill + npm package.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HelixMorphe",
+    "repoName": "whats-this-pr",
+    "repoBranch": "main"
   }
 }

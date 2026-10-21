@@ -49454,5 +49454,118 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "10291124jcjc-dotcom/cleopatra-modern-life": {
+        "owner": "10291124jcjc-dotcom",
+        "name": "cleopatra-modern-life",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Mikefluff/skills": {
+        "owner": "Mikefluff",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "trustmybot/plugin": {
+        "owner": "trustmybot",
+        "name": "plugin",
+        "branch": "dev",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oneafrikan/the-grid": {
+        "owner": "oneafrikan",
+        "name": "the-grid",
+        "branch": "main",
+        "enabled": true
+    },
+    "plasminds/team-skills": {
+        "owner": "plasminds",
+        "name": "team-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "financial-reports/financial-reports-mcp-server": {
+        "owner": "financial-reports",
+        "name": "financial-reports-mcp-server",
+        "branch": "main",
+        "enabled": true
+    },
+    "vstlmkh/designing-databases": {
+        "owner": "vstlmkh",
+        "name": "designing-databases",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ledat100398/easy-ai-workflow": {
+        "owner": "ledat100398",
+        "name": "easy-ai-workflow",
+        "branch": "main",
+        "enabled": true
+    },
+    "JasonHMY/personal-finance-visualizer": {
+        "owner": "JasonHMY",
+        "name": "personal-finance-visualizer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guilhermebkel/harness-ledger": {
+        "owner": "guilhermebkel",
+        "name": "harness-ledger",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jin2004-cmd/codex-practical-skills": {
+        "owner": "jin2004-cmd",
+        "name": "codex-practical-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "dimokol/agent-dojo": {
+        "owner": "dimokol",
+        "name": "agent-dojo",
+        "branch": "main",
+        "enabled": true
+    },
+    "yw0nam/agent-team": {
+        "owner": "yw0nam",
+        "name": "agent-team",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "superdocsapp/superdocs-plugin": {
+        "owner": "superdocsapp",
+        "name": "superdocs-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HelixMorphe/whats-this-pr": {
+        "owner": "HelixMorphe",
+        "name": "whats-this-pr",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hinanawi0Tenshi/educoder-autopilot": {
+        "owner": "Hinanawi0Tenshi",
+        "name": "educoder-autopilot",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "junsier9/quant-alpha-research-skill": {
+        "owner": "junsier9",
+        "name": "quant-alpha-research-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

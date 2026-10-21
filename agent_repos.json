@@ -6554,5 +6554,19 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "trustmybot/plugin": {
+    "owner": "trustmybot",
+    "name": "plugin",
+    "branch": "dev",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "oneafrikan/the-grid": {
+    "owner": "oneafrikan",
+    "name": "the-grid",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
