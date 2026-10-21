@@ -49354,5 +49354,105 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "claude-world/claude-skill-antivirus": {
+        "owner": "claude-world",
+        "name": "claude-skill-antivirus",
+        "branch": "main",
+        "enabled": true
+    },
+    "Pippit-dev/cli": {
+        "owner": "Pippit-dev",
+        "name": "cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "SimianX-AI/simianx-skills": {
+        "owner": "SimianX-AI",
+        "name": "simianx-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hongbietcode/finance-kit": {
+        "owner": "hongbietcode",
+        "name": "finance-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "LeahyCC/claude-skills": {
+        "owner": "LeahyCC",
+        "name": "claude-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "artemasmith/skillsentinel": {
+        "owner": "artemasmith",
+        "name": "skillsentinel",
+        "branch": "main",
+        "enabled": true
+    },
+    "k45sle/Claude-auto-pause": {
+        "owner": "k45sle",
+        "name": "Claude-auto-pause",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-search-scraper-guaikei": {
+        "owner": "why20261",
+        "name": "douyin-search-scraper-guaikei",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tatsoft-llc/Claude-Code-Skills": {
+        "owner": "tatsoft-llc",
+        "name": "Claude-Code-Skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "abdelrhman2007/scrollytelling-brand-site": {
+        "owner": "abdelrhman2007",
+        "name": "scrollytelling-brand-site",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Leedonghyo/scrape-skill": {
+        "owner": "Leedonghyo",
+        "name": "scrape-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tuanxminhxgi/agent-tools": {
+        "owner": "tuanxminhxgi",
+        "name": "agent-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "tpc-pascal/skillsmith": {
+        "owner": "tpc-pascal",
+        "name": "skillsmith",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "h0ffmann/ptbr-writer": {
+        "owner": "h0ffmann",
+        "name": "ptbr-writer",
+        "branch": "main",
+        "enabled": true
+    },
+    "rextail-ai/lessloc": {
+        "owner": "rextail-ai",
+        "name": "lessloc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

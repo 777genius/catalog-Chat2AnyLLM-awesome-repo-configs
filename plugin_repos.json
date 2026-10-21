@@ -41554,5 +41554,122 @@
     "repoOwner": "daniel3303",
     "repoName": "stock-market-mcp-server",
     "repoBranch": "master"
+  },
+  "SimianX-AI/simianx-skills": {
+    "name": "SimianX-AI/simianx-skills",
+    "description": "Give any AI agent a full research desk: an 8-agent research committee you can question, live analysis with entry, stop and target, and a scored news stream for US stocks and crypto. Skill + remote MCP for Claude Code,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SimianX-AI",
+    "repoName": "simianx-skills",
+    "repoBranch": "main"
+  },
+  "hongbietcode/finance-kit": {
+    "name": "hongbietcode/finance-kit",
+    "description": "Unified interface for stock data, market analytics, technical analysis, batch collection, and news \u2014 covering 15+ data sources.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hongbietcode",
+    "repoName": "finance-kit",
+    "repoBranch": "main"
+  },
+  "aylee1024/lord-claude": {
+    "name": "aylee1024/lord-claude",
+    "description": "Claude Code plugin: run OpenAI GPT, xAI Grok and Google Gemini as native Claude Code agents, each in its own CLI on your own subscription.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aylee1024",
+    "repoName": "lord-claude",
+    "repoBranch": "main"
+  },
+  "LeahyCC/claude-skills": {
+    "name": "LeahyCC/claude-skills",
+    "description": "Production-grade Claude Code skills verified against official specifications. Zero dependencies. Complete domain coverage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "LeahyCC",
+    "repoName": "claude-skills",
+    "repoBranch": "main"
+  },
+  "k45sle/Claude-auto-pause": {
+    "name": "k45sle/Claude-auto-pause",
+    "description": "Claude Code plugin: stops Claude before your usage limit and saves a checked handoff note, so a new chat picks up where it left off.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "k45sle",
+    "repoName": "Claude-auto-pause",
+    "repoBranch": "main"
+  },
+  "tatsoft-llc/Claude-Code-Skills": {
+    "name": "tatsoft-llc/Claude-Code-Skills",
+    "description": "Eight skills for working with Claude Code as a counterpart: decisions as one recommendation instead of a menu, a mirror look that re-decides from your seat, session close, hand-off and resume, a memory check against w...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tatsoft-llc",
+    "repoName": "Claude-Code-Skills",
+    "repoBranch": "main"
+  },
+  "abdelrhman2007/scrollytelling-brand-site": {
+    "name": "abdelrhman2007/scrollytelling-brand-site",
+    "description": "Claude skill for award-level, scroll-told company websites \u2014 WebGL \"print as you scroll\" 3D, ~0% idle CPU, optional .NET CMS.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abdelrhman2007",
+    "repoName": "scrollytelling-brand-site",
+    "repoBranch": "main"
+  },
+  "Leedonghyo/scrape-skill": {
+    "name": "Leedonghyo/scrape-skill",
+    "description": "Claude Code skill: describe the data you want from any website and get a CSV \u2014 no selectors, no code. \uc2a4\ud06c\ub798\ud551\uc744 \ubab0\ub77c\ub3c4 'URL + \ud55c \ubb38\uc7a5'\uc73c\ub85c \ub370\uc774\ud130\ub97c CSV\ub85c \ubc1b\ub294 Claude Code \uc2a4\ud0ac. Playwright analysis, sample-row confirmation, rate-limited co...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Leedonghyo",
+    "repoName": "scrape-skill",
+    "repoBranch": "main"
+  },
+  "tuanxminhxgi/agent-tools": {
+    "name": "tuanxminhxgi/agent-tools",
+    "description": "Claude Code plugin marketplace \u2014 agent-orchestration: a verified task queue, planner and conductor for AI coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tuanxminhxgi",
+    "repoName": "agent-tools",
+    "repoBranch": "main"
+  },
+  "tpc-pascal/skillsmith": {
+    "name": "tpc-pascal/skillsmith",
+    "description": "Agent skill collections for OpenCode/Claude/Cursor \u2014 installable per collection, local-first",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tpc-pascal",
+    "repoName": "skillsmith",
+    "repoBranch": "main"
+  },
+  "h0ffmann/ptbr-writer": {
+    "name": "h0ffmann/ptbr-writer",
+    "description": "ptbr on rails",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "h0ffmann",
+    "repoName": "ptbr-writer",
+    "repoBranch": "main"
+  },
+  "TroyJLorents-GH/mod-squad": {
+    "name": "TroyJLorents-GH/mod-squad",
+    "description": "Claude Code mods: small plugins for live panes, cost-aware model routing, and safety guards. Install from the marketplace in one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TroyJLorents-GH",
+    "repoName": "mod-squad",
+    "repoBranch": "main"
+  },
+  "rextail-ai/lessloc": {
+    "name": "rextail-ai/lessloc",
+    "description": "Keeps AI coding agents such as Claude Code, Codex, GitHub Copilot, Gemini CLI and Cursor to the least code that does the job and still works.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rextail-ai",
+    "repoName": "lessloc",
+    "repoBranch": "main"
   }
 }
