@@ -50022,5 +50022,120 @@
         "branch": "main",
         "skillsPath": "claude/.claude/skills",
         "enabled": true
+    },
+    "milisp/mcp-linker": {
+        "owner": "milisp",
+        "name": "mcp-linker",
+        "branch": "main",
+        "enabled": true
+    },
+    "crewforth/crewforth": {
+        "owner": "crewforth",
+        "name": "crewforth",
+        "branch": "main",
+        "enabled": true
+    },
+    "nagameTW/formosa-humanizer": {
+        "owner": "nagameTW",
+        "name": "formosa-humanizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CR8-OS/retro-bot": {
+        "owner": "CR8-OS",
+        "name": "retro-bot",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "duyunzhoudyz/gongwen-skills": {
+        "owner": "duyunzhoudyz",
+        "name": "gongwen-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johnfkoo951/cmdspace-plugins": {
+        "owner": "johnfkoo951",
+        "name": "cmdspace-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "avalonreset/legends-github": {
+        "owner": "avalonreset",
+        "name": "legends-github",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Hj714110-oss/idea-to-film": {
+        "owner": "Hj714110-oss",
+        "name": "idea-to-film",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rumoii/rumo-engineering-skills": {
+        "owner": "rumoii",
+        "name": "rumo-engineering-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Mcpgate-de/maisecrets": {
+        "owner": "Mcpgate-de",
+        "name": "maisecrets",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "srezai-team/srezai-web-search-pro-skill": {
+        "owner": "srezai-team",
+        "name": "srezai-web-search-pro-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "SiteSpot/human-web-feedback-loop": {
+        "owner": "SiteSpot",
+        "name": "human-web-feedback-loop",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "TanbirRamim/skill-trigger-bench": {
+        "owner": "TanbirRamim",
+        "name": "skill-trigger-bench",
+        "branch": "master",
+        "enabled": true
+    },
+    "jfships/content-genome": {
+        "owner": "jfships",
+        "name": "content-genome",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "waynehamadi/datacircle": {
+        "owner": "waynehamadi",
+        "name": "datacircle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mdsami/tokentaby": {
+        "owner": "mdsami",
+        "name": "tokentaby",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "anandkaranubc/git-into-gsoc": {
+        "owner": "anandkaranubc",
+        "name": "git-into-gsoc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

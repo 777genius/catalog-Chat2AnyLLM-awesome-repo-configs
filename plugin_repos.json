@@ -42247,5 +42247,122 @@
     "repoOwner": "Beer-de-Vreeze",
     "repoName": "showhow",
     "repoBranch": "main"
+  },
+  "milisp/mcp-linker": {
+    "name": "milisp/mcp-linker",
+    "description": "Manage MCP servers, skills and plugins across Claude Code, Codex, Cursor and more. Built-in marketplace, one-click sync.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "milisp",
+    "repoName": "mcp-linker",
+    "repoBranch": "main"
+  },
+  "crewforth/crewforth": {
+    "name": "crewforth/crewforth",
+    "description": "Your engineering crew for Claude Code \u2014 12 specialists plan, build, review and ship in any stack; the rules that matter are enforced, not remembered.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crewforth",
+    "repoName": "crewforth",
+    "repoBranch": "main"
+  },
+  "nagameTW/formosa-humanizer": {
+    "name": "nagameTW/formosa-humanizer",
+    "description": "\u4ee5\u53f0\u7063\u7528\u8a9e\u548c\u4e2d\u6587\u6a19\u9ede\u91cd\u5beb blader/humanizer\uff0c\u542b\u4e2d\u570b\u7528\u8a9e\u5075\u6e2c\u3002\u652f\u63f4 Claude Code\u3001Codex\u3001Claude.ai",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nagameTW",
+    "repoName": "formosa-humanizer",
+    "repoBranch": "main"
+  },
+  "CR8-OS/retro-bot": {
+    "name": "CR8-OS/retro-bot",
+    "description": "Leave things better than you found them! This claude skill seamlessly integrates iterative feedback across your claude stack and keeps an audit log/paper trail.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CR8-OS",
+    "repoName": "retro-bot",
+    "repoBranch": "main"
+  },
+  "duyunzhoudyz/gongwen-skills": {
+    "name": "duyunzhoudyz/gongwen-skills",
+    "description": "\u516c\u6587\u5199\u4f5c AI Agent Skills\uff1a\u61c2\u89c4\u77e9\u3001\u61c2\u5355\u4f4d\u3001\u61c2\u89d2\u8272\uff1b\u4e0d\u7f16\u9020\u3001\u5b88\u4fdd\u5bc6\u3001\u5e2e\u4f60\u505a\u51cf\u6cd5\u3002\u8986\u76d6 22 \u79cd\u6587\u4e66\u7c7b\u578b\uff0c\u652f\u6301 Claude Code\u3001Codex\u3001Cursor \u7b49\u4e3b\u6d41\u5de5\u5177\uff0c\u9632\u7f16\u9020\u3001\u61c2\u56fd\u6807\u683c\u5f0f\u3001\u9002\u914d\u673a\u5173\u4e8b\u4e1a\u5355\u4f4d\u548c\u533b\u9662\u9ad8\u6821\u56fd\u4f01\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "duyunzhoudyz",
+    "repoName": "gongwen-skills",
+    "repoBranch": "main"
+  },
+  "johnfkoo951/cmdspace-plugins": {
+    "name": "johnfkoo951/cmdspace-plugins",
+    "description": "Claude Code plugins: lecture-asset (lecture transcript to Obsidian hub, atomic claim cards, Bases index), research pipeline, dev orchestrator. By CMDSPACE.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnfkoo951",
+    "repoName": "cmdspace-plugins",
+    "repoBranch": "main"
+  },
+  "rumoii/rumo-engineering-skills": {
+    "name": "rumoii/rumo-engineering-skills",
+    "description": "\u9762\u5411 Claude Code\u3001Codex \u7b49 AI \u7f16\u7a0b agent \u7684\u5de5\u7a0b\u6280\u80fd\uff0c\u8986\u76d6\u9700\u6c42\u6f84\u6e05\u3001\u6d4b\u8bd5\u9a8c\u8bc1\u3001\u4ee3\u7801\u8bc4\u5ba1\uff0c\u4ee5\u53ca\u6539\u6570\u636e\u5e93\u3001\u5220\u6587\u4ef6\u3001\u52a8\u670d\u52a1\u5668\u524d\u7684\u786e\u8ba4\u4e0e\u56de\u6eda\u51c6\u5907\u3002Engineering skills for Claude Code, Codex, and other coding agents, covering clarification, testing and verification, code review, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rumoii",
+    "repoName": "rumo-engineering-skills",
+    "repoBranch": "main"
+  },
+  "Mcpgate-de/maisecrets": {
+    "name": "Mcpgate-de/maisecrets",
+    "description": "Keeps secrets and PII out of the cloud model. Hook plugin for Claude Code/Codex with a local vault.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Mcpgate-de",
+    "repoName": "maisecrets",
+    "repoBranch": "main"
+  },
+  "SiteSpot/human-web-feedback-loop": {
+    "name": "SiteSpot/human-web-feedback-loop",
+    "description": "AI has opinions. Humans have proof. An agent skill that split tests every material website change on real visitors instead of shipping guesses.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SiteSpot",
+    "repoName": "human-web-feedback-loop",
+    "repoBranch": "main"
+  },
+  "mdsami/tokentaby": {
+    "name": "mdsami/tokentaby",
+    "description": "Team token & cost tracking forClaude Code, Codex App & CLI, OpenCode, Gemini CLI, Qwen Code, GitHub Copilot CLI, Kimi Code, Hermes Agent, Antigravity and Cursor in one dashboard.. Per-repo, per-dev, per-model, per-tas...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mdsami",
+    "repoName": "tokentaby",
+    "repoBranch": "main"
+  },
+  "Br4inergy/claude-loadout": {
+    "name": "Br4inergy/claude-loadout",
+    "description": "Loadout, the mod manager for Claude Code: audits every mod and every update with Claude before it runs, keeps your own changes across updates, and shows what each mod's code can really do.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Br4inergy",
+    "repoName": "claude-loadout",
+    "repoBranch": "main"
+  },
+  "anandkaranubc/git-into-gsoc": {
+    "name": "anandkaranubc/git-into-gsoc",
+    "description": "Find your first open-source contribution and prepare for Google Summer of Code: CLI, MCP server, and Agent Skill",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anandkaranubc",
+    "repoName": "git-into-gsoc",
+    "repoBranch": "main"
+  },
+  "coindef/waitroom": {
+    "name": "coindef/waitroom",
+    "description": "Claude Code plugins for the wait on a coding agent: review the diff it already wrote, and forecast how its turn will go.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "coindef",
+    "repoName": "waitroom",
+    "repoBranch": "master"
   }
 }
