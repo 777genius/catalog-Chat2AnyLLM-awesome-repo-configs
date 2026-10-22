@@ -42364,5 +42364,122 @@
     "repoOwner": "coindef",
     "repoName": "waitroom",
     "repoBranch": "master"
+  },
+  "shinpr/rashomon": {
+    "name": "shinpr/rashomon",
+    "description": "Measure prompt and skill improvements with blind A/B comparison.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shinpr",
+    "repoName": "rashomon",
+    "repoBranch": "main"
+  },
+  "VelimirMueller/claude-development-skills": {
+    "name": "VelimirMueller/claude-development-skills",
+    "description": "Audit-first Claude Code skills for frontend, backend, infra, ops and releases \u2014 one marketplace, eight plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VelimirMueller",
+    "repoName": "claude-development-skills",
+    "repoBranch": "main"
+  },
+  "MangroveTechnologies/mangrove-agent": {
+    "name": "MangroveTechnologies/mangrove-agent",
+    "description": "Local MCP server and Claude Code plugin for AI trading agents: 119 tools for market data, backtesting, paper trading and non-custodial execution on Kraken, Robinhood and 1inch. Free API key or x402 pay-per-call.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MangroveTechnologies",
+    "repoName": "mangrove-agent",
+    "repoBranch": "main"
+  },
+  "ayalaphiscan/web-security-guard": {
+    "name": "ayalaphiscan/web-security-guard",
+    "description": "Security plugin for Claude Code: 6 skills + 2 commands for hardening, secure auth (2FA/passkeys), payment privacy, WAF defense agent, 4-layer Fortress architecture and GitHub security workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ayalaphiscan",
+    "repoName": "web-security-guard",
+    "repoBranch": "main"
+  },
+  "jpaarhuis/open-dossier": {
+    "name": "jpaarhuis/open-dossier",
+    "description": "Source-driven knowledge dossiers for Claude: ingest documents into a compounding wiki with traceable analyses, plans, actions and decisions.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jpaarhuis",
+    "repoName": "open-dossier",
+    "repoBranch": "main"
+  },
+  "This-HW/hiway-kit": {
+    "name": "This-HW/hiway-kit",
+    "description": "Universal agent discipline kit \u2014 planning gates, adversarial review, and definition-of-done for coding agents. Works on Claude Code, Codex, and Antigravity.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "This-HW",
+    "repoName": "hiway-kit",
+    "repoBranch": "main"
+  },
+  "shinpr/pr-review-skill": {
+    "name": "shinpr/pr-review-skill",
+    "description": "Review GitHub PRs with repository-specific quality criteria, isolated Claude and Codex reviewers, and structured findings that converge into actionable feedback.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shinpr",
+    "repoName": "pr-review-skill",
+    "repoBranch": "main"
+  },
+  "gauntlet-skills/gauntlet": {
+    "name": "gauntlet-skills/gauntlet",
+    "description": "Three Claude Code skills for building, security hardening, reviewing every change, and proving it's ready to ship.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gauntlet-skills",
+    "repoName": "gauntlet",
+    "repoBranch": "main"
+  },
+  "Parthkomalwad/agentic-harness": {
+    "name": "Parthkomalwad/agentic-harness",
+    "description": "Plug-and-play catalogue of Claude Code packs: skills, agents, workflows, hooks and mods. Enable only what a project needs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Parthkomalwad",
+    "repoName": "agentic-harness",
+    "repoBranch": "main"
+  },
+  "mooktakim/skills": {
+    "name": "mooktakim/skills",
+    "description": "Claude Code plugins that make coding agents follow your project's real conventions - Rails skills, specialist agents, hooks, and CI checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mooktakim",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "rbinar/agents-kit": {
+    "name": "rbinar/agents-kit",
+    "description": "Specialized Claude Code subagents for engineering, product, marketing and sales \u2014 installable as plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rbinar",
+    "repoName": "agents-kit",
+    "repoBranch": "main"
+  },
+  "lehcode/claudelegate": {
+    "name": "lehcode/claudelegate",
+    "description": "Claude Code plugin: delegate coding tasks to any OpenCode model (Grok, Kimi, GLM, Qwen, DeepSeek, MiMo, local). Claude orchestrates, the model implements, Claude reviews the diff and runs the tests. Skill, agent and /...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lehcode",
+    "repoName": "claudelegate",
+    "repoBranch": "main"
+  },
+  "shinpr/agent-clinic": {
+    "name": "shinpr/agent-clinic",
+    "description": "Diagnostic plugins for Claude Code and Codex: why a session went wrong, and whether a proposed change is too much or too little for the outcome.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shinpr",
+    "repoName": "agent-clinic",
+    "repoBranch": "main"
   }
 }

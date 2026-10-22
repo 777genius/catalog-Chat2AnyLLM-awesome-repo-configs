@@ -50137,5 +50137,97 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "appleweiping/AGENT_RESOURCE": {
+        "owner": "appleweiping",
+        "name": "AGENT_RESOURCE",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shinpr/rashomon": {
+        "owner": "shinpr",
+        "name": "rashomon",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "VelimirMueller/claude-development-skills": {
+        "owner": "VelimirMueller",
+        "name": "claude-development-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MangroveTechnologies/mangrove-agent": {
+        "owner": "MangroveTechnologies",
+        "name": "mangrove-agent",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "ayalaphiscan/web-security-guard": {
+        "owner": "ayalaphiscan",
+        "name": "web-security-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jpaarhuis/open-dossier": {
+        "owner": "jpaarhuis",
+        "name": "open-dossier",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "This-HW/hiway-kit": {
+        "owner": "This-HW",
+        "name": "hiway-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "mvoshell652/playlist": {
+        "owner": "mvoshell652",
+        "name": "playlist",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "shinpr/pr-review-skill": {
+        "owner": "shinpr",
+        "name": "pr-review-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "gauntlet-skills/gauntlet": {
+        "owner": "gauntlet-skills",
+        "name": "gauntlet",
+        "branch": "main",
+        "enabled": true
+    },
+    "Parthkomalwad/agentic-harness": {
+        "owner": "Parthkomalwad",
+        "name": "agentic-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "mooktakim/skills": {
+        "owner": "mooktakim",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "lehcode/claudelegate": {
+        "owner": "lehcode",
+        "name": "claudelegate",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shinpr/agent-clinic": {
+        "owner": "shinpr",
+        "name": "agent-clinic",
+        "branch": "main",
+        "enabled": true
     }
 }

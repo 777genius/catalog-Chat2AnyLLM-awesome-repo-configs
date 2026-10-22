@@ -6624,5 +6624,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "shinpr/rashomon": {
+    "owner": "shinpr",
+    "name": "rashomon",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "MangroveTechnologies/mangrove-agent": {
+    "owner": "MangroveTechnologies",
+    "name": "mangrove-agent",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "lehcode/claudelegate": {
+    "owner": "lehcode",
+    "name": "claudelegate",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
