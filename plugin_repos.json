@@ -42040,5 +42040,104 @@
     "repoOwner": "heydeacon",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "adityaarsharma/sitewalk": {
+    "name": "adityaarsharma/sitewalk",
+    "description": "Sitewalk: SEO Audit & Site Crawler. Use it in ChatGPT with no install, or self-host the open-source crawler and MCP server for Claude Code, Cursor and Codex. SEO growth agent included. Powered by LibreCrawl. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "adityaarsharma",
+    "repoName": "sitewalk",
+    "repoBranch": "main"
+  },
+  "obrenoalvim/zero-drift": {
+    "name": "obrenoalvim/zero-drift",
+    "description": "Keeps AI assistants on track during long conversations by tracking tasks across sessions",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "obrenoalvim",
+    "repoName": "zero-drift",
+    "repoBranch": "main"
+  },
+  "yulmucoffee/artiboard": {
+    "name": "yulmucoffee/artiboard",
+    "description": "A shared task board for people and their Claude agents, built as one claude.ai artifact. Views drawn by code, not tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "yulmucoffee",
+    "repoName": "artiboard",
+    "repoBranch": "main"
+  },
+  "minhnhattonthat/translate-retro-game": {
+    "name": "minhnhattonthat/translate-retro-game",
+    "description": "Agent skill + tested tools for fan-translating Japanese retro games (SNES, GBA, NDS, PS1, PSP) into English: recon, text extract/insert, VWF, graphics text, parallel translator agents, headless emulator QA, BPS/xdelta...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "minhnhattonthat",
+    "repoName": "translate-retro-game",
+    "repoBranch": "main"
+  },
+  "whoamimi/plugin-mimi": {
+    "name": "whoamimi/plugin-mimi",
+    "description": "Claude AI Plugin SKILL bundle to help my life of existing as an idiot. Compatiable with Claude Web/Desktop, Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "whoamimi",
+    "repoName": "plugin-mimi",
+    "repoBranch": "main"
+  },
+  "ian-exnodes/statusbar": {
+    "name": "ian-exnodes/statusbar",
+    "description": "Claude Code plugin: a live two-row status line under the prompt with model, git, context fill, 5h/7d quota, tokens, cost and session time",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ian-exnodes",
+    "repoName": "statusbar",
+    "repoBranch": "main"
+  },
+  "WhiteTowerAI/skill-the-spire": {
+    "name": "WhiteTowerAI/skill-the-spire",
+    "description": "Claude Code and Codex plugin that turns a plain-language idea into a working Slay the Spire 2 mod: it designs, writes, builds, and tests the mod in the real game.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "WhiteTowerAI",
+    "repoName": "skill-the-spire",
+    "repoBranch": "main"
+  },
+  "erickb336/sage": {
+    "name": "erickb336/sage",
+    "description": "sage: a plugin for Claude Code (Codex support in progress) that turns a session into your chief of staff. A team of specialist agents designs, builds, reviews and proves the work; you answer product questions and look...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "erickb336",
+    "repoName": "sage",
+    "repoBranch": "main"
+  },
+  "EmpirioLabs-AI/skills": {
+    "name": "EmpirioLabs-AI/skills",
+    "description": "Agent skills for EmpirioLabs AI: generate images, video and speech, transcribe audio, and pick models from the live catalog in OpenClaw, Hermes Agent, Claude Code, Codex and Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EmpirioLabs-AI",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "fireheartjerry/jerry-skills": {
+    "name": "fireheartjerry/jerry-skills",
+    "description": "Agent skills for adversarial quality loops and multi-agent delegation. Works in Claude Code (plugin) and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fireheartjerry",
+    "repoName": "jerry-skills",
+    "repoBranch": "main"
+  },
+  "FSPR2005/kit-pedroza": {
+    "name": "FSPR2005/kit-pedroza",
+    "description": "Skills y agentes propios para Claude Code: mercadotecnia, CV, handoff, auditor\u00edas, revisi\u00f3n antes de subir y elegir modelo y esfuerzo.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FSPR2005",
+    "repoName": "kit-pedroza",
+    "repoBranch": "main"
   }
 }

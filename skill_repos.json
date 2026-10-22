@@ -49789,5 +49789,125 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "skills"
+    },
+    "adityaarsharma/sitewalk": {
+        "owner": "adityaarsharma",
+        "name": "sitewalk",
+        "branch": "main",
+        "enabled": true
+    },
+    "obrenoalvim/zero-drift": {
+        "owner": "obrenoalvim",
+        "name": "zero-drift",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yulmucoffee/artiboard": {
+        "owner": "yulmucoffee",
+        "name": "artiboard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "minhnhattonthat/translate-retro-game": {
+        "owner": "minhnhattonthat",
+        "name": "translate-retro-game",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "getdevintern/devintern": {
+        "owner": "getdevintern",
+        "name": "devintern",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "whoamimi/plugin-mimi": {
+        "owner": "whoamimi",
+        "name": "plugin-mimi",
+        "branch": "main",
+        "enabled": true
+    },
+    "obrenoalvim/no-watermark": {
+        "owner": "obrenoalvim",
+        "name": "no-watermark",
+        "branch": "master",
+        "enabled": true
+    },
+    "WhiteTowerAI/skill-the-spire": {
+        "owner": "WhiteTowerAI",
+        "name": "skill-the-spire",
+        "branch": "main",
+        "enabled": true
+    },
+    "erickb336/sage": {
+        "owner": "erickb336",
+        "name": "sage",
+        "branch": "main",
+        "enabled": true
+    },
+    "CompleteTech-Skills/ai-usage-ledger-skill": {
+        "owner": "CompleteTech-Skills",
+        "name": "ai-usage-ledger-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CompleteTech-Skills/org-time-tracking-skill": {
+        "owner": "CompleteTech-Skills",
+        "name": "org-time-tracking-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "arm-pz/site-prompt": {
+        "owner": "arm-pz",
+        "name": "site-prompt",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "InkRoom-AI/inkroom-client": {
+        "owner": "InkRoom-AI",
+        "name": "inkroom-client",
+        "branch": "main",
+        "enabled": true
+    },
+    "long6177/skills": {
+        "owner": "long6177",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EmpirioLabs-AI/skills": {
+        "owner": "EmpirioLabs-AI",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fireheartjerry/jerry-skills": {
+        "owner": "fireheartjerry",
+        "name": "jerry-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "claude-world/worlds-knowledge-mcp": {
+        "owner": "claude-world",
+        "name": "worlds-knowledge-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "FSPR2005/kit-pedroza": {
+        "owner": "FSPR2005",
+        "name": "kit-pedroza",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

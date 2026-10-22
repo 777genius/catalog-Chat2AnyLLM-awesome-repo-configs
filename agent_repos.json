@@ -6603,5 +6603,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "FSPR2005/kit-pedroza": {
+    "owner": "FSPR2005",
+    "name": "kit-pedroza",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
