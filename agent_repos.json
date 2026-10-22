@@ -6610,5 +6610,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "EngSharaqi/sharaqi-workflow": {
+    "owner": "EngSharaqi",
+    "name": "sharaqi-workflow",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Ethanyang9512/ai-analyst-workbench": {
+    "owner": "Ethanyang9512",
+    "name": "ai-analyst-workbench",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

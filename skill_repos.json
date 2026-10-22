@@ -49909,5 +49909,111 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "xiaodou-official/xiaodou-open-platform": {
+        "owner": "xiaodou-official",
+        "name": "xiaodou-open-platform",
+        "branch": "main",
+        "enabled": true
+    },
+    "modelplan/modelplan": {
+        "owner": "modelplan",
+        "name": "modelplan",
+        "branch": "main",
+        "enabled": true
+    },
+    "jiujiastudy/jiujiastudy": {
+        "owner": "jiujiastudy",
+        "name": "jiujiastudy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Luispitik/business-launcher": {
+        "owner": "Luispitik",
+        "name": "business-launcher",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "google/lightflow": {
+        "owner": "google",
+        "name": "lightflow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "PancheI/BootstrappedOS": {
+        "owner": "PancheI",
+        "name": "BootstrappedOS",
+        "branch": "main",
+        "enabled": true
+    },
+    "mbsdeepak/mbsdeepak-skills": {
+        "owner": "mbsdeepak",
+        "name": "mbsdeepak-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "teransarathchandra/coachline": {
+        "owner": "teransarathchandra",
+        "name": "coachline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shlior7/demo-recorder": {
+        "owner": "shlior7",
+        "name": "demo-recorder",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "longwave-ai-lab/anti-slop-ai-harness": {
+        "owner": "longwave-ai-lab",
+        "name": "anti-slop-ai-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "Fizzl13/fizzl-skills": {
+        "owner": "Fizzl13",
+        "name": "fizzl-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EngSharaqi/sharaqi-workflow": {
+        "owner": "EngSharaqi",
+        "name": "sharaqi-workflow",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Ethanyang9512/ai-analyst-workbench": {
+        "owner": "Ethanyang9512",
+        "name": "ai-analyst-workbench",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nathanpitman/WordPress-to-Astro-migration-skill": {
+        "owner": "nathanpitman",
+        "name": "WordPress-to-Astro-migration-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lucas-lux/ultime-skill": {
+        "owner": "Lucas-lux",
+        "name": "ultime-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Beer-de-Vreeze/showhow": {
+        "owner": "Beer-de-Vreeze",
+        "name": "showhow",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

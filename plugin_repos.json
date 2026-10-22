@@ -42139,5 +42139,113 @@
     "repoOwner": "FSPR2005",
     "repoName": "kit-pedroza",
     "repoBranch": "main"
+  },
+  "modelplan/modelplan": {
+    "name": "modelplan/modelplan",
+    "description": "Which AI coding model, at which effort, on which plan? Recommended efforts, a leaderboard at those efforts and plan advice from modelplan.ai, in Claude Code, Codex and the terminal (plugins, Skill, CLI).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "modelplan",
+    "repoName": "modelplan",
+    "repoBranch": "main"
+  },
+  "Luispitik/business-launcher": {
+    "name": "Luispitik/business-launcher",
+    "description": "Skill de Claude en espa\u00f1ol: una entrevista detecta tu ruta (Escalador, Activador, Redefinidor, Definidor, Explorador) y construye contigo el plan de tu negocio de servicios: mercado, oferta y precios, marca, documenta...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Luispitik",
+    "repoName": "business-launcher",
+    "repoBranch": "master"
+  },
+  "PancheI/BootstrappedOS": {
+    "name": "PancheI/BootstrappedOS",
+    "description": "An AI team for bootstrapping your business.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "PancheI",
+    "repoName": "BootstrappedOS",
+    "repoBranch": "main"
+  },
+  "mbsdeepak/mbsdeepak-skills": {
+    "name": "mbsdeepak/mbsdeepak-skills",
+    "description": "Small, no-bloat Claude Code skills: answer style, learning, and dev chores. Plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mbsdeepak",
+    "repoName": "mbsdeepak-skills",
+    "repoBranch": "main"
+  },
+  "delpotro96/task-lens": {
+    "name": "delpotro96/task-lens",
+    "description": "Claude Code mod: see what subagents, background shells and workflows are doing, in a band above the prompt",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "delpotro96",
+    "repoName": "task-lens",
+    "repoBranch": "main"
+  },
+  "teransarathchandra/coachline": {
+    "name": "teransarathchandra/coachline",
+    "description": "A side panel for Claude Code that coaches every prompt: what to improve, an enhanced prompt to copy, and skills drawn from your past chats. No API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "teransarathchandra",
+    "repoName": "coachline",
+    "repoBranch": "main"
+  },
+  "shlior7/demo-recorder": {
+    "name": "shlior7/demo-recorder",
+    "description": "Polished, narrated demo videos of any web app \u2014 recorded by your coding agent, posted to your PR. A Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shlior7",
+    "repoName": "demo-recorder",
+    "repoBranch": "main"
+  },
+  "EngSharaqi/sharaqi-workflow": {
+    "name": "EngSharaqi/sharaqi-workflow",
+    "description": "One command. The right model for every step. A receipt for the tokens you saved",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EngSharaqi",
+    "repoName": "sharaqi-workflow",
+    "repoBranch": "main"
+  },
+  "Ethanyang9512/ai-analyst-workbench": {
+    "name": "Ethanyang9512/ai-analyst-workbench",
+    "description": "Claude Code skills, hooks and reviewer sub-agents for BI/data analysts: traceable numbers, write/review separation, test-before-release. \u5206\u6790\u5e08\u7684 AI \u5de5\u4f5c\u53f0",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ethanyang9512",
+    "repoName": "ai-analyst-workbench",
+    "repoBranch": "main"
+  },
+  "nathanpitman/WordPress-to-Astro-migration-skill": {
+    "name": "nathanpitman/WordPress-to-Astro-migration-skill",
+    "description": "Claude Code skill: crawl a live WordPress site and rebuild it in Astro with SEO-identical markup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nathanpitman",
+    "repoName": "WordPress-to-Astro-migration-skill",
+    "repoBranch": "main"
+  },
+  "Lucas-lux/ultime-skill": {
+    "name": "Lucas-lux/ultime-skill",
+    "description": "Production-ready skills, subagents and guardrails for AI coding agents: Claude Code, Codex, Gemini CLI, Cursor, GitHub Copilot, OpenCode and more. 473 skills, one-command install.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lucas-lux",
+    "repoName": "ultime-skill",
+    "repoBranch": "main"
+  },
+  "Beer-de-Vreeze/showhow": {
+    "name": "Beer-de-Vreeze/showhow",
+    "description": "Turn your project into a narrated how-to or what's-new video, straight from the code. Agent skill built on Hyperframes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Beer-de-Vreeze",
+    "repoName": "showhow",
+    "repoBranch": "main"
   }
 }
