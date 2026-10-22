@@ -49782,5 +49782,12 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "skills"
+    },
+    "heydeacon/skills": {
+        "owner": "heydeacon",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true,
+        "skillsPath": "skills"
     }
 }
