@@ -42022,5 +42022,14 @@
     "repoOwner": "joealfonso",
     "repoName": "AgentsAndSkills",
     "repoBranch": "main"
+  },
+  "sergebulaev/exotic-car-rental-skills": {
+    "name": "sergebulaev/exotic-car-rental-skills",
+    "description": "6 skills for renting exotic and luxury cars in the US: find who rents a given Lamborghini, Ferrari, Rolls-Royce or G-Wagon in a city at published daily rates, real rental cost, car comparisons, event cars, weekend plans and rental company checks.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sergebulaev",
+    "repoName": "exotic-car-rental-skills",
+    "repoBranch": "main"
   }
 }
