@@ -49775,5 +49775,12 @@
         "name": "AgentsAndSkills",
         "branch": "main",
         "enabled": true
+    },
+    "sergebulaev/exotic-car-rental-skills": {
+        "owner": "sergebulaev",
+        "name": "exotic-car-rental-skills",
+        "branch": "main",
+        "enabled": true,
+        "skillsPath": "skills"
     }
 }
