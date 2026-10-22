@@ -42031,5 +42031,14 @@
     "repoOwner": "sergebulaev",
     "repoName": "exotic-car-rental-skills",
     "repoBranch": "main"
+  },
+  "heydeacon/skills": {
+    "name": "heydeacon/skills",
+    "description": "Skills for adding Deacon, an AI support agent, to a website or app: install the widget and send it goals such as sign ups and upgrades.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "heydeacon",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }
