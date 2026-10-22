@@ -50015,5 +50015,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "elirankotzero/ai-coding-rules-sampler": {
+        "owner": "elirankotzero",
+        "name": "ai-coding-rules-sampler",
+        "branch": "main",
+        "skillsPath": "claude/.claude/skills",
+        "enabled": true
     }
 }
