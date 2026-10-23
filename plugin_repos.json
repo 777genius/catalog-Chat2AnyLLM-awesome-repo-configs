@@ -42589,5 +42589,140 @@
     "repoOwner": "mariusDing",
     "repoName": "sports-video-coach",
     "repoBranch": "master"
+  },
+  "sepehr071/iran-mcp": {
+    "name": "sepehr071/iran-mcp",
+    "description": "39 MCP servers (488 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, laws, tax, crypto, stocks, news and more. Prices in Toman.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sepehr071",
+    "repoName": "iran-mcp",
+    "repoBranch": "main"
+  },
+  "siddik-web/wp-block-theme-converter": {
+    "name": "siddik-web/wp-block-theme-converter",
+    "description": "A Claude skill for converting any HTML/CSS/JavaScript project into a production-ready WordPress Block Theme (Full Site Editing).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "siddik-web",
+    "repoName": "wp-block-theme-converter",
+    "repoBranch": "main"
+  },
+  "husniadil/cc-hooks": {
+    "name": "husniadil/cc-hooks",
+    "description": "Audio feedback plugin for Claude Code with TTS announcements, sound effects, and contextual AI messages. Supports multiple providers and languages.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "husniadil",
+    "repoName": "cc-hooks",
+    "repoBranch": "main"
+  },
+  "rohit3a/usage-meter": {
+    "name": "rohit3a/usage-meter",
+    "description": "Where every Claude token goes, live: plan-limit %, tokens and API-equivalent $ by machine, session, subagent and model. A Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rohit3a",
+    "repoName": "usage-meter",
+    "repoBranch": "main"
+  },
+  "VelimirMueller/ai-development-skills": {
+    "name": "VelimirMueller/ai-development-skills",
+    "description": "Audit-first Claude Code skills for frontend, backend, infra, ops and releases \u2014 one marketplace, eight plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "VelimirMueller",
+    "repoName": "ai-development-skills",
+    "repoBranch": "main"
+  },
+  "dailydotdev/marketplace": {
+    "name": "dailydotdev/marketplace",
+    "description": "Skills and plugins from https://daily.dev/marketplace made by daily.dev community.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dailydotdev",
+    "repoName": "marketplace",
+    "repoBranch": "main"
+  },
+  "muayadjamal/flow-video-recorder": {
+    "name": "muayadjamal/flow-video-recorder",
+    "description": "Agent skill: record narrated, captioned demo videos of web (Playwright) and native iOS (Maestro) apps, with ElevenLabs voice-over and motion graphics",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "muayadjamal",
+    "repoName": "flow-video-recorder",
+    "repoBranch": "main"
+  },
+  "BatuhanCakmakk/wavy-usage": {
+    "name": "BatuhanCakmakk/wavy-usage",
+    "description": "Liquid-filled usage rings above the Claude Code prompt: 5h/7d limits, context, cache TTL, a fighter jet at high effort, and a pane of recent turns and costs.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BatuhanCakmakk",
+    "repoName": "wavy-usage",
+    "repoBranch": "main"
+  },
+  "prosyo-ai/gtm-skill": {
+    "name": "prosyo-ai/gtm-skill",
+    "description": "77+ free, open-source GTM skills for Claude Code, Claude.ai, Codex, Cursor and every AI agent: ICP research, prospecting, buying signals, cold email, LinkedIn outreach, deliverability, reply handling, deals, RevOps, S...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "prosyo-ai",
+    "repoName": "gtm-skill",
+    "repoBranch": "main"
+  },
+  "ShiJianXi/cloud-local-bridge": {
+    "name": "ShiJianXi/cloud-local-bridge",
+    "description": "Claude Code plugin: hand work from a cloud session (Claude Code on the web, claude.ai/code) to a local Claude Desktop or Remote Control session and get the result back",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ShiJianXi",
+    "repoName": "cloud-local-bridge",
+    "repoBranch": "main"
+  },
+  "iamphduc/claude-pod": {
+    "name": "iamphduc/claude-pod",
+    "description": "pod: a Claude Code plugin that ships a plan in waves of parallel Claude engineers \u2014 plan \u2192 sprint \u2192 parallel waves \u2192 review, with you as the merge gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "iamphduc",
+    "repoName": "claude-pod",
+    "repoBranch": "main"
+  },
+  "findot-ai/ant-nest": {
+    "name": "findot-ai/ant-nest",
+    "description": "\ud83d\udc1c A Claude Code plugin: a pixel-art ant colony that grows with how you use AI. \ub0b4 AI \ud65c\uc6a9\uc73c\ub85c \uc790\ub77c\ub294 \uac1c\ubbf8\uad74",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "findot-ai",
+    "repoName": "ant-nest",
+    "repoBranch": "main"
+  },
+  "sekhar14/torus": {
+    "name": "sekhar14/torus",
+    "description": "Persistent research memory for agentic harnesses (Claude Code, Claude Desktop, Codex): a local knowledge graph of companies, sourced claims and investment theses, with SEC filing alerts and research workflows (onboard...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sekhar14",
+    "repoName": "torus",
+    "repoBranch": "main"
+  },
+  "baryonlabs/elixir-security-audit": {
+    "name": "baryonlabs/elixir-security-audit",
+    "description": "Claude Code skill: Elixir/Phoenix security audit & fix (Sobelow, mix_audit, hex.audit, OSV, Opengrep rules)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "baryonlabs",
+    "repoName": "elixir-security-audit",
+    "repoBranch": "main"
+  },
+  "shohelex/avoid-desk-rejection": {
+    "name": "shohelex/avoid-desk-rejection",
+    "description": "Claude Code plugin: /scope-check screens your manuscript the way a journal editor does. 97 tests: the target journal's own requirements, fit with its scope and recent papers, novelty, methods, hallucinated references,...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shohelex",
+    "repoName": "avoid-desk-rejection",
+    "repoBranch": "main"
   }
 }

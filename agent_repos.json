@@ -6666,5 +6666,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "siddik-web/wp-block-theme-converter": {
+    "owner": "siddik-web",
+    "name": "wp-block-theme-converter",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iamphduc/claude-pod": {
+    "owner": "iamphduc",
+    "name": "claude-pod",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

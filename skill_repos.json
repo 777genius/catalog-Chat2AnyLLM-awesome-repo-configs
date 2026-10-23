@@ -50366,5 +50366,98 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "sepehr071/iran-mcp": {
+        "owner": "sepehr071",
+        "name": "iran-mcp",
+        "branch": "main",
+        "enabled": true
+    },
+    "siddik-web/wp-block-theme-converter": {
+        "owner": "siddik-web",
+        "name": "wp-block-theme-converter",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "VelimirMueller/ai-development-skills": {
+        "owner": "VelimirMueller",
+        "name": "ai-development-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dailydotdev/marketplace": {
+        "owner": "dailydotdev",
+        "name": "marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "muayadjamal/flow-video-recorder": {
+        "owner": "muayadjamal",
+        "name": "flow-video-recorder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "louisedesadeleer/tiktok-hooks": {
+        "owner": "louisedesadeleer",
+        "name": "tiktok-hooks",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "prosyo-ai/gtm-skill": {
+        "owner": "prosyo-ai",
+        "name": "gtm-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "TrueFurina/comment-distillery": {
+        "owner": "TrueFurina",
+        "name": "comment-distillery",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Tipatask/tipatask": {
+        "owner": "Tipatask",
+        "name": "tipatask",
+        "branch": "master",
+        "enabled": true
+    },
+    "ShiJianXi/cloud-local-bridge": {
+        "owner": "ShiJianXi",
+        "name": "cloud-local-bridge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iamphduc/claude-pod": {
+        "owner": "iamphduc",
+        "name": "claude-pod",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "sekhar14/torus": {
+        "owner": "sekhar14",
+        "name": "torus",
+        "branch": "main",
+        "enabled": true
+    },
+    "baryonlabs/elixir-security-audit": {
+        "owner": "baryonlabs",
+        "name": "elixir-security-audit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "shohelex/avoid-desk-rejection": {
+        "owner": "shohelex",
+        "name": "avoid-desk-rejection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
