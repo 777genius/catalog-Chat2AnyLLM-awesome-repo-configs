@@ -6680,5 +6680,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "cph0r/veridic": {
+    "owner": "cph0r",
+    "name": "veridic",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -42733,5 +42733,113 @@
     "repoOwner": "cooper-email",
     "repoName": "cooper-email",
     "repoBranch": "main"
+  },
+  "alexgreensh/attention-span": {
+    "name": "alexgreensh/attention-span",
+    "description": "Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "alexgreensh",
+    "repoName": "attention-span",
+    "repoBranch": "main"
+  },
+  "nimbalyst/nimbalyst-wiki": {
+    "name": "nimbalyst/nimbalyst-wiki",
+    "description": "A local wiki your agents write for you. Nimbalyst Wiki plugin for Claude Code and Codex: capture decisions, track typed pages, read and edit in your browser.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nimbalyst",
+    "repoName": "nimbalyst-wiki",
+    "repoBranch": "main"
+  },
+  "zzn199216/worldrole-mcp": {
+    "name": "zzn199216/worldrole-mcp",
+    "description": "MCP for remote jobs worldwide and visa-sponsored jobs abroad. AI-powered matching and scoring, with end-to-end agent assistance from job search to application. | \u5168\u7403\u8fdc\u7a0b\u4e0e\u6d77\u5916\u7b7e\u8bc1\u652f\u6301\u5c97\u4f4d\uff0cAI \u5339\u914d\u8bc4\u5206\uff0c\u6c42\u804c\u5230\u6295\u9012\u5168\u6d41\u7a0b\u534f\u52a9\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zzn199216",
+    "repoName": "worldrole-mcp",
+    "repoBranch": "main"
+  },
+  "shanjeevrajendran/cloakroom": {
+    "name": "shanjeevrajendran/cloakroom",
+    "description": "Claude Code plugin that masks API keys, secrets and personal data (PII) on your machine before the model sees them, and restores them for local tools",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "shanjeevrajendran",
+    "repoName": "cloakroom",
+    "repoBranch": "main"
+  },
+  "chromoany/readme-atlas": {
+    "name": "chromoany/readme-atlas",
+    "description": "An evidence-based agent skill for project READMEs. One install works with Claude Code, Codex, Cursor and 70+ agents. Distilled from 200 open-source projects.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chromoany",
+    "repoName": "readme-atlas",
+    "repoBranch": "main"
+  },
+  "posixplus/prompt-gatekeeper": {
+    "name": "posixplus/prompt-gatekeeper",
+    "description": "Score prompts against a 6-pillar rubric before Claude executes them. Skill + optional hook. Ask, enhance, confirm, run.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "posixplus",
+    "repoName": "prompt-gatekeeper",
+    "repoBranch": "main"
+  },
+  "stefanoskarakasis/GTM-Job-Search": {
+    "name": "stefanoskarakasis/GTM-Job-Search",
+    "description": "Find your next AI GTM role. Claude skills that match you to roles at companies hiring now, research a company's momentum, and tailors your resume, and tailors your resume.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stefanoskarakasis",
+    "repoName": "GTM-Job-Search",
+    "repoBranch": "main"
+  },
+  "MindsMaster/godot-claude-code-skills": {
+    "name": "MindsMaster/godot-claude-code-skills",
+    "description": "Godot 4 skills for Claude Code. Directs it to built-in nodes, resources and project settings across 2D, 3D, UI, audio, shaders, editor tooling and headless testing, in GDScript and C#. Every example is run or compiled...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MindsMaster",
+    "repoName": "godot-claude-code-skills",
+    "repoBranch": "master"
+  },
+  "roypadina/padina-claude-code-plugins": {
+    "name": "roypadina/padina-claude-code-plugins",
+    "description": "Claude Code plugin marketplace by Roy Padina: cmux, agentctl sessions, session recaps, Espanso, MaccyPlus clipboard and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "roypadina",
+    "repoName": "padina-claude-code-plugins",
+    "repoBranch": "main"
+  },
+  "v-amorim/moonlight-claude-mods": {
+    "name": "v-amorim/moonlight-claude-mods",
+    "description": "Mods for Claude Code's terminal: a pill row of side panels (skills, prompts, files, agent progress, heads-up notes), hover tips, and safety checks that hold risky commands. One shared Moonlight look, each mod independ...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "v-amorim",
+    "repoName": "moonlight-claude-mods",
+    "repoBranch": "main"
+  },
+  "cph0r/veridic": {
+    "name": "cph0r/veridic",
+    "description": "Turn your app into specs, kept true by the code. Every rule points at the code that does it and is proven by your tests, a blueprint dashboard shows it all, and your coding agent can't call a change done until it's in...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cph0r",
+    "repoName": "veridic",
+    "repoBranch": "main"
+  },
+  "5dive-ai/5dive-browser": {
+    "name": "5dive-ai/5dive-browser",
+    "description": "A real Chrome for your AI agents, on your own server. Sign in to a site once by hand; the agent uses that session, never your password, and asks you before it pays.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "5dive-ai",
+    "repoName": "5dive-browser",
+    "repoBranch": "main"
   }
 }

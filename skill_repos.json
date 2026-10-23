@@ -50466,5 +50466,123 @@
         "branch": "main",
         "enabled": true,
         "skillsPath": "skills"
+    },
+    "alexgreensh/attention-span": {
+        "owner": "alexgreensh",
+        "name": "attention-span",
+        "branch": "main",
+        "enabled": true
+    },
+    "ZiChenWang114514/chemdraw-skill": {
+        "owner": "ZiChenWang114514",
+        "name": "chemdraw-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "nimbalyst/nimbalyst-wiki": {
+        "owner": "nimbalyst",
+        "name": "nimbalyst-wiki",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "zzn199216/worldrole-mcp": {
+        "owner": "zzn199216",
+        "name": "worldrole-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "poferraz/career-ops": {
+        "owner": "poferraz",
+        "name": "career-ops",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bmcreations/disk-jockey": {
+        "owner": "bmcreations",
+        "name": "disk-jockey",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "charlesdove977/ez-thumb": {
+        "owner": "charlesdove977",
+        "name": "ez-thumb",
+        "branch": "main",
+        "enabled": true
+    },
+    "hhx465453939/agent-taste-seed-system": {
+        "owner": "hhx465453939",
+        "name": "agent-taste-seed-system",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "chromoany/readme-atlas": {
+        "owner": "chromoany",
+        "name": "readme-atlas",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wdcjx/Embedded-programming": {
+        "owner": "wdcjx",
+        "name": "Embedded-programming",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "posixplus/prompt-gatekeeper": {
+        "owner": "posixplus",
+        "name": "prompt-gatekeeper",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stefanoskarakasis/GTM-Job-Search": {
+        "owner": "stefanoskarakasis",
+        "name": "GTM-Job-Search",
+        "branch": "main",
+        "enabled": true
+    },
+    "mturac/ste-prompt-fixer": {
+        "owner": "mturac",
+        "name": "ste-prompt-fixer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MindsMaster/godot-claude-code-skills": {
+        "owner": "MindsMaster",
+        "name": "godot-claude-code-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "roypadina/padina-claude-code-plugins": {
+        "owner": "roypadina",
+        "name": "padina-claude-code-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "v-amorim/moonlight-claude-mods": {
+        "owner": "v-amorim",
+        "name": "moonlight-claude-mods",
+        "branch": "main",
+        "enabled": true
+    },
+    "cph0r/veridic": {
+        "owner": "cph0r",
+        "name": "veridic",
+        "branch": "main",
+        "enabled": true
+    },
+    "5dive-ai/5dive-browser": {
+        "owner": "5dive-ai",
+        "name": "5dive-browser",
+        "branch": "main",
+        "enabled": true
     }
 }
