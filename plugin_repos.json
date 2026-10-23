@@ -42481,5 +42481,14 @@
     "repoOwner": "shinpr",
     "repoName": "agent-clinic",
     "repoBranch": "main"
+  },
+  "laulauraluo/ai-code-review-triage": {
+    "name": "ai-code-review-triage",
+    "description": "Review AI-written pull requests as three jobs: a fresh-context sub-agent bug hunt, context checks (units, history, callers), and a scoped sign-off before approval. Single skill, no scripts. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "laulauraluo",
+    "repoName": "ai-code-review-triage",
+    "repoBranch": "main"
   }
 }

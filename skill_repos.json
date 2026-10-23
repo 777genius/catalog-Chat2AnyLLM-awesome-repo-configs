@@ -50229,5 +50229,12 @@
         "name": "agent-clinic",
         "branch": "main",
         "enabled": true
+    },
+    "laulauraluo/ai-code-review-triage": {
+        "owner": "laulauraluo",
+        "name": "ai-code-review-triage",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
