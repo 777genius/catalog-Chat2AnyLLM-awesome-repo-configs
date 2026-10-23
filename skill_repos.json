@@ -50363,7 +50363,7 @@
     "mariusDing/sports-video-coach": {
         "owner": "mariusDing",
         "name": "sports-video-coach",
-        "branch": "main",
+        "branch": "master",
         "skillsPath": "skills",
         "enabled": true
     }
