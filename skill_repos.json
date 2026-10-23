@@ -50459,5 +50459,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "cooper-email/cooper-email": {
+        "owner": "cooper-email",
+        "name": "cooper-email",
+        "branch": "main",
+        "enabled": true,
+        "skillsPath": "skills"
     }
 }

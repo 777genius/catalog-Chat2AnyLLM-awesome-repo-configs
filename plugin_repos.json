@@ -42724,5 +42724,14 @@
     "repoOwner": "shohelex",
     "repoName": "avoid-desk-rejection",
     "repoBranch": "main"
+  },
+  "cooper-email/cooper-email": {
+    "name": "cooper-email/cooper-email",
+    "description": "Give Claude its own email inbox at cooperemail.com: send, reply, and search mail, wait for replies or sign-up codes, and hold drafts for a human owner's approval, over a hosted MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cooper-email",
+    "repoName": "cooper-email",
+    "repoBranch": "main"
   }
 }
