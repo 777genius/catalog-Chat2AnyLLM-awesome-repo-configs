@@ -50359,5 +50359,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "mariusDing/sports-video-coach": {
+        "owner": "mariusDing",
+        "name": "sports-video-coach",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
