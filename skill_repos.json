@@ -50584,5 +50584,12 @@
         "name": "5dive-browser",
         "branch": "main",
         "enabled": true
+    },
+    "f-o-x11/deed-page-skill": {
+        "owner": "f-o-x11",
+        "name": "deed-page-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

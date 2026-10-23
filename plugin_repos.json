@@ -42841,5 +42841,14 @@
     "repoOwner": "5dive-ai",
     "repoName": "5dive-browser",
     "repoBranch": "main"
+  },
+  "f-o-x11/deed-page-skill": {
+    "name": "f-o-x11/deed-page-skill",
+    "description": "Publish an HTML file or static folder to a permanent https://<slug>.deed.page URL with one request or the deed.page MCP server. No account needed on the free plan.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "f-o-x11",
+    "repoName": "deed-page-skill",
+    "repoBranch": "main"
   }
 }
