@@ -6645,5 +6645,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "ali5ter/obsidian-project-assistant": {
+    "owner": "ali5ter",
+    "name": "obsidian-project-assistant",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "crafts69guy/orchestra": {
+    "owner": "crafts69guy",
+    "name": "orchestra",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "ali5ter/claude-cli-ux-skill": {
+    "owner": "ali5ter",
+    "name": "claude-cli-ux-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

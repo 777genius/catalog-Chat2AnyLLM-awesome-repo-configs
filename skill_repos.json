@@ -50236,5 +50236,128 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "Meet-Miyani/compose-skill": {
+        "owner": "Meet-Miyani",
+        "name": "compose-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "adsorgcn/WorkBuddy": {
+        "owner": "adsorgcn",
+        "name": "WorkBuddy",
+        "branch": "main",
+        "enabled": true
+    },
+    "ali5ter/obsidian-project-assistant": {
+        "owner": "ali5ter",
+        "name": "obsidian-project-assistant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "scrapesmith/scrape-skill": {
+        "owner": "scrapesmith",
+        "name": "scrape-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Valdemar-Yu/Baton": {
+        "owner": "Valdemar-Yu",
+        "name": "Baton",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "yellowyyyu/progress-report-skill": {
+        "owner": "yellowyyyu",
+        "name": "progress-report-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "deejay2883/vibe-coding-kickstart": {
+        "owner": "deejay2883",
+        "name": "vibe-coding-kickstart",
+        "branch": "main",
+        "enabled": true
+    },
+    "altair-world/altair-skills": {
+        "owner": "altair-world",
+        "name": "altair-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/douyin-daily-surge": {
+        "owner": "why20261",
+        "name": "douyin-daily-surge",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jayjayholic/jstack": {
+        "owner": "jayjayholic",
+        "name": "jstack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "johnnalvx/ThinkSpec": {
+        "owner": "johnnalvx",
+        "name": "ThinkSpec",
+        "branch": "main",
+        "enabled": true
+    },
+    "crafts69guy/orchestra": {
+        "owner": "crafts69guy",
+        "name": "orchestra",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ali5ter/claude-cli-ux-skill": {
+        "owner": "ali5ter",
+        "name": "claude-cli-ux-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "guipi888/video-skill-router": {
+        "owner": "guipi888",
+        "name": "video-skill-router",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "PapiScholz/repo-baseline": {
+        "owner": "PapiScholz",
+        "name": "repo-baseline",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Qaphael/workbench-ui": {
+        "owner": "Qaphael",
+        "name": "workbench-ui",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "phykn/loopy": {
+        "owner": "phykn",
+        "name": "loopy",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Samuel-Shek/prompt-optimizer": {
+        "owner": "Samuel-Shek",
+        "name": "prompt-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }

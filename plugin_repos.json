@@ -42490,5 +42490,95 @@
     "repoOwner": "laulauraluo",
     "repoName": "ai-code-review-triage",
     "repoBranch": "main"
+  },
+  "Meet-Miyani/compose-skill": {
+    "name": "Meet-Miyani/compose-skill",
+    "description": "Compose Skill (Compose Kit): agent skills for Jetpack Compose & Compose Multiplatform. Makes Claude Code, Codex, Cursor, Copilot, Gemini CLI and OpenCode write better Compose: MVI, Koin, Navigation 3, Ktor, Room. Test...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Meet-Miyani",
+    "repoName": "compose-skill",
+    "repoBranch": "main"
+  },
+  "scrapesmith/scrape-skill": {
+    "name": "scrapesmith/scrape-skill",
+    "description": "Claude Code skill: describe the data you want from any website and get a CSV \u2014 no selectors, no code. \uc2a4\ud06c\ub798\ud551\uc744 \ubab0\ub77c\ub3c4 'URL + \ud55c \ubb38\uc7a5'\uc73c\ub85c \ub370\uc774\ud130\ub97c CSV\ub85c \ubc1b\ub294 Claude Code \uc2a4\ud0ac. Playwright analysis, sample-row confirmation, rate-limited co...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "scrapesmith",
+    "repoName": "scrape-skill",
+    "repoBranch": "main"
+  },
+  "SummerRiversound/review-inbox": {
+    "name": "SummerRiversound/review-inbox",
+    "description": "Claude Code mod: PRs waiting for your review, each summarized in plain language, plus your own PRs and issues",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SummerRiversound",
+    "repoName": "review-inbox",
+    "repoBranch": "main"
+  },
+  "altair-world/altair-skills": {
+    "name": "altair-world/altair-skills",
+    "description": "Agent skills from Altair AI: weekly multi-model AI research on ~70 US stocks and ETFs (SPY, QQQ, SOXX, XBI, NVDA, AAPL\u2026) via a free MCP server",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "altair-world",
+    "repoName": "altair-skills",
+    "repoBranch": "main"
+  },
+  "jayjayholic/jstack": {
+    "name": "jayjayholic/jstack",
+    "description": "Claude Code skills for parallel AI coding agents on one laptop: ship many git worktree branches as one build and one PR (/train), a machine-wide build lock so Turbopack/tsc don't eat your RAM, and /optimize for web pe...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jayjayholic",
+    "repoName": "jstack",
+    "repoBranch": "main"
+  },
+  "johnnalvx/ThinkSpec": {
+    "name": "johnnalvx/ThinkSpec",
+    "description": "think-spec: a Claude Code plugin for spec-driven development, inspired by Spec-Kit. Take a feature from constitution to EARS spec, plan, test-first tasks and per-requirement validation, with subagents for review, test...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "johnnalvx",
+    "repoName": "ThinkSpec",
+    "repoBranch": "main"
+  },
+  "RyanWeera/crab-progress": {
+    "name": "RyanWeera/crab-progress",
+    "description": "Claude Code mod: progress bar with a pixel mascot, Token Optimizer marks, subagents panel, file tree. Merges github.com/alexgreensh/token-optimizer, github.com/data-goblin/claude-code-filetree, github.com/JohnnyVizz/c...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RyanWeera",
+    "repoName": "crab-progress",
+    "repoBranch": "main"
+  },
+  "crafts69guy/orchestra": {
+    "name": "crafts69guy/orchestra",
+    "description": "Orchestrator + subagents workflow plugin for Claude Code and Codex: parallel implementers in git worktrees (worktrunk).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crafts69guy",
+    "repoName": "orchestra",
+    "repoBranch": "main"
+  },
+  "phykn/loopy": {
+    "name": "phykn/loopy",
+    "description": "A rejection-driven workflow for turning unstable work into stable artifacts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "phykn",
+    "repoName": "loopy",
+    "repoBranch": "main"
+  },
+  "Samuel-Shek/prompt-optimizer": {
+    "name": "Samuel-Shek/prompt-optimizer",
+    "description": "Turn rough requests into copy-ready prompts for ChatGPT, Claude, Codex and Claude Code. Chinese & English editions. \u63d0\u793a\u8bcd\u4f18\u5316\u5668",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Samuel-Shek",
+    "repoName": "prompt-optimizer",
+    "repoBranch": "main"
   }
 }
