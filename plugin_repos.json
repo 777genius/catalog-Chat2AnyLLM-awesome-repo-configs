@@ -42850,5 +42850,14 @@
     "repoOwner": "f-o-x11",
     "repoName": "deed-page-skill",
     "repoBranch": "main"
+  },
+  "agentkitco/agentkit-dev-skills": {
+    "name": "agentkitco/agentkit-dev-skills",
+    "description": "13 MIT-licensed Agent Skills for coding agents: diff review, repro-first debugging, safe refactors, dependency upgrades, session handoff, AGENTS.md audit, and subagent authoring.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "agentkitco",
+    "repoName": "agentkit-dev-skills",
+    "repoBranch": "main"
   }
 }
