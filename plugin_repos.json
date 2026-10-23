@@ -42859,5 +42859,77 @@
     "repoOwner": "agentkitco",
     "repoName": "agentkit-dev-skills",
     "repoBranch": "main"
+  },
+  "latent-spaces/brag": {
+    "name": "latent-spaces/brag",
+    "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "latent-spaces",
+    "repoName": "brag",
+    "repoBranch": "main"
+  },
+  "hamidpl/lore": {
+    "name": "hamidpl/lore",
+    "description": "Claude Code plugin that turns Figma designs, PRDs and briefs, or a live product into validated, maintainable product documentation.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hamidpl",
+    "repoName": "lore",
+    "repoBranch": "main"
+  },
+  "gmbalaa14/thiran-pattarai": {
+    "name": "gmbalaa14/thiran-pattarai",
+    "description": "Claude Code plugin marketplace. Hand-forged skills, grouped into plugins.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "gmbalaa14",
+    "repoName": "thiran-pattarai",
+    "repoBranch": "main"
+  },
+  "Muhammad-Ahmad092/design-and-fix": {
+    "name": "Muhammad-Ahmad092/design-and-fix",
+    "description": "AI skill for Claude, Cursor & Codex that designs system architecture for new projects and audits existing codebases \u2014 clean, ranked Markdown reports on system design, API optimization, and architecture health. No fluf...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Muhammad-Ahmad092",
+    "repoName": "design-and-fix",
+    "repoBranch": "main"
+  },
+  "DoddleHQ/doddle-seo-geo-skills": {
+    "name": "DoddleHQ/doddle-seo-geo-skills",
+    "description": "Doddle SEO & GEO OS \u2014 30 SEO/GEO skills + 5 agents for DoddleOS, backed by a deterministic zero-dependency evidence toolkit (dseo).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DoddleHQ",
+    "repoName": "doddle-seo-geo-skills",
+    "repoBranch": "main"
+  },
+  "Sumonta056/claude-storehouse": {
+    "name": "Sumonta056/claude-storehouse",
+    "description": "A local web dashboard for your Claude Code setup. See, edit, switch on or off, and favorite every skill, agent, plugin, hook, MCP server, setting, and CLAUDE.md, global and per project.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sumonta056",
+    "repoName": "claude-storehouse",
+    "repoBranch": "main"
+  },
+  "knmn2000/tech-blog-to-workbook": {
+    "name": "knmn2000/tech-blog-to-workbook",
+    "description": "An Agent Skill for any coding agent that turns a technical blog post into a LeetCode-style workbook: rebuild what the post builds, assignment by assignment, until you understand what it teaches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "knmn2000",
+    "repoName": "tech-blog-to-workbook",
+    "repoBranch": "main"
+  },
+  "MinimalOne/lobe-forge": {
+    "name": "MinimalOne/lobe-forge",
+    "description": "One git-backed LLM wiki per purpose, each with its own Claude Code skills. Adopts wikis you already have.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MinimalOne",
+    "repoName": "lobe-forge",
+    "repoBranch": "main"
   }
 }

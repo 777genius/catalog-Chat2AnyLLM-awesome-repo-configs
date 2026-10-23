@@ -50598,5 +50598,135 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "latent-spaces/brag": {
+        "owner": "latent-spaces",
+        "name": "brag",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "hamidpl/lore": {
+        "owner": "hamidpl",
+        "name": "lore",
+        "branch": "main",
+        "enabled": true
+    },
+    "kasparovabi/claude-audit-20": {
+        "owner": "kasparovabi",
+        "name": "claude-audit-20",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dmminga1983/minga-humanize-text": {
+        "owner": "dmminga1983",
+        "name": "minga-humanize-text",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dmminga1983/minga-router": {
+        "owner": "dmminga1983",
+        "name": "minga-router",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dz0ny/printforge": {
+        "owner": "dz0ny",
+        "name": "printforge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gmbalaa14/thiran-pattarai": {
+        "owner": "gmbalaa14",
+        "name": "thiran-pattarai",
+        "branch": "main",
+        "enabled": true
+    },
+    "StartupBros-com/memory-dream": {
+        "owner": "StartupBros-com",
+        "name": "memory-dream",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "idumych/beos-app-platforms": {
+        "owner": "idumych",
+        "name": "beos-app-platforms",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dmminga1983/minga-clearmark": {
+        "owner": "dmminga1983",
+        "name": "minga-clearmark",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Muhammad-Ahmad092/design-and-fix": {
+        "owner": "Muhammad-Ahmad092",
+        "name": "design-and-fix",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DoddleHQ/doddle-seo-geo-skills": {
+        "owner": "DoddleHQ",
+        "name": "doddle-seo-geo-skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "remigius42/skill-graft": {
+        "owner": "remigius42",
+        "name": "skill-graft",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Sumonta056/claude-storehouse": {
+        "owner": "Sumonta056",
+        "name": "claude-storehouse",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "knmn2000/tech-blog-to-workbook": {
+        "owner": "knmn2000",
+        "name": "tech-blog-to-workbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mdaneshjoo/skills": {
+        "owner": "mdaneshjoo",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MinimalOne/lobe-forge": {
+        "owner": "MinimalOne",
+        "name": "lobe-forge",
+        "branch": "main",
+        "enabled": true
+    },
+    "EmilySmithCreate/cloud-sim-runs": {
+        "owner": "EmilySmithCreate",
+        "name": "cloud-sim-runs",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rustcircle/c101": {
+        "owner": "rustcircle",
+        "name": "c101",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

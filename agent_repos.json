@@ -6687,5 +6687,33 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "StartupBros-com/memory-dream": {
+    "owner": "StartupBros-com",
+    "name": "memory-dream",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "DoddleHQ/doddle-seo-geo-skills": {
+    "owner": "DoddleHQ",
+    "name": "doddle-seo-geo-skills",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Sumonta056/claude-storehouse": {
+    "owner": "Sumonta056",
+    "name": "claude-storehouse",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rustcircle/c101": {
+    "owner": "rustcircle",
+    "name": "c101",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }
