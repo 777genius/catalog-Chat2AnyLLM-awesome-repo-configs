@@ -21593,6 +21593,15 @@
     "repoName": "marketplace",
     "repoBranch": "main"
   },
+  "ajwann/installed-api": {
+    "name": "installed-api",
+    "description": "MCP tools that answer API questions from the code installed in the project: Python signatures, docstrings and source from the project's interpreter, TypeScript declarations from node_modules, and installed versions. Python standard library only, offline, read-only. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajwann",
+    "repoName": "installed-api",
+    "repoBranch": "main"
+  },
   "m-esm/smart-subagents": {
     "name": "m-esm/smart-subagents",
     "description": "Quota-aware subagent routing for Claude Code. Reads live rate limits across codex/grok/kimi, dispatches to the CLI with headroom, isolates in a git worktree, and verifies the diff before reporting.",
