@@ -51042,5 +51042,12 @@
         "name": "skill-skill",
         "branch": "main",
         "enabled": true
+    },
+    "datawebot/datawebot-mcp": {
+        "owner": "datawebot",
+        "name": "datawebot-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
