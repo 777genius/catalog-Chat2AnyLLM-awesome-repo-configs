@@ -43057,5 +43057,113 @@
     "repoOwner": "dakcoh",
     "repoName": "commerce-backend-expert",
     "repoBranch": "master"
+  },
+  "ynqa/claude-convey": {
+    "name": "ynqa/claude-convey",
+    "description": "Pick instead of type when filling Claude Code prompts from a form",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ynqa",
+    "repoName": "claude-convey",
+    "repoBranch": "main"
+  },
+  "patolojiAI/pathology-skills-collection": {
+    "name": "patolojiAI/pathology-skills-collection",
+    "description": "Comprehensive clinical pathology toolkit for Claude - skills for CAP/ICCR compliance, TNM staging, synoptic templates, SNOMED coding, tumor board summaries, scientific similarity checking, and reference verification.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "patolojiAI",
+    "repoName": "pathology-skills-collection",
+    "repoBranch": "master"
+  },
+  "290990-collab/CLAW": {
+    "name": "290990-collab/CLAW",
+    "description": "Send Claude to meditate. CLAW makes Claude Code check before it claims, ask before it guesses, and call in a crew of cheaper subagents when the job gets big.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "290990-collab",
+    "repoName": "CLAW",
+    "repoBranch": "main"
+  },
+  "mirzaaghazadeh/iwsdk-webxr-skills": {
+    "name": "mirzaaghazadeh/iwsdk-webxr-skills",
+    "description": "Claude Code skill library for building WebXR games with Meta's Immersive Web SDK (IWSDK), testing on Meta Quest and shipping on the Horizon Store",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mirzaaghazadeh",
+    "repoName": "iwsdk-webxr-skills",
+    "repoBranch": "main"
+  },
+  "NJ-Burrito/NJ-Kit": {
+    "name": "NJ-Burrito/NJ-Kit",
+    "description": "Claude Code skills that end in PASS or FAIL: a free working method and 40 skills (plugin in 2 lines). QA and Jira, PDFs, Arabic + English, agent teams. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NJ-Burrito",
+    "repoName": "NJ-Kit",
+    "repoBranch": "main"
+  },
+  "synaptik-app/synaptik": {
+    "name": "synaptik-app/synaptik",
+    "description": "Accept, reject or comment on any part of the agent's reply \u2014 Synaptik turns your marks into one prompt. A Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "synaptik-app",
+    "repoName": "synaptik",
+    "repoBranch": "main"
+  },
+  "codecycle-plugin/codecycle": {
+    "name": "codecycle-plugin/codecycle",
+    "description": "Claude Code Plugin: fester, wiederholbarer Arbeitsablauf mit Rollen-Agenten, CLI-Werkzeug und Mod (Bautafel, Seitenleiste).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codecycle-plugin",
+    "repoName": "codecycle",
+    "repoBranch": "main"
+  },
+  "T-AI-Labs/claude-code-mods": {
+    "name": "T-AI-Labs/claude-code-mods",
+    "description": "A collection of mods for Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "T-AI-Labs",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "justyk99/smartuse": {
+    "name": "justyk99/smartuse",
+    "description": "Use Claude Code smartly: one line in, a planner-grade kickoff out \u2014 docs that stay current, a reply voice you choose, a safety floor, and a receipt for every run.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justyk99",
+    "repoName": "smartuse",
+    "repoBranch": "main"
+  },
+  "polytheseus/trades-skills": {
+    "name": "polytheseus/trades-skills",
+    "description": "Free AI skills for tradespeople and contractors: written quotes, late-payment chasers, review replies. ChatGPT, Gemini, Claude, Codex, Cursor and more.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "polytheseus",
+    "repoName": "trades-skills",
+    "repoBranch": "main"
+  },
+  "polytheseus/sre-skills": {
+    "name": "polytheseus/sre-skills",
+    "description": "SRE & DevOps skills for Claude Code: incident triage, Kubernetes debugging, CI failures, postmortems, Terraform plan review, log forensics.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "polytheseus",
+    "repoName": "sre-skills",
+    "repoBranch": "main"
+  },
+  "polytheseus/real-estate-skills": {
+    "name": "polytheseus/real-estate-skills",
+    "description": "Free AI skills for real estate agents, realtors and estate agents: fair-housing-checked listing descriptions, lead follow-up, offer comparisons. ChatGPT, Gemini, Claude, Codex, Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "polytheseus",
+    "repoName": "real-estate-skills",
+    "repoBranch": "main"
   }
 }

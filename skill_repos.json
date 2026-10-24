@@ -50832,5 +50832,108 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "sno-ai/sno-station": {
+        "owner": "sno-ai",
+        "name": "sno-station",
+        "branch": "main",
+        "enabled": true
+    },
+    "krutikkkkkkkkk/creative-ui": {
+        "owner": "krutikkkkkkkkk",
+        "name": "creative-ui",
+        "branch": "main",
+        "enabled": true
+    },
+    "tonydzi/whatsapp-mcp-kit": {
+        "owner": "tonydzi",
+        "name": "whatsapp-mcp-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tonydzi/telegram-mcp-kit": {
+        "owner": "tonydzi",
+        "name": "telegram-mcp-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ynqa/claude-convey": {
+        "owner": "ynqa",
+        "name": "claude-convey",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "u8961310/tw-edu-assessment-theory": {
+        "owner": "u8961310",
+        "name": "tw-edu-assessment-theory",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "patolojiAI/pathology-skills-collection": {
+        "owner": "patolojiAI",
+        "name": "pathology-skills-collection",
+        "branch": "master",
+        "enabled": true
+    },
+    "290990-collab/CLAW": {
+        "owner": "290990-collab",
+        "name": "CLAW",
+        "branch": "main",
+        "enabled": true
+    },
+    "mirzaaghazadeh/iwsdk-webxr-skills": {
+        "owner": "mirzaaghazadeh",
+        "name": "iwsdk-webxr-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "NJ-Burrito/NJ-Kit": {
+        "owner": "NJ-Burrito",
+        "name": "NJ-Kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "codecycle-plugin/codecycle": {
+        "owner": "codecycle-plugin",
+        "name": "codecycle",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "justyk99/smartuse": {
+        "owner": "justyk99",
+        "name": "smartuse",
+        "branch": "main",
+        "enabled": true
+    },
+    "aksheyw/claude-code-starter-kit": {
+        "owner": "aksheyw",
+        "name": "claude-code-starter-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "polytheseus/trades-skills": {
+        "owner": "polytheseus",
+        "name": "trades-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "polytheseus/sre-skills": {
+        "owner": "polytheseus",
+        "name": "sre-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "polytheseus/real-estate-skills": {
+        "owner": "polytheseus",
+        "name": "real-estate-skills",
+        "branch": "main",
+        "enabled": true
     }
 }
