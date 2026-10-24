@@ -50728,5 +50728,109 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "sanshengai/sansheng-tv-adb": {
+        "owner": "sanshengai",
+        "name": "sansheng-tv-adb",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "GgauravJ05/decklume": {
+        "owner": "GgauravJ05",
+        "name": "decklume",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stephennmiller/taskgraph-ai": {
+        "owner": "stephennmiller",
+        "name": "taskgraph-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "byheaven/byheaven-skills": {
+        "owner": "byheaven",
+        "name": "byheaven-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "caredhieacid/jensenmo-happy_coding_everyday": {
+        "owner": "caredhieacid",
+        "name": "jensenmo-happy_coding_everyday",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "7tattoo/vivo-car-atomic-lyrics": {
+        "owner": "7tattoo",
+        "name": "vivo-car-atomic-lyrics",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "codyhxyz/create-chrome-extension": {
+        "owner": "codyhxyz",
+        "name": "create-chrome-extension",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mikaeladityan/lessons-learned": {
+        "owner": "mikaeladityan",
+        "name": "lessons-learned",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Surfrrosa/claude-skills": {
+        "owner": "Surfrrosa",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "tammai/sdlc": {
+        "owner": "tammai",
+        "name": "sdlc",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Atlas-X-AI/hermes-kanban-watch": {
+        "owner": "Atlas-X-AI",
+        "name": "hermes-kanban-watch",
+        "branch": "main",
+        "enabled": true
+    },
+    "wcfcarolina13/motion-studio": {
+        "owner": "wcfcarolina13",
+        "name": "motion-studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "mpwilso/mordecai": {
+        "owner": "mpwilso",
+        "name": "mordecai",
+        "branch": "master",
+        "enabled": true
+    },
+    "mpwilso/loupe": {
+        "owner": "mpwilso",
+        "name": "loupe",
+        "branch": "master",
+        "enabled": true
+    },
+    "mpwilso/isr": {
+        "owner": "mpwilso",
+        "name": "isr",
+        "branch": "master",
+        "enabled": true
+    },
+    "dakcoh/commerce-backend-expert": {
+        "owner": "dakcoh",
+        "name": "commerce-backend-expert",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

@@ -42931,5 +42931,131 @@
     "repoOwner": "MinimalOne",
     "repoName": "lobe-forge",
     "repoBranch": "main"
+  },
+  "sanshengai/sansheng-tv-adb": {
+    "name": "sanshengai/sansheng-tv-adb",
+    "description": "Debloat an Android TV over ADB with an AI agent: brand-by-brand developer-mode entries, twelve safety gates, every step reversible. No root. \u8ba9 AI \u66ff\u4f60\u6e05\u7406\u7535\u89c6\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sanshengai",
+    "repoName": "sansheng-tv-adb",
+    "repoBranch": "main"
+  },
+  "GgauravJ05/decklume": {
+    "name": "GgauravJ05/decklume",
+    "description": "Decklume \u2014 a Claude Code skill that turns any topic, notes or PowerPoint into a designed, animated HTML presentation. 13 designer themes, 26 tested layouts, Magic Move transitions, presenter view and automated design QA.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GgauravJ05",
+    "repoName": "decklume",
+    "repoBranch": "main"
+  },
+  "stephennmiller/taskgraph-ai": {
+    "name": "stephennmiller/taskgraph-ai",
+    "description": "Task management for AI coding agents. Turn a PRD into a dependency-aware task list and work it in Claude Code via slash commands, CLI or MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "stephennmiller",
+    "repoName": "taskgraph-ai",
+    "repoBranch": "main"
+  },
+  "byheaven/byheaven-skills": {
+    "name": "byheaven/byheaven-skills",
+    "description": "A collection of agent skills for code and productive work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "byheaven",
+    "repoName": "byheaven-skills",
+    "repoBranch": "main"
+  },
+  "caredhieacid/jensenmo-happy_coding_everyday": {
+    "name": "caredhieacid/jensenmo-happy_coding_everyday",
+    "description": "Good engineering habits for AI coding agents. Keeps small changes quick and big ones careful: finds the real cause, changes only what's needed, checks the result, and explains it plainly. Plugins for Codex and Claude...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "caredhieacid",
+    "repoName": "jensenmo-happy_coding_everyday",
+    "repoBranch": "main"
+  },
+  "codyhxyz/create-chrome-extension": {
+    "name": "codyhxyz/create-chrome-extension",
+    "description": "Six skills that scaffold a Chrome extension, fill the listing copy, capture screenshots, set up Chrome Web Store OAuth, and orchestrate submission. Pairs with the cce-factory WXT template.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "codyhxyz",
+    "repoName": "create-chrome-extension",
+    "repoBranch": "main"
+  },
+  "tammai/sdlc": {
+    "name": "tammai/sdlc",
+    "description": "One Claude Code plugin for the whole software lifecycle: an orchestrator sizes each piece of work (S/M/L) and walks it through up to 11 gated stages, from spec and design through TDD, a fresh verifier and multi-agent...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tammai",
+    "repoName": "sdlc",
+    "repoBranch": "main"
+  },
+  "kryo-o/claude-code-setup": {
+    "name": "kryo-o/claude-code-setup",
+    "description": "Secure Claude Code template: sandbox, deny-guard hook, cost status line, Context7 docs, reviewed plugins",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kryo-o",
+    "repoName": "claude-code-setup",
+    "repoBranch": "main"
+  },
+  "Atlas-X-AI/hermes-kanban-watch": {
+    "name": "Atlas-X-AI/hermes-kanban-watch",
+    "description": "Watch Hermes Agent Kanban workers live inside Claude Code: read-only workflow rows, bring-your-own models, cross-family review routing.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Atlas-X-AI",
+    "repoName": "hermes-kanban-watch",
+    "repoBranch": "main"
+  },
+  "wcfcarolina13/motion-studio": {
+    "name": "wcfcarolina13/motion-studio",
+    "description": "Claude Code skill for code-rendered motion-graphics films: live annotated preview, licensed music cut to the beat, recorded foley, and a blind-read gate.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wcfcarolina13",
+    "repoName": "motion-studio",
+    "repoBranch": "main"
+  },
+  "mpwilso/mordecai": {
+    "name": "mpwilso/mordecai",
+    "description": "Reads a skill's eval results and says what the skill can honestly claim.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mpwilso",
+    "repoName": "mordecai",
+    "repoBranch": "master"
+  },
+  "mpwilso/loupe": {
+    "name": "mpwilso/loupe",
+    "description": "A Claude skill that turns meeting notes, tickets and emails into stories a developer can build without a second meeting. Works in Claude and Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mpwilso",
+    "repoName": "loupe",
+    "repoBranch": "master"
+  },
+  "mpwilso/isr": {
+    "name": "mpwilso/isr",
+    "description": "Writes the acceptance script for an AI-built change: what the build proved, what a person still has to check, and what the business has to decide.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mpwilso",
+    "repoName": "isr",
+    "repoBranch": "master"
+  },
+  "dakcoh/commerce-backend-expert": {
+    "name": "dakcoh/commerce-backend-expert",
+    "description": "\ud55c\uad6d \uc774\ucee4\uba38\uc2a4 \ubc31\uc5d4\ub4dc \uac1c\ubc1c\uc744 \uc704\ud55c Markdown \uc2a4\ud0ac\u00b7\ud6c5 \ud50c\ub7ec\uadf8\uc778. \uc8fc\ubb38\u00b7\uc7ac\uace0\u00b7\uacb0\uc81c\u00b7\ud658\ubd88\u00b7\uc815\uc0b0\u00b7Java/Spring \uc9c0\uce68\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dakcoh",
+    "repoName": "commerce-backend-expert",
+    "repoBranch": "master"
   }
 }
