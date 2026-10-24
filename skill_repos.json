@@ -51049,5 +51049,33 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "jack-reson8/pro-motion": {
+        "owner": "jack-reson8",
+        "name": "pro-motion",
+        "branch": "main",
+        "skillsPath": "plugins/pro-motion/skills",
+        "enabled": true
+    },
+    "jack-reson8/pro-launch": {
+        "owner": "jack-reson8",
+        "name": "pro-launch",
+        "branch": "main",
+        "skillsPath": "plugins/pro-launch/skills",
+        "enabled": true
+    },
+    "jack-reson8/renhua": {
+        "owner": "jack-reson8",
+        "name": "renhua",
+        "branch": "main",
+        "skillsPath": "plugins/renhua/skills",
+        "enabled": true
+    },
+    "jack-reson8/post-skill": {
+        "owner": "jack-reson8",
+        "name": "post-skill",
+        "branch": "main",
+        "skillsPath": "plugins/post/skills",
+        "enabled": true
     }
 }

@@ -243,5 +243,12 @@
     "enabled": true,
     "serverName": "io.github.daniel3303/equibles",
     "note": "Stock market and financial data for AI agents: SEC filings, financial statements, earnings call transcripts, insider and congressional trades, 13F holdings, options and macro data. Hosted MCP: https://mcp.equibles.com/mcp (Streamable HTTP, OAuth or API key, needs an Equibles account, free plan of 100 requests a day). Canonical metadata is in server.json. Docs: https://equibles.com/docs/mcp"
+  },
+  "jack-reson8/toolkb-mcp": {
+    "owner": "jack-reson8",
+    "name": "toolkb-mcp",
+    "branch": "main",
+    "enabled": true,
+    "note": "Local MCP server (npx, stdio) that turns links into clean Markdown: web pages, YouTube transcripts and playlists, App Store reviews. No API key, no account."
   }
 }
