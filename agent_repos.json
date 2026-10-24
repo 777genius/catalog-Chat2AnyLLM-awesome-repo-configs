@@ -6750,5 +6750,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "fattain-naime/engineering-docs": {
+    "owner": "fattain-naime",
+    "name": "engineering-docs",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "iadr-dev/kotlin-claude-workflow": {
+    "owner": "iadr-dev",
+    "name": "kotlin-claude-workflow",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "Sylad/cadence": {
+    "owner": "Sylad",
+    "name": "cadence",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

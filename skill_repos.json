@@ -51077,5 +51077,125 @@
         "branch": "main",
         "skillsPath": "plugins/post/skills",
         "enabled": true
+    },
+    "abhixv/google-m3-expressive-design-skill": {
+        "owner": "abhixv",
+        "name": "google-m3-expressive-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "doomsday-network/doomsday": {
+        "owner": "doomsday-network",
+        "name": "doomsday",
+        "branch": "main",
+        "enabled": true
+    },
+    "fattain-naime/engineering-docs": {
+        "owner": "fattain-naime",
+        "name": "engineering-docs",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pushprove-max/Commandeck": {
+        "owner": "pushprove-max",
+        "name": "Commandeck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JohnWayneeee/ai-agent-skills": {
+        "owner": "JohnWayneeee",
+        "name": "ai-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "iadr-dev/kotlin-claude-workflow": {
+        "owner": "iadr-dev",
+        "name": "kotlin-claude-workflow",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "voyvodka/claude-project-flow": {
+        "owner": "voyvodka",
+        "name": "claude-project-flow",
+        "branch": "main",
+        "enabled": true
+    },
+    "jonalonso/clip-video": {
+        "owner": "jonalonso",
+        "name": "clip-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "luppichristian/fluent": {
+        "owner": "luppichristian",
+        "name": "fluent",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "MGNetworking/claude-forge": {
+        "owner": "MGNetworking",
+        "name": "claude-forge",
+        "branch": "master",
+        "enabled": true
+    },
+    "getvibekits/vibe-coding-rules": {
+        "owner": "getvibekits",
+        "name": "vibe-coding-rules",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "julianosirtori/skills": {
+        "owner": "julianosirtori",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vitaliiphangan-code/add-domain-website-skills": {
+        "owner": "vitaliiphangan-code",
+        "name": "add-domain-website-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "AILoopwise/ailoopwise-blueprint": {
+        "owner": "AILoopwise",
+        "name": "ailoopwise-blueprint",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sylad/cadence": {
+        "owner": "Sylad",
+        "name": "cadence",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rperez030/accessible-agent-skills": {
+        "owner": "rperez030",
+        "name": "accessible-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dmealing/dougs-ai-tools": {
+        "owner": "dmealing",
+        "name": "dougs-ai-tools",
+        "branch": "main",
+        "enabled": true
+    },
+    "jinhuang712/claude-code-worktree": {
+        "owner": "jinhuang712",
+        "name": "claude-code-worktree",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

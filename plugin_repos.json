@@ -43345,5 +43345,95 @@
     "repoOwner": "jack-reson8",
     "repoName": "post-skill",
     "repoBranch": "main"
+  },
+  "abhixv/google-m3-expressive-design-skill": {
+    "name": "abhixv/google-m3-expressive-design-skill",
+    "description": "Material Design 3 and M3 Expressive packaged as an agent skill. Exact design tokens, per-component dp geometry, motion springs, and 2,587 reference images for Claude Code, Codex, Cursor, and Copilot.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abhixv",
+    "repoName": "google-m3-expressive-design-skill",
+    "repoBranch": "main"
+  },
+  "fattain-naime/engineering-docs": {
+    "name": "fattain-naime/engineering-docs",
+    "description": "22 composable, auto-triggering skills engineering documentation skills covering the complete software lifecycle: spec, feasibility, architecture, design, API, database, ADR, security, deployment, operations, and incid...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fattain-naime",
+    "repoName": "engineering-docs",
+    "repoBranch": "main"
+  },
+  "pushprove-max/Commandeck": {
+    "name": "pushprove-max/Commandeck",
+    "description": "Orca workflow plugin for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pushprove-max",
+    "repoName": "Commandeck",
+    "repoBranch": "main"
+  },
+  "jonalonso/clip-video": {
+    "name": "jonalonso/clip-video",
+    "description": "Claude Code plugin: turn long videos into vertical 9:16 clips with face tracking, word-by-word captions and hook titles, plus titles, descriptions and hashtags for YouTube Shorts, TikTok, Instagram and Facebook. Local...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jonalonso",
+    "repoName": "clip-video",
+    "repoBranch": "main"
+  },
+  "MGNetworking/claude-forge": {
+    "name": "MGNetworking/claude-forge",
+    "description": "Plugin Claude Code \u00ab forge \u00bb : commandes, skills et biblioth\u00e8que agent-engine (r\u00f4les, cycles, sch\u00e9mas)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MGNetworking",
+    "repoName": "claude-forge",
+    "repoBranch": "master"
+  },
+  "julianosirtori/skills": {
+    "name": "julianosirtori/skills",
+    "description": "Agent Skills (SKILL.md) for Claude Code, OpenCode, Codex, Cursor and Gemini CLI. Installable with npx skills or as a Claude Code plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "julianosirtori",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "vitaliiphangan-code/add-domain-website-skills": {
+    "name": "vitaliiphangan-code/add-domain-website-skills",
+    "description": "Build responsive business websites from the first brief, with optional custom-address planning through Add Domain.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "vitaliiphangan-code",
+    "repoName": "add-domain-website-skills",
+    "repoBranch": "main"
+  },
+  "Sylad/cadence": {
+    "name": "Sylad/cadence",
+    "description": "A small working method in your repo for Claude Code: a versioned plan linked to commits, waves of AI sessions, deliveries proved by their effect.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sylad",
+    "repoName": "cadence",
+    "repoBranch": "main"
+  },
+  "dmealing/dougs-ai-tools": {
+    "name": "dmealing/dougs-ai-tools",
+    "description": "Claude Code plugin marketplace: session handoff and pickup skills, context-window nudge and a cross-model second opinion, for Claude Code and similar coding agents",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dmealing",
+    "repoName": "dougs-ai-tools",
+    "repoBranch": "main"
+  },
+  "jinhuang712/claude-code-worktree": {
+    "name": "jinhuang712/claude-code-worktree",
+    "description": "Session-native git worktrees for Claude Code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jinhuang712",
+    "repoName": "claude-code-worktree",
+    "repoBranch": "main"
   }
 }
