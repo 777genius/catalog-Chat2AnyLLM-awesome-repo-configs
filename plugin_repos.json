@@ -43300,5 +43300,50 @@
     "repoOwner": "datawebot",
     "repoName": "datawebot-mcp",
     "repoBranch": "main"
+  },
+  "jack-reson8/copy-that": {
+    "name": "jack-reson8/copy-that",
+    "description": "Copy That: one plugin marketplace for five taste-first skills (pro-motion, pro-launch, post, renhua, skill-skill) for Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jack-reson8",
+    "repoName": "copy-that",
+    "repoBranch": "main"
+  },
+  "jack-reson8/pro-motion": {
+    "name": "jack-reson8/pro-motion",
+    "description": "Audio-first motion-graphics launch films, brand films and promos rendered in code and cut to the beat, with campaign mechanism, sonic logo and Suno prompts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jack-reson8",
+    "repoName": "pro-motion",
+    "repoBranch": "main"
+  },
+  "jack-reson8/pro-launch": {
+    "name": "jack-reson8/pro-launch",
+    "description": "Build an app or product 0 to 1, taste first: positioning, naming and domains, reference hunting, style frames, feature map, UI loop, launch and GTM.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jack-reson8",
+    "repoName": "pro-launch",
+    "repoBranch": "main"
+  },
+  "jack-reson8/renhua": {
+    "name": "jack-reson8/renhua",
+    "description": "Write Chinese posts, product copy and replies in a real person's voice and strip Chinese AI tells; Xiaohongshu title library and humor patterns.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jack-reson8",
+    "repoName": "renhua",
+    "repoBranch": "main"
+  },
+  "jack-reson8/post-skill": {
+    "name": "jack-reson8/post-skill",
+    "description": "Share-image sets for Xiaohongshu and X that look native: App Store poster layouts, pixel-faithful UI mocks, charts, true facts only.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jack-reson8",
+    "repoName": "post-skill",
+    "repoBranch": "main"
   }
 }
