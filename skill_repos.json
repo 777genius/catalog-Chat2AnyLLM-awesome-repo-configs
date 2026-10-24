@@ -50935,5 +50935,112 @@
         "name": "real-estate-skills",
         "branch": "main",
         "enabled": true
+    },
+    "google/elephant-goldfish-model": {
+        "owner": "google",
+        "name": "elephant-goldfish-model",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Ovich/swarmstorm": {
+        "owner": "Ovich",
+        "name": "swarmstorm",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cukas/remembrall": {
+        "owner": "cukas",
+        "name": "remembrall",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tatimblin/sub-human": {
+        "owner": "tatimblin",
+        "name": "sub-human",
+        "branch": "master",
+        "enabled": true
+    },
+    "Breadstick-Crumbs/fanout": {
+        "owner": "Breadstick-Crumbs",
+        "name": "fanout",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Buirst/stockroom": {
+        "owner": "Buirst",
+        "name": "stockroom",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "patronus-protect/patronus-security-cli": {
+        "owner": "patronus-protect",
+        "name": "patronus-security-cli",
+        "branch": "main",
+        "enabled": true
+    },
+    "anksarvesh-lgtm/agent-guard": {
+        "owner": "anksarvesh-lgtm",
+        "name": "agent-guard",
+        "branch": "main",
+        "enabled": true
+    },
+    "wheakerd/axiom": {
+        "owner": "wheakerd",
+        "name": "axiom",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dexio-wiki/llm-wiki-skills": {
+        "owner": "dexio-wiki",
+        "name": "llm-wiki-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "varunk130/claude-code-skills": {
+        "owner": "varunk130",
+        "name": "claude-code-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "reedodev/dynamic-captions": {
+        "owner": "reedodev",
+        "name": "dynamic-captions",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ankushular-oss/ctf-challenge-playbook": {
+        "owner": "ankushular-oss",
+        "name": "ctf-challenge-playbook",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "iceteps/claude-settings-clean": {
+        "owner": "iceteps",
+        "name": "claude-settings-clean",
+        "branch": "main",
+        "enabled": true
+    },
+    "rokokol/telegram-skill": {
+        "owner": "rokokol",
+        "name": "telegram-skill",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jack-reson8/skill-skill": {
+        "owner": "jack-reson8",
+        "name": "skill-skill",
+        "branch": "main",
+        "enabled": true
     }
 }

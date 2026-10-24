@@ -43165,5 +43165,122 @@
     "repoOwner": "polytheseus",
     "repoName": "real-estate-skills",
     "repoBranch": "main"
+  },
+  "google/elephant-goldfish-model": {
+    "name": "google/elephant-goldfish-model",
+    "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "google",
+    "repoName": "elephant-goldfish-model",
+    "repoBranch": "main"
+  },
+  "Ovich/swarmstorm": {
+    "name": "Ovich/swarmstorm",
+    "description": "Multi-agent orchestration for Claude Code, Codex and Cursor: parallel coding agents that settle shared files before the merge, QA agents that test the running app, clickable prototypes, workbenches and live plans in a...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Ovich",
+    "repoName": "swarmstorm",
+    "repoBranch": "main"
+  },
+  "cukas/remembrall": {
+    "name": "cukas/remembrall",
+    "description": "Never lose context again! auto saves your work when Claude Code's context window runs low",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cukas",
+    "repoName": "remembrall",
+    "repoBranch": "main"
+  },
+  "tatimblin/sub-human": {
+    "name": "tatimblin/sub-human",
+    "description": "Subagents, but for humans: a Claude Code plugin that puts several people's Claude Code sessions in one room, across machines, with no server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tatimblin",
+    "repoName": "sub-human",
+    "repoBranch": "master"
+  },
+  "Breadstick-Crumbs/fanout": {
+    "name": "Breadstick-Crumbs/fanout",
+    "description": "Claude Code skill + checker for parallel git-worktree sessions: file-disjoint plans, merge order, one full test run",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Breadstick-Crumbs",
+    "repoName": "fanout",
+    "repoBranch": "main"
+  },
+  "Buirst/stockroom": {
+    "name": "Buirst/stockroom",
+    "description": "Install as many Claude Code skills, plugins and MCP servers as you want. Claude keeps knowing what each one is for, without loading them all into every session.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Buirst",
+    "repoName": "stockroom",
+    "repoBranch": "main"
+  },
+  "tiger42/claude-mods": {
+    "name": "tiger42/claude-mods",
+    "description": "Claude Code mods, packaged as a plugin marketplace: usage-band shows your 5-hour and weekly rate limits above the prompt, color-chooser adds a picker for the session color.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tiger42",
+    "repoName": "claude-mods",
+    "repoBranch": "master"
+  },
+  "patronus-protect/patronus-security-cli": {
+    "name": "patronus-protect/patronus-security-cli",
+    "description": "Security scanner and runtime protection for AI coding agents. Detects prompt injection, secrets, PII, and unsafe tool activity across Codex, Claude Code, and DeepSeek Harness.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "patronus-protect",
+    "repoName": "patronus-security-cli",
+    "repoBranch": "main"
+  },
+  "wheakerd/axiom": {
+    "name": "wheakerd/axiom",
+    "description": "A Codex and Claude Code plugin with focused skills for turning requests into clear, actionable work: intent clarification, task planning, repository instructions, research, decision review, and actions that need autho...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wheakerd",
+    "repoName": "axiom",
+    "repoBranch": "main"
+  },
+  "dexio-wiki/llm-wiki-skills": {
+    "name": "dexio-wiki/llm-wiki-skills",
+    "description": "Agent skills for keeping an LLM wiki correct as it grows: record, ingest, query, lint, resolve conflicts, refactor, and share one wiki between agents. Includes a zero-dependency link checker.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dexio-wiki",
+    "repoName": "llm-wiki-skills",
+    "repoBranch": "main"
+  },
+  "FlyinSteve/haltline": {
+    "name": "FlyinSteve/haltline",
+    "description": "Claude Code mod: see what a risky Bash or PowerShell command will touch before it runs. Windows-ready fork of Blast Radius.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FlyinSteve",
+    "repoName": "haltline",
+    "repoBranch": "main"
+  },
+  "reedodev/dynamic-captions": {
+    "name": "reedodev/dynamic-captions",
+    "description": "Give it a video: word-level captions in 10+ styles plus auto-mix, shown as a style sheet first. Captions move left/right/top/bottom inside platform-safe areas, avoid faces, keep a minimum size, pulse on the beat, and...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "reedodev",
+    "repoName": "dynamic-captions",
+    "repoBranch": "main"
+  },
+  "jack-reson8/skill-skill": {
+    "name": "jack-reson8/skill-skill",
+    "description": "A Claude skill for writing skills that actually change what gets generated \u2014 with a static audit script",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jack-reson8",
+    "repoName": "skill-skill",
+    "repoBranch": "main"
   }
 }
