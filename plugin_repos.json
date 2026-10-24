@@ -43282,5 +43282,14 @@
     "repoOwner": "jack-reson8",
     "repoName": "skill-skill",
     "repoBranch": "main"
+  },
+  "datawebot/datawebot-mcp": {
+    "name": "datawebot/datawebot-mcp",
+    "description": "Ecommerce product data for AI agents: product search across online shops, every seller's price with direct links, and extraction jobs on Amazon, Walmart US and other stores, through a hosted MCP server with OAuth sign-in.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "datawebot",
+    "repoName": "datawebot-mcp",
+    "repoBranch": "main"
   }
 }
