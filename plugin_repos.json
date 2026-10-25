@@ -43543,5 +43543,104 @@
     "repoOwner": "polytheseus",
     "repoName": "bookkeeper-skills",
     "repoBranch": "main"
+  },
+  "a-pavithraa/springboot-skills-marketplace": {
+    "name": "a-pavithraa/springboot-skills-marketplace",
+    "description": "Spring Boot Skill for Claude Code and Codex",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "a-pavithraa",
+    "repoName": "springboot-skills-marketplace",
+    "repoBranch": "main"
+  },
+  "Thibaultbm/claude-seo-geo": {
+    "name": "Thibaultbm/claude-seo-geo",
+    "description": "SEO & GEO skills for Claude Code, built with Claude Mythos 5. Rank in Google AND in LLMs (ChatGPT, Perplexity, Gemini): technical audits, backlinks, AI-optimized content, local SEO, and social amplification.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Thibaultbm",
+    "repoName": "claude-seo-geo",
+    "repoBranch": "main"
+  },
+  "cdeust/ai-architect-mcp-spec": {
+    "name": "cdeust/ai-architect-mcp-spec",
+    "description": "Cross-platform PRD verifier for Codex, Gemini CLI, Claude Code, CI, and other MCP hosts. Deterministic Hard Output Rules, cross-section traceability, and a full 9-file PRD pipeline with calibrated multi-judge consensu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "cdeust",
+    "repoName": "ai-architect-mcp-spec",
+    "repoBranch": "main"
+  },
+  "fernando-bertholdo/nbstack": {
+    "name": "fernando-bertholdo/nbstack",
+    "description": "Curated Claude Code plugin marketplace \u2014 opinionated, production-ready skills for AI-assisted work, focused on craft, rigor, and practical excellence.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "fernando-bertholdo",
+    "repoName": "nbstack",
+    "repoBranch": "main"
+  },
+  "parinshahAIbuilder/claude-for-indian-finance": {
+    "name": "parinshahAIbuilder/claude-for-indian-finance",
+    "description": "Claude plugins for Indian finance & listed-company compliance: SEBI LODR Reg 30, Ind AS 116, GSTR-2B ITC, TDS, CMA/MPBF, NCD interest, credit rating. 17 skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "parinshahAIbuilder",
+    "repoName": "claude-for-indian-finance",
+    "repoBranch": "main"
+  },
+  "anon5376/fine-design": {
+    "name": "anon5376/fine-design",
+    "description": "React design system on Base UI, Tailwind v4 and Motion, shipped as a shadcn registry with an agent skill and MCP.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "anon5376",
+    "repoName": "fine-design",
+    "repoBranch": "main"
+  },
+  "EgiStr/web-asset-studio": {
+    "name": "EgiStr/web-asset-studio",
+    "description": "MCP server + Claude skill: consistent sticker packs, pixel sprites and sprite sheets from your own ChatGPT web account via a browser MCP. No API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EgiStr",
+    "repoName": "web-asset-studio",
+    "repoBranch": "main"
+  },
+  "ChristophWeigert/ki-psychotherapie-praxis": {
+    "name": "ChristophWeigert/ki-psychotherapie-praxis",
+    "description": "Skills f\u00fcr Psychotherapeut:innen in Deutschland: Arztbrief, Gutachterantrag (PTV 3), GdB-Stellungnahme, Krisenplan. Datenschutzbewusst, pseudonymisiert.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ChristophWeigert",
+    "repoName": "ki-psychotherapie-praxis",
+    "repoBranch": "main"
+  },
+  "mistif/mistif": {
+    "name": "mistif/mistif",
+    "description": "Workflow skills, commands and cost/effort mods for Claude Code: interview, build, test, review, ship, design, decide.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mistif",
+    "repoName": "mistif",
+    "repoBranch": "main"
+  },
+  "RaveenDi/Skilloadout": {
+    "name": "RaveenDi/Skilloadout",
+    "description": "12,000+ AI agent skills (SKILL.md) for Claude Code, Codex, Cursor, Gemini CLI & Copilot \u2014 license-checked, safety-scanned, auto-updated every Friday. Use it as a Claude Code plugin marketplace or an MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "RaveenDi",
+    "repoName": "Skilloadout",
+    "repoBranch": "main"
+  },
+  "nahuel893/refined-claude-code": {
+    "name": "nahuel893/refined-claude-code",
+    "description": "A refined terminal UI for Claude Code: themes, a redesigned transcript and a live status panel.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nahuel893",
+    "repoName": "refined-claude-code",
+    "repoBranch": "main"
   }
 }

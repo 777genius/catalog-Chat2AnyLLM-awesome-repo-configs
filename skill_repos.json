@@ -1,11 +1,11 @@
 {
-  "DarkWorldCoder/market-mirror": {
-    "owner": "DarkWorldCoder",
-    "name": "market-mirror",
-    "branch": "main",
-    "skillsPath": "plugin/skills",
-    "enabled": true
-  },
+    "DarkWorldCoder/market-mirror": {
+        "owner": "DarkWorldCoder",
+        "name": "market-mirror",
+        "branch": "main",
+        "skillsPath": "plugin/skills",
+        "enabled": true
+    },
     "Keith-CY/sketchbook-style": {
         "owner": "Keith-CY",
         "name": "sketchbook-style",
@@ -51315,6 +51315,132 @@
         "owner": "polytheseus",
         "name": "bookkeeper-skills",
         "branch": "main",
+        "enabled": true
+    },
+    "a-pavithraa/springboot-skills-marketplace": {
+        "owner": "a-pavithraa",
+        "name": "springboot-skills-marketplace",
+        "branch": "main",
+        "enabled": true
+    },
+    "Thibaultbm/claude-seo-geo": {
+        "owner": "Thibaultbm",
+        "name": "claude-seo-geo",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cdeust/ai-architect-mcp-spec": {
+        "owner": "cdeust",
+        "name": "ai-architect-mcp-spec",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "fernando-bertholdo/nbstack": {
+        "owner": "fernando-bertholdo",
+        "name": "nbstack",
+        "branch": "main",
+        "enabled": true
+    },
+    "yschdxm/code-manual": {
+        "owner": "yschdxm",
+        "name": "code-manual",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Trustbaselab/trustbase-skills": {
+        "owner": "Trustbaselab",
+        "name": "trustbase-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "xoox911/novel-recommender": {
+        "owner": "xoox911",
+        "name": "novel-recommender",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/xiaohongshu-keyword-search": {
+        "owner": "why20261",
+        "name": "xiaohongshu-keyword-search",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "NormanGOING/project-handover": {
+        "owner": "NormanGOING",
+        "name": "project-handover",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "parinshahAIbuilder/claude-for-indian-finance": {
+        "owner": "parinshahAIbuilder",
+        "name": "claude-for-indian-finance",
+        "branch": "main",
+        "enabled": true
+    },
+    "anon5376/fine-design": {
+        "owner": "anon5376",
+        "name": "fine-design",
+        "branch": "main",
+        "enabled": true
+    },
+    "hiyabh/claude-video-skills": {
+        "owner": "hiyabh",
+        "name": "claude-video-skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "EgiStr/web-asset-studio": {
+        "owner": "EgiStr",
+        "name": "web-asset-studio",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ChristophWeigert/ki-psychotherapie-praxis": {
+        "owner": "ChristophWeigert",
+        "name": "ki-psychotherapie-praxis",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "hiyabh/claude-skills": {
+        "owner": "hiyabh",
+        "name": "claude-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "justskill-ai/justskill-design": {
+        "owner": "justskill-ai",
+        "name": "justskill-design",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "mistif/mistif": {
+        "owner": "mistif",
+        "name": "mistif",
+        "branch": "main",
+        "enabled": true
+    },
+    "AntonioBlago/claude-context-guard": {
+        "owner": "AntonioBlago",
+        "name": "claude-context-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "RaveenDi/Skilloadout": {
+        "owner": "RaveenDi",
+        "name": "Skilloadout",
+        "branch": "main",
+        "skillsPath": "skills",
         "enabled": true
     }
 }
