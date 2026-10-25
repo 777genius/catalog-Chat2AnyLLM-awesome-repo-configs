@@ -1,4 +1,13 @@
 {
+  "radres/call-me": {
+    "name": "call-me",
+    "description": "Lets a Claude Code agent call or text the user's iPhone through the /call-me app and read the spoken or typed reply back as text. Marketplace with one plugin (hooks and a skill); the same repo also packages a remote MCP server, a Codex entry, a Gemini CLI extension and a Grok Build entry. The iPhone app needs a paid subscription. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "radres",
+    "repoName": "call-me",
+    "repoBranch": "main"
+  },
   "DarkWorldCoder/market-mirror": {
     "name": "market-mirror",
     "description": "Test ads, prices, emails and sales pitches on simulated buyers (interviewed personas, simulated social feeds, surveys, pitch rehearsal) and get a go / iterate / no-go report with an offline dashboard. Local stdio MCP server plus skills; self-hosted, AGPL-3.0.",
