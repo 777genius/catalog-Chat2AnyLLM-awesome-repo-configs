@@ -258,5 +258,13 @@
     "branch": "main",
     "enabled": true,
     "note": "Local MCP server (npx, stdio) that turns links into clean Markdown: web pages, YouTube transcripts and playlists, App Store reviews. No API key, no account."
+  },
+  "tubeagentkit/youtube-mcp": {
+    "owner": "tubeagentkit",
+    "name": "youtube-mcp",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.getyoutubetranscript/youtube-transcript-and-youtube-search",
+    "note": "Hosted MCP (streamable HTTP): https://getyoutubetranscript.com/api/mcp. Needs an OAuth sign-in or an API key. YouTube transcripts with timestamps, caption languages, YouTube and in-channel search, channel and playlist video lists. MIT. Canonical metadata is in server.json."
   }
 }
