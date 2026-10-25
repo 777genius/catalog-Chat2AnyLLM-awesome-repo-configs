@@ -51456,5 +51456,113 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "NoobyGains/godmode": {
+        "owner": "NoobyGains",
+        "name": "godmode",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "eph5xx/tweakidea": {
+        "owner": "eph5xx",
+        "name": "tweakidea",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "0xArchiveIO/0xarchive-quant": {
+        "owner": "0xArchiveIO",
+        "name": "0xarchive-quant",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "JashIbra/request-trace": {
+        "owner": "JashIbra",
+        "name": "request-trace",
+        "branch": "main",
+        "enabled": true
+    },
+    "bromso/metapowers": {
+        "owner": "bromso",
+        "name": "metapowers",
+        "branch": "main",
+        "enabled": true
+    },
+    "benderterminal/zkettle": {
+        "owner": "benderterminal",
+        "name": "zkettle",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "novgar21/humanizer21": {
+        "owner": "novgar21",
+        "name": "humanizer21",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "CharlesLadera/claude-custom-skills": {
+        "owner": "CharlesLadera",
+        "name": "claude-custom-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "yamixst/material-icons-skills": {
+        "owner": "yamixst",
+        "name": "material-icons-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "DylanDDeng/BB-Video": {
+        "owner": "DylanDDeng",
+        "name": "BB-Video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "k8s-servant/k8s-skills": {
+        "owner": "k8s-servant",
+        "name": "k8s-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MaximeRumpler/Make_Clean_PPTX": {
+        "owner": "MaximeRumpler",
+        "name": "Make_Clean_PPTX",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Keviniscool-boy/onboard": {
+        "owner": "Keviniscool-boy",
+        "name": "onboard",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "umiyosh/motion-render": {
+        "owner": "umiyosh",
+        "name": "motion-render",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "griasdi/iced_impeccable": {
+        "owner": "griasdi",
+        "name": "iced_impeccable",
+        "branch": "main",
+        "enabled": true
+    },
+    "crocotaste/crocotaste-plugin": {
+        "owner": "crocotaste",
+        "name": "crocotaste-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

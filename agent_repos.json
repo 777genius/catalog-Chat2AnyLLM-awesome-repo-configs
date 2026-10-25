@@ -6785,5 +6785,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "NoobyGains/godmode": {
+    "owner": "NoobyGains",
+    "name": "godmode",
+    "branch": "master",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "MaximeRumpler/Make_Clean_PPTX": {
+    "owner": "MaximeRumpler",
+    "name": "Make_Clean_PPTX",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

@@ -43660,5 +43660,122 @@
     "repoOwner": "pqgventures",
     "repoName": "aicq-mcp",
     "repoBranch": "main"
+  },
+  "NoobyGains/godmode": {
+    "name": "NoobyGains/godmode",
+    "description": "Engineering discipline for AI coding agents: question the request, verify against current docs, plan, build test-first on the cheapest capable model, review with a second model family, prove it before saying done. One...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NoobyGains",
+    "repoName": "godmode",
+    "repoBranch": "master"
+  },
+  "0xArchiveIO/0xarchive-quant": {
+    "name": "0xArchiveIO/0xarchive-quant",
+    "description": "Quant research skills for coding agents on 0xArchive data. Reverse engineer any trader, test any idea: a deterministic Rust backtester, a trial ledger, a sealed holdout and a verdict you can rerun. Plus live market da...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "0xArchiveIO",
+    "repoName": "0xarchive-quant",
+    "repoBranch": "main"
+  },
+  "jheroorehj/prompt-polish": {
+    "name": "jheroorehj/prompt-polish",
+    "description": "This Claude Code mod (prompt-polish) rewrites your prompt with prompt engineering before you send it, following the official prompting guide for your session\u2019s model. A mod is a Claude Code plugin with a hooks module.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jheroorehj",
+    "repoName": "prompt-polish",
+    "repoBranch": "main"
+  },
+  "JashIbra/request-trace": {
+    "name": "JashIbra/request-trace",
+    "description": "Claude Code skills for AI code review \u2014 trace a user action through the code and explain every step",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JashIbra",
+    "repoName": "request-trace",
+    "repoBranch": "main"
+  },
+  "bromso/metapowers": {
+    "name": "bromso/metapowers",
+    "description": "A Claude Code plugin that adds an agentic skills framework, with MCP's and a meta prompting processes. Inspired by \"Superpowers\" & \"Figma Console MCP\", but not just for development or design; but for all aspect within...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bromso",
+    "repoName": "metapowers",
+    "repoBranch": "main"
+  },
+  "novgar21/humanizer21": {
+    "name": "novgar21/humanizer21",
+    "description": "Turkmen language humanizer: removes AI tells and fixes Turkmen spelling, grammar and punctuation. Works with Claude, ChatGPT, Grok and Gemini.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "novgar21",
+    "repoName": "humanizer21",
+    "repoBranch": "main"
+  },
+  "CharlesLadera/claude-custom-skills": {
+    "name": "CharlesLadera/claude-custom-skills",
+    "description": "Personal library of Claude Code skills: session journaling, worktree-per-ticket workflow, disk cleanup, Gmail organization, and a custom statusline.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CharlesLadera",
+    "repoName": "claude-custom-skills",
+    "repoBranch": "main"
+  },
+  "k8s-servant/k8s-skills": {
+    "name": "k8s-servant/k8s-skills",
+    "description": "Read-only Kubernetes troubleshooting skills for Claude Code, Codex, Gemini CLI and Copilot. Each one tested by an agent on a real kind cluster.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "k8s-servant",
+    "repoName": "k8s-skills",
+    "repoBranch": "main"
+  },
+  "MaximeRumpler/Make_Clean_PPTX": {
+    "name": "MaximeRumpler/Make_Clean_PPTX",
+    "description": "Agent skill for clean, sober PowerPoint decks: 54 slide designs, 60 charts and diagrams, 1,900 icons. Give your AI assistant your notes, get back a professional PPTX.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MaximeRumpler",
+    "repoName": "Make_Clean_PPTX",
+    "repoBranch": "main"
+  },
+  "Keviniscool-boy/onboard": {
+    "name": "Keviniscool-boy/onboard",
+    "description": "\u5feb\u901f\u68b3\u7406 | An agent skill that decomposes any project (code/docs/PDF/Excel/PPT) into a sourced overview + goal-driven learning path, then teaches you \u2014 every rule validated by stranger-agent testing (see evals/)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Keviniscool-boy",
+    "repoName": "onboard",
+    "repoBranch": "main"
+  },
+  "umiyosh/motion-render": {
+    "name": "umiyosh/motion-render",
+    "description": "Agent Skill and Claude Code plugin: turn a theme into an animated explainer video with Claude Motion, add narration (Gemini TTS) and BGM (Lyria), and render it to MP4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "umiyosh",
+    "repoName": "motion-render",
+    "repoBranch": "master"
+  },
+  "griasdi/iced_impeccable": {
+    "name": "griasdi/iced_impeccable",
+    "description": "Headless remote control for iced apps (offscreen rendering, input injection, widget targets, screenshots) plus an impeccable companion skill for iced desktop UI",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "griasdi",
+    "repoName": "iced_impeccable",
+    "repoBranch": "main"
+  },
+  "crocotaste/crocotaste-plugin": {
+    "name": "crocotaste/crocotaste-plugin",
+    "description": "Your brand, design guidelines and mockups, made with your coding agent. Then Crocotaste keeps every pull request on-system.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "crocotaste",
+    "repoName": "crocotaste-plugin",
+    "repoBranch": "main"
   }
 }
