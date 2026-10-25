@@ -1,4 +1,13 @@
 {
+  "DarkWorldCoder/market-mirror": {
+    "name": "market-mirror",
+    "description": "Test ads, prices, emails and sales pitches on simulated buyers (interviewed personas, simulated social feeds, surveys, pitch rehearsal) and get a go / iterate / no-go report with an offline dashboard. Local stdio MCP server plus skills; self-hosted, AGPL-3.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DarkWorldCoder",
+    "repoName": "market-mirror",
+    "repoBranch": "main"
+  },
   "GetSHIM/shim-cli": {
     "name": "shim-cli",
     "description": "Local hooks that mask secrets and personal data in Claude Code tool results before the model reads them, report what a typed prompt contains, and refuse risky tool calls under enforce mode. Also covers Codex and Copilot CLI through the shim package. No account, network call or telemetry. Apache-2.0.",
