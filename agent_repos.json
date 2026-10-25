@@ -6799,5 +6799,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "oborchers/fractional-cto": {
+    "owner": "oborchers",
+    "name": "fractional-cto",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "rmolinajr/MolBytes.Scaffold": {
+    "owner": "rmolinajr",
+    "name": "MolBytes.Scaffold",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "monaccode/astromesh-leia": {
+    "owner": "monaccode",
+    "name": "astromesh-leia",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

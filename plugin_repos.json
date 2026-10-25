@@ -43777,5 +43777,86 @@
     "repoOwner": "crocotaste",
     "repoName": "crocotaste-plugin",
     "repoBranch": "main"
+  },
+  "EricJujianZou/rederive": {
+    "name": "EricJujianZou/rederive",
+    "description": "Learn a codebase by re-deriving its design decisions yourself. A Claude Code skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "EricJujianZou",
+    "repoName": "rederive",
+    "repoBranch": "master"
+  },
+  "oborchers/fractional-cto": {
+    "name": "oborchers/fractional-cto",
+    "description": "Your AI CTO co-pilot \u2014 opinionated, research-backed Claude Code plugins for building SaaS products that ship",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oborchers",
+    "repoName": "fractional-cto",
+    "repoBranch": "main"
+  },
+  "bitranox/igittigitt": {
+    "name": "bitranox/igittigitt",
+    "description": "Git-compatible .gitignore parser and path filter for Python: library and streaming CLI, include/whitelist mode, shutil.copytree filter, memory-bounded for millions of paths. Ships as a Claude Code plugin too.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bitranox",
+    "repoName": "igittigitt",
+    "repoBranch": "master"
+  },
+  "CoriChui/yolo": {
+    "name": "CoriChui/yolo",
+    "description": "YOLO \u2014 a reasoning-first, feature-aware workflow framework for Claude Code. Git is the source of truth; status is derived, never stored.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "CoriChui",
+    "repoName": "yolo",
+    "repoBranch": "main"
+  },
+  "Fullstack-Rocks/skills": {
+    "name": "Fullstack-Rocks/skills",
+    "description": "Agent skills for code humans can maintain: a minimum-code checkpoint, call-depth measurement in any language, and a code review that learns. For Claude Code, Codex, Cursor and any agent with skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Fullstack-Rocks",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "rmolinajr/MolBytes.Scaffold": {
+    "name": "rmolinajr/MolBytes.Scaffold",
+    "description": "Skill para Claude Code, Codex, Gemini CLI e Cursor que leva um projeto da ideia ao c\u00f3digo testado, auditado e revisado, em 11 est\u00e1gios com subagentes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rmolinajr",
+    "repoName": "MolBytes.Scaffold",
+    "repoBranch": "main"
+  },
+  "Pranavk098/context-fabric": {
+    "name": "Pranavk098/context-fabric",
+    "description": "Context layer for coding agents: a Claude Code plugin (alpha) that briefs sub-agents, carries state across /compact and audits where your tokens go. Local-only, fail-open, content-free receipts.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pranavk098",
+    "repoName": "context-fabric",
+    "repoBranch": "main"
+  },
+  "pidgeon-ai/pidgeon-plugins": {
+    "name": "pidgeon-ai/pidgeon-plugins",
+    "description": "Pidgeon for Claude Code, Codex, Cursor and Gemini CLI: email inboxes for AI agents, as one plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pidgeon-ai",
+    "repoName": "pidgeon-plugins",
+    "repoBranch": "main"
+  },
+  "nyxandro/skills": {
+    "name": "nyxandro/skills",
+    "description": "Claude Code plugin marketplace with agent skills: Telegram bots, property-based testing, prod recon, session handoff, T-Invest and more",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nyxandro",
+    "repoName": "skills",
+    "repoBranch": "main"
   }
 }

@@ -51564,5 +51564,125 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "DozenTwelve/Papermorph": {
+        "owner": "DozenTwelve",
+        "name": "Papermorph",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "EricJujianZou/rederive": {
+        "owner": "EricJujianZou",
+        "name": "rederive",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "oborchers/fractional-cto": {
+        "owner": "oborchers",
+        "name": "fractional-cto",
+        "branch": "main",
+        "enabled": true
+    },
+    "bitranox/igittigitt": {
+        "owner": "bitranox",
+        "name": "igittigitt",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "CoriChui/yolo": {
+        "owner": "CoriChui",
+        "name": "yolo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Fullstack-Rocks/skills": {
+        "owner": "Fullstack-Rocks",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Weiming3/skill-finder-zh": {
+        "owner": "Weiming3",
+        "name": "skill-finder-zh",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "WebitroHQ/token-skill": {
+        "owner": "WebitroHQ",
+        "name": "token-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "hyperkidxp/hadi-got-motion": {
+        "owner": "hyperkidxp",
+        "name": "hadi-got-motion",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ermoluk/mcp-warden": {
+        "owner": "ermoluk",
+        "name": "mcp-warden",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nora-weisser/ai-assisted-testing-demo": {
+        "owner": "nora-weisser",
+        "name": "ai-assisted-testing-demo",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "rmolinajr/MolBytes.Scaffold": {
+        "owner": "rmolinajr",
+        "name": "MolBytes.Scaffold",
+        "branch": "main",
+        "enabled": true
+    },
+    "pidgeon-ai/pidgeon-plugins": {
+        "owner": "pidgeon-ai",
+        "name": "pidgeon-plugins",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ayase0307/ai-comic-drama": {
+        "owner": "ayase0307",
+        "name": "ai-comic-drama",
+        "branch": "main",
+        "enabled": true
+    },
+    "ahmeduxui/DesignXI": {
+        "owner": "ahmeduxui",
+        "name": "DesignXI",
+        "branch": "main",
+        "enabled": true
+    },
+    "Weiming3/skill-publisher": {
+        "owner": "Weiming3",
+        "name": "skill-publisher",
+        "branch": "main",
+        "enabled": true
+    },
+    "flyboy-byte/toolbox": {
+        "owner": "flyboy-byte",
+        "name": "toolbox",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Peam67/claude-code-documentary-clip-kit": {
+        "owner": "Peam67",
+        "name": "claude-code-documentary-clip-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
