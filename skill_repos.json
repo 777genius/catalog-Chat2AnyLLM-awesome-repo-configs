@@ -1,4 +1,11 @@
 {
+  "DarkWorldCoder/market-mirror": {
+    "owner": "DarkWorldCoder",
+    "name": "market-mirror",
+    "branch": "main",
+    "skillsPath": "plugin/skills",
+    "enabled": true
+  },
     "Keith-CY/sketchbook-style": {
         "owner": "Keith-CY",
         "name": "sketchbook-style",

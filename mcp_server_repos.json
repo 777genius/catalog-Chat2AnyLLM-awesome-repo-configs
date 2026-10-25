@@ -1,4 +1,12 @@
 {
+  "DarkWorldCoder/market-mirror": {
+    "owner": "DarkWorldCoder",
+    "name": "market-mirror",
+    "branch": "main",
+    "enabled": true,
+    "subPath": "plugin/skills/market-mirror/scripts",
+    "note": "Local stdio MCP server (Python) that tests ads, prices, emails and sales pitches on simulated buyers and returns a go / iterate / no-go report. Not in the official MCP registry yet. AGPL-3.0."
+  },
   "contextstream/mcp-server": {
     "owner": "contextstream",
     "name": "mcp-server",
