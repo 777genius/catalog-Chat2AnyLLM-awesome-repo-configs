@@ -1,4 +1,11 @@
 {
+    "radres/call-me": {
+        "owner": "radres",
+        "name": "call-me",
+        "branch": "main",
+        "skillsPath": "claude-code/skills",
+        "enabled": true
+    },
     "DarkWorldCoder/market-mirror": {
         "owner": "DarkWorldCoder",
         "name": "market-mirror",
