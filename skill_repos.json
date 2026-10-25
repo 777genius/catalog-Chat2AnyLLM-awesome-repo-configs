@@ -51442,5 +51442,12 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "pqgventures/aicq-mcp": {
+        "owner": "pqgventures",
+        "name": "aicq-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

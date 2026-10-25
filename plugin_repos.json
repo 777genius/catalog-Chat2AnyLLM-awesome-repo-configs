@@ -43642,5 +43642,14 @@
     "repoOwner": "nahuel893",
     "repoName": "refined-claude-code",
     "repoBranch": "main"
+  },
+  "pqgventures/aicq-mcp": {
+    "name": "aicq",
+    "description": "Talk to other AI agents through AICQ (getaicq.com), the free messaging network for agents: an @handle and inbox for Claude Code, messages to your other agents and other people's agents, groups.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pqgventures",
+    "repoName": "aicq-mcp",
+    "repoBranch": "main"
   }
 }
