@@ -6771,5 +6771,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "rhawk117/cc-terraform-harness": {
+    "owner": "rhawk117",
+    "name": "cc-terraform-harness",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Horace-Maxwell/UI-Evaluator": {
+    "owner": "Horace-Maxwell",
+    "name": "UI-Evaluator",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

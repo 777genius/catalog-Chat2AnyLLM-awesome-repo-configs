@@ -43435,5 +43435,104 @@
     "repoOwner": "jinhuang712",
     "repoName": "claude-code-worktree",
     "repoBranch": "main"
+  },
+  "rivendale/ai-redteam": {
+    "name": "rivendale/ai-redteam",
+    "description": "Adversarial review for AI-produced work: red-team decisions, plans, claims and code, plus bounded PR review. Claude skills and paste-in prompts, with a published eval set.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rivendale",
+    "repoName": "ai-redteam",
+    "repoBranch": "main"
+  },
+  "BaixuanZhu/skills": {
+    "name": "BaixuanZhu/skills",
+    "description": "\u9762\u5411\u4e2d\u6587 Java/Spring \u751f\u6001\u7684 Agent Skills \u5957\u88c5\uff1a\u7f16\u7801\u89c4\u8303\u3001\u8d28\u91cf\u95e8\u7981\u3001\u5355\u5143\u6d4b\u8bd5\u3001Sa-Token/MyBatis-Plus \u6846\u67b6\u3001\u654f\u6377\u6d41\u7a0b\u3002\u652f\u6301 Claude Code \u63d2\u4ef6\u4e0e npx skills \u4e00\u952e\u5b89\u88c5\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BaixuanZhu",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "rhawk117/cc-terraform-harness": {
+    "name": "rhawk117/cc-terraform-harness",
+    "description": "A deterministic Claude Code plugin acting as a harness for terraform and IAC repositories.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rhawk117",
+    "repoName": "cc-terraform-harness",
+    "repoBranch": "main"
+  },
+  "wojdan/appstoreconnect-setup": {
+    "name": "wojdan/appstoreconnect-setup",
+    "description": "A Claude Code skill that builds your whole App Store page: screenshots, header and search video from your own design system, store texts in every language (translator + auditor agents), then fills App Store Connect.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wojdan",
+    "repoName": "appstoreconnect-setup",
+    "repoBranch": "main"
+  },
+  "sternblut/architect": {
+    "name": "sternblut/architect",
+    "description": "Run Claude Code on your Mac from Telegram: an AI architect starts and watches your sessions, brings their questions to your phone and asks before anything irreversible.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sternblut",
+    "repoName": "architect",
+    "repoBranch": "main"
+  },
+  "chittychat-studio/replore": {
+    "name": "chittychat-studio/replore",
+    "description": "Describe what you\u2019re building, get the open-source GitHub repos that fit \u2014 ranked by relevance, popularity and license. Web app, Claude Code plugin and MCP server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "chittychat-studio",
+    "repoName": "replore",
+    "repoBranch": "main"
+  },
+  "nevermemo/token-watch": {
+    "name": "nevermemo/token-watch",
+    "description": "Plan usage and the context window as thin bars above the Claude Code prompt. A Claude Code mod.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nevermemo",
+    "repoName": "token-watch",
+    "repoBranch": "main"
+  },
+  "Horace-Maxwell/UI-Evaluator": {
+    "name": "Horace-Maxwell/UI-Evaluator",
+    "description": "Build, audit and fix web interfaces to a bar you can check. Agent Skill + Claude Code plugin: WCAG 2.2 AA, a craft floor, zero AI tells, isolated evaluators, assurance levels L1\u2013L4.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Horace-Maxwell",
+    "repoName": "UI-Evaluator",
+    "repoBranch": "main"
+  },
+  "nexorahai-svg/claude-knowledge-library": {
+    "name": "nexorahai-svg/claude-knowledge-library",
+    "description": "Verified knowledge library + Claude Code plugin for building apps, websites and social content: 300+ tool cards, playbooks and prompt guides. EN / \u0639\u0631\u0628\u064a / \u0641\u0627\u0631\u0633\u06cc",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nexorahai-svg",
+    "repoName": "claude-knowledge-library",
+    "repoBranch": "main"
+  },
+  "inatbalthazar/humanizer-th": {
+    "name": "inatbalthazar/humanizer-th",
+    "description": "Agent Skills for Thai: translate subtitles, games, apps and websites into natural Thai, write dialogue and voice scripts for AI short dramas, and edit AI-written Thai. Works with Claude, ChatGPT, Gemini, Codex, Copilo...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inatbalthazar",
+    "repoName": "humanizer-th",
+    "repoBranch": "main"
+  },
+  "polytheseus/bookkeeper-skills": {
+    "name": "polytheseus/bookkeeper-skills",
+    "description": "Free AI skills for bookkeepers and small accounting practices: records chasers, transaction query lists, plain-English client explanations. ChatGPT, Gemini, Claude, Codex, Cursor.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "polytheseus",
+    "repoName": "bookkeeper-skills",
+    "repoBranch": "main"
   }
 }

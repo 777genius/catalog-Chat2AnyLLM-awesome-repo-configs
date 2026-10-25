@@ -51197,5 +51197,117 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "backtrue/thinkwithblack-skill": {
+        "owner": "backtrue",
+        "name": "thinkwithblack-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "framework-creator/framework-builder": {
+        "owner": "framework-creator",
+        "name": "framework-builder",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "bellisji233/live2d-halfbody-skill": {
+        "owner": "bellisji233",
+        "name": "live2d-halfbody-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "rivendale/ai-redteam": {
+        "owner": "rivendale",
+        "name": "ai-redteam",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BaixuanZhu/skills": {
+        "owner": "BaixuanZhu",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "AIPMAndy/Andy-Video-Skill": {
+        "owner": "AIPMAndy",
+        "name": "Andy-Video-Skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "KHAEntertainment/showrunner": {
+        "owner": "KHAEntertainment",
+        "name": "showrunner",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "rhawk117/cc-terraform-harness": {
+        "owner": "rhawk117",
+        "name": "cc-terraform-harness",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wojdan/appstoreconnect-setup": {
+        "owner": "wojdan",
+        "name": "appstoreconnect-setup",
+        "branch": "main",
+        "enabled": true
+    },
+    "sternblut/architect": {
+        "owner": "sternblut",
+        "name": "architect",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "chittychat-studio/replore": {
+        "owner": "chittychat-studio",
+        "name": "replore",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Horace-Maxwell/UI-Evaluator": {
+        "owner": "Horace-Maxwell",
+        "name": "UI-Evaluator",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AIPMAndy/ClearSkill": {
+        "owner": "AIPMAndy",
+        "name": "ClearSkill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "nexorahai-svg/claude-knowledge-library": {
+        "owner": "nexorahai-svg",
+        "name": "claude-knowledge-library",
+        "branch": "main",
+        "enabled": true
+    },
+    "inatbalthazar/humanizer-th": {
+        "owner": "inatbalthazar",
+        "name": "humanizer-th",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "petemaloney/hath-mcq": {
+        "owner": "petemaloney",
+        "name": "hath-mcq",
+        "branch": "main",
+        "enabled": true
+    },
+    "polytheseus/bookkeeper-skills": {
+        "owner": "polytheseus",
+        "name": "bookkeeper-skills",
+        "branch": "main",
+        "enabled": true
     }
 }
