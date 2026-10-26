@@ -1,4 +1,13 @@
 {
+  "mdkurak-cell/auturis": {
+    "name": "auturis",
+    "description": "Auturis: a system designed to help you answer, for any set of circumstances, two questions: What should I do? and What is right? A plug-in for Claude Code. It requires the Auturis desktop app (beta, auturis.com).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mdkurak-cell",
+    "repoName": "auturis",
+    "repoBranch": "main"
+  },
   "NicksAdvisory/lintelly-hr-deutschland": {
     "name": "lintelly-hr-deutschland",
     "description": "German employment law for small companies: Claude Code plugin with the Lintelly HR MCP server (38 read-only tools for notice periods, employer costs, sick pay, maternity protection, contract clauses, each with calculation and official source) plus 5 HR workflow skills. MIT.",
