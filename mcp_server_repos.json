@@ -1,4 +1,13 @@
 {
+  "NicksAdvisory/lintelly-hr-deutschland": {
+    "owner": "NicksAdvisory",
+    "name": "lintelly-hr-deutschland",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.lintelly/hr-deutschland",
+    "subPath": "packages/mcp",
+    "note": "TypeScript MCP server for German employment law (38 read-only tools, calculation and official source in every answer). Remote https://hr.lintelly.com/mcp (Streamable HTTP, no auth), npm @lintelly/hr-deutschland, in the official MCP Registry. MIT."
+  },
   "DarkWorldCoder/market-mirror": {
     "owner": "DarkWorldCoder",
     "name": "market-mirror",

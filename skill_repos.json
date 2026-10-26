@@ -1,4 +1,11 @@
 {
+    "NicksAdvisory/lintelly-hr-deutschland": {
+        "owner": "NicksAdvisory",
+        "name": "lintelly-hr-deutschland",
+        "branch": "main",
+        "skillsPath": "plugins/claude/skills",
+        "enabled": true
+    },
     "radres/call-me": {
         "owner": "radres",
         "name": "call-me",

@@ -1,4 +1,13 @@
 {
+  "NicksAdvisory/lintelly-hr-deutschland": {
+    "name": "lintelly-hr-deutschland",
+    "description": "German employment law for small companies: Claude Code plugin with the Lintelly HR MCP server (38 read-only tools for notice periods, employer costs, sick pay, maternity protection, contract clauses, each with calculation and official source) plus 5 HR workflow skills. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "NicksAdvisory",
+    "repoName": "lintelly-hr-deutschland",
+    "repoBranch": "main"
+  },
   "saishashank-a/catch-me-if-you-scan": {
     "name": "saishashank-a/catch-me-if-you-scan",
     "description": "Claude Code plugin for senior-manual-QA-style end-to-end testing: Playwright, edge-case sweeps, multi-role flows, evidence-backed bug reports and an HTML report. MIT.",
