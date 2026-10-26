@@ -1,4 +1,13 @@
 {
+  "SAVER-SI/saver-verifier": {
+    "name": "SAVER Verifier",
+    "description": "Factual claim checks with linked web evidence for research reports. Live checks cost 0.20 USDC on Base via an existing authorized x402 wallet; the Claude plugin requires explicit approval before every charge. Installation provides no wallet and authorizes no spending.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "SAVER-SI",
+    "repoName": "saver-verifier",
+    "repoBranch": "main"
+  },
   "mdkurak-cell/auturis": {
     "name": "auturis",
     "description": "Auturis: a system designed to help you answer, for any set of circumstances, two questions: What should I do? and What is right? A plug-in for Claude Code. It requires the Auturis desktop app (beta, auturis.com).",
