@@ -51924,5 +51924,105 @@
         "name": "skills-hub-orquestador",
         "branch": "main",
         "enabled": true
+    },
+    "christopherkenny/skills": {
+        "owner": "christopherkenny",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "GerritCodeReview/gerrit-mcp-server": {
+        "owner": "GerritCodeReview",
+        "name": "gerrit-mcp-server",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "kyle-chalmers/ticketwright": {
+        "owner": "kyle-chalmers",
+        "name": "ticketwright",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "stateway-io/bpmn-xml-generator": {
+        "owner": "stateway-io",
+        "name": "bpmn-xml-generator",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "wjgoarxiv/litclaude": {
+        "owner": "wjgoarxiv",
+        "name": "litclaude",
+        "branch": "main",
+        "enabled": true
+    },
+    "Flarepoint-Systems/fp-pluginplaza": {
+        "owner": "Flarepoint-Systems",
+        "name": "fp-pluginplaza",
+        "branch": "main",
+        "enabled": true
+    },
+    "uwuclxdy/agentgear": {
+        "owner": "uwuclxdy",
+        "name": "agentgear",
+        "branch": "mommy",
+        "enabled": true
+    },
+    "nazarov-design/pixel-whisperer": {
+        "owner": "nazarov-design",
+        "name": "pixel-whisperer",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Malek1414/steroid-claude": {
+        "owner": "Malek1414",
+        "name": "steroid-claude",
+        "branch": "main",
+        "enabled": true
+    },
+    "kinsy-ai/kinsy-agents": {
+        "owner": "kinsy-ai",
+        "name": "kinsy-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ayeo-io/compass": {
+        "owner": "ayeo-io",
+        "name": "compass",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "davidop/accesibilidad-neurodivergente": {
+        "owner": "davidop",
+        "name": "accesibilidad-neurodivergente",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "insforca/PortuguesSkill": {
+        "owner": "insforca",
+        "name": "PortuguesSkill",
+        "branch": "main",
+        "enabled": true
+    },
+    "mmetwally-dev/project-autopilot": {
+        "owner": "mmetwally-dev",
+        "name": "project-autopilot",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "ADWilkinson/astack": {
+        "owner": "ADWilkinson",
+        "name": "astack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

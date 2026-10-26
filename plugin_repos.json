@@ -44119,5 +44119,122 @@
     "repoOwner": "envyx10",
     "repoName": "skills-hub-orquestador",
     "repoBranch": "main"
+  },
+  "christopherkenny/skills": {
+    "name": "christopherkenny/skills",
+    "description": "[WIP] Claude Skills for Political Scientists",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "christopherkenny",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "GerritCodeReview/gerrit-mcp-server": {
+    "name": "GerritCodeReview/gerrit-mcp-server",
+    "description": "MCP server for interacting with the Gerrit code review system - (mirror of https://gerrit.googlesource.com/gerrit-mcp-server)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "GerritCodeReview",
+    "repoName": "gerrit-mcp-server",
+    "repoBranch": "master"
+  },
+  "bruw/workflow-conductor": {
+    "name": "bruw/workflow-conductor",
+    "description": "Terminal UI for planning, running and understanding complex agent workflows inside Claude Code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bruw",
+    "repoName": "workflow-conductor",
+    "repoBranch": "main"
+  },
+  "kyle-chalmers/ticketwright": {
+    "name": "kyle-chalmers/ticketwright",
+    "description": "Ticket-driven analysis with Claude Code and other coding agents: prior work recalled, every result reviewed, nothing sent without your go-ahead",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kyle-chalmers",
+    "repoName": "ticketwright",
+    "repoBranch": "main"
+  },
+  "wjgoarxiv/litclaude": {
+    "name": "wjgoarxiv/litclaude",
+    "description": "Add one word, `lit`, to a Claude Code prompt and get a planned, tested, reviewed workflow, plus a handoff note so the next session knows where you left off.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "wjgoarxiv",
+    "repoName": "litclaude",
+    "repoBranch": "main"
+  },
+  "Flarepoint-Systems/fp-pluginplaza": {
+    "name": "Flarepoint-Systems/fp-pluginplaza",
+    "description": "Flarepoint Plugin Plaza: small, single-purpose Claude Code plugins that fix one thing the model does that gets in your way, acting only at the edges of a task.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Flarepoint-Systems",
+    "repoName": "fp-pluginplaza",
+    "repoBranch": "main"
+  },
+  "uwuclxdy/agentgear": {
+    "name": "uwuclxdy/agentgear",
+    "description": "Rust coding-agent plugin development made easy; ship for Claude Code and 24 other agents without worrying about the compatibility layer",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "uwuclxdy",
+    "repoName": "agentgear",
+    "repoBranch": "mommy"
+  },
+  "nazarov-design/pixel-whisperer": {
+    "name": "nazarov-design/pixel-whisperer",
+    "description": "Two Claude skills for designers: decode vague client feedback into concrete design changes, and get studio-style desk crits that track your progress.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nazarov-design",
+    "repoName": "pixel-whisperer",
+    "repoBranch": "main"
+  },
+  "Malek1414/steroid-claude": {
+    "name": "Malek1414/steroid-claude",
+    "description": "Steroid Claude: a whole Claude Code setup in one install. claude-mem, superpowers, 145 subagents, 18 skills, MCP servers, hooks and a second brain.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Malek1414",
+    "repoName": "steroid-claude",
+    "repoBranch": "main"
+  },
+  "kinsy-ai/kinsy-agents": {
+    "name": "kinsy-ai/kinsy-agents",
+    "description": "Kinsy for agents: the kinsy CLI, Agent Skill and plugin manifests for finished, editable PowerPoint decks from a brief and your documents.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kinsy-ai",
+    "repoName": "kinsy-agents",
+    "repoBranch": "main"
+  },
+  "nikolanaidenko-eng/clouding-bar": {
+    "name": "nikolanaidenko-eng/clouding-bar",
+    "description": "Claude Code at a glance \u2014 on your Touch Bar, in a floating pill, or in the notch. A macOS menu bar app.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nikolanaidenko-eng",
+    "repoName": "clouding-bar",
+    "repoBranch": "main"
+  },
+  "ayeo-io/compass": {
+    "name": "ayeo-io/compass",
+    "description": "Adaptive spec-driven development framework",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ayeo-io",
+    "repoName": "compass",
+    "repoBranch": "main"
+  },
+  "ADWilkinson/astack": {
+    "name": "ADWilkinson/astack",
+    "description": "The agent skills I use every day to ship my own stuff. Claude Code and Codex.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ADWilkinson",
+    "repoName": "astack",
+    "repoBranch": "main"
   }
 }

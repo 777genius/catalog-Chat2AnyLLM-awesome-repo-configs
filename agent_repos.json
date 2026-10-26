@@ -6841,5 +6841,26 @@
     "branch": "main",
     "agentsPath": ".claude/agents",
     "enabled": true
+  },
+  "christopherkenny/skills": {
+    "owner": "christopherkenny",
+    "name": "skills",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "kyle-chalmers/ticketwright": {
+    "owner": "kyle-chalmers",
+    "name": "ticketwright",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "ayeo-io/compass": {
+    "owner": "ayeo-io",
+    "name": "compass",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
