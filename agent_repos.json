@@ -6834,5 +6834,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "gaia-harness/gaia": {
+    "owner": "gaia-harness",
+    "name": "gaia",
+    "branch": "main",
+    "agentsPath": ".claude/agents",
+    "enabled": true
   }
 }

@@ -51805,5 +51805,124 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "zhuyansen/new-term-radar": {
+        "owner": "zhuyansen",
+        "name": "new-term-radar",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "dhruvjainin/absolute": {
+        "owner": "dhruvjainin",
+        "name": "absolute",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "maplibre/maplibre-agent-skills": {
+        "owner": "maplibre",
+        "name": "maplibre-agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "axisrow/tg_content_factory": {
+        "owner": "axisrow",
+        "name": "tg_content_factory",
+        "branch": "main",
+        "enabled": true
+    },
+    "mountain-beaver/vps-forge": {
+        "owner": "mountain-beaver",
+        "name": "vps-forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "gaia-harness/gaia": {
+        "owner": "gaia-harness",
+        "name": "gaia",
+        "branch": "main",
+        "enabled": true
+    },
+    "zhuyansen/backlink-guard": {
+        "owner": "zhuyansen",
+        "name": "backlink-guard",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jamdotdev/skills": {
+        "owner": "jamdotdev",
+        "name": "skills",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "BhodiSea/next-expo-supabase-agent-harness": {
+        "owner": "BhodiSea",
+        "name": "next-expo-supabase-agent-harness",
+        "branch": "main",
+        "enabled": true
+    },
+    "alexeyshishin/as-skill": {
+        "owner": "alexeyshishin",
+        "name": "as-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "MotleyAI/living-architecture": {
+        "owner": "MotleyAI",
+        "name": "living-architecture",
+        "branch": "main",
+        "enabled": true
+    },
+    "X1a0heZzzz/open-book-exam-pack": {
+        "owner": "X1a0heZzzz",
+        "name": "open-book-exam-pack",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "petruseugene/full-development-cycle": {
+        "owner": "petruseugene",
+        "name": "full-development-cycle",
+        "branch": "main",
+        "enabled": true
+    },
+    "Sevan7-Kalo10/memoir": {
+        "owner": "Sevan7-Kalo10",
+        "name": "memoir",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dip497/onmywatch": {
+        "owner": "dip497",
+        "name": "onmywatch",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Sae-l/pdf-seitenweise-sichten": {
+        "owner": "Sae-l",
+        "name": "pdf-seitenweise-sichten",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lhg-skills/lhg-slides": {
+        "owner": "lhg-skills",
+        "name": "lhg-slides",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "envyx10/skills-hub-orquestador": {
+        "owner": "envyx10",
+        "name": "skills-hub-orquestador",
+        "branch": "main",
+        "enabled": true
     }
 }

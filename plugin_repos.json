@@ -43993,5 +43993,113 @@
     "repoOwner": "janacryptoqueen",
     "repoName": "still-you",
     "repoBranch": "main"
+  },
+  "zhuyansen/new-term-radar": {
+    "name": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhuyansen",
+    "repoName": "new-term-radar",
+    "repoBranch": "main"
+  },
+  "maplibre/maplibre-agent-skills": {
+    "name": "maplibre/maplibre-agent-skills",
+    "description": "Community-maintained agent skills for MapLibre GL JS \u2014 helping AI coding assistants write better mapping code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maplibre",
+    "repoName": "maplibre-agent-skills",
+    "repoBranch": "main"
+  },
+  "axisrow/tg_content_factory": {
+    "name": "axisrow/tg_content_factory",
+    "description": "Telegram automation for coding agents \u2014 Claude Code plugin + tg-agent CLI. Read/send messages, manage channels, media, analytics, content pipelines. Multi-account, flood-safe, Telethon-powered.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "axisrow",
+    "repoName": "tg_content_factory",
+    "repoBranch": "main"
+  },
+  "mountain-beaver/vps-forge": {
+    "name": "mountain-beaver/vps-forge",
+    "description": "Agent Skill that lets Claude Code, Codex, Cursor, Copilot and other AI agents set up and harden a Debian/Ubuntu VPS without locking you out: SSH, firewall, fail2ban, updates, Docker, TLS, backups, phone alerts. Benchm...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mountain-beaver",
+    "repoName": "vps-forge",
+    "repoBranch": "main"
+  },
+  "zhuyansen/backlink-guard": {
+    "name": "zhuyansen/backlink-guard",
+    "description": "Check a link source before you submit to it, verify the listing, and audit your own backlinks for link-spam patterns. A CLI and an agent skill.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "zhuyansen",
+    "repoName": "backlink-guard",
+    "repoBranch": "main"
+  },
+  "jamdotdev/skills": {
+    "name": "jamdotdev/skills",
+    "description": "Agent skills that make coding agents show their work: read a Jam, prove a change, point at the problem, test a flow. Works with Claude Code, Cursor, Codex, Copilot and Gemini CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jamdotdev",
+    "repoName": "skills",
+    "repoBranch": "master"
+  },
+  "BhodiSea/next-expo-supabase-agent-harness": {
+    "name": "BhodiSea/next-expo-supabase-agent-harness",
+    "description": "A CLI that scaffolds a Next.js and Expo (React Native) monorepo on Supabase, with Claude Code hooks and CI gates that block an agent turn or a merge until validation passes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "BhodiSea",
+    "repoName": "next-expo-supabase-agent-harness",
+    "repoBranch": "main"
+  },
+  "MotleyAI/living-architecture": {
+    "name": "MotleyAI/living-architecture",
+    "description": "Claude Code plugin + CLI that keeps coding agents from eroding your architecture: normative principles attached to a LikeC4 model, which is also the import law for Python and TypeScript, plus an OpenSpec-generating PR...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MotleyAI",
+    "repoName": "living-architecture",
+    "repoBranch": "main"
+  },
+  "petruseugene/full-development-cycle": {
+    "name": "petruseugene/full-development-cycle",
+    "description": "dev-cycle: a Claude Code plugin that drives a feature from interview to merged PR with parallel subagents, review gates and a dashboard",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "petruseugene",
+    "repoName": "full-development-cycle",
+    "repoBranch": "main"
+  },
+  "Sevan7-Kalo10/memoir": {
+    "name": "Sevan7-Kalo10/memoir",
+    "description": "Memory lifecycle management for Claude Code agents \u2014 hot/cold layering, weight evolution, archiving, and autonomous self-maintenance across sessions. Install: /plugin marketplace add Sevan7-Kalo10/memoir",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Sevan7-Kalo10",
+    "repoName": "memoir",
+    "repoBranch": "main"
+  },
+  "dip497/onmywatch": {
+    "name": "dip497/onmywatch",
+    "description": "How I work with coding agents: one entry skill, small principle skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dip497",
+    "repoName": "onmywatch",
+    "repoBranch": "main"
+  },
+  "envyx10/skills-hub-orquestador": {
+    "name": "envyx10/skills-hub-orquestador",
+    "description": "Orquestador de skills para Claude Code: cat\u00e1logo curado de +70 skills, una skill que te dice cu\u00e1l usar y Skills Wrapped, el informe de c\u00f3mo las usas.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "envyx10",
+    "repoName": "skills-hub-orquestador",
+    "repoBranch": "main"
   }
 }
