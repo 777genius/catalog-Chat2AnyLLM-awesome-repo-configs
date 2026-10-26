@@ -1,4 +1,13 @@
 {
+  "commentkeyword/agent-toolkit": {
+    "name": "commentkeyword",
+    "description": "Plan the \"Comment KEYWORD\" CTA of an Instagram Reel and set up the automatic DM in CommentKeyword (Instagram's official API). Claude Code plugin with the comment-to-dm-cta skill and a dependency-free stdio MCP server; asks for confirmation before creating anything that messages people. Needs a CommentKeyword API token (Free plan included). MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "commentkeyword",
+    "repoName": "agent-toolkit",
+    "repoBranch": "main"
+  },
   "SAVER-SI/saver-verifier": {
     "name": "SAVER Verifier",
     "description": "Factual claim checks with linked web evidence for research reports. Live checks cost 0.20 USDC on Base via an existing authorized x402 wallet; the Claude plugin requires explicit approval before every charge. Installation provides no wallet and authorizes no spending.",
