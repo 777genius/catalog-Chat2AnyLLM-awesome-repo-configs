@@ -17,6 +17,15 @@
     "repoName": "sir-linesalot",
     "repoBranch": "main"
   },
+  "saishashank-a/stack-to-the-future": {
+    "name": "saishashank-a/stack-to-the-future",
+    "description": "Claude Code plugin that turns a codebase into an anatomy atlas of business workflow diagrams, rendered to HTML, Excalidraw and .lal, with secret redaction. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "saishashank-a",
+    "repoName": "stack-to-the-future",
+    "repoBranch": "main"
+  },
   "radres/call-me": {
     "name": "call-me",
     "description": "Lets a Claude Code agent call or text the user's iPhone through the /call-me app and read the spoken or typed reply back as text. Marketplace with one plugin (hooks and a skill); the same repo also packages a remote MCP server, a Codex entry, a Gemini CLI extension and a Grok Build entry. The iPhone app needs a paid subscription. MIT.",
