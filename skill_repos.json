@@ -51684,5 +51684,119 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "mihirkavi/open-media": {
+        "owner": "mihirkavi",
+        "name": "open-media",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "svierk/salesforce-skills": {
+        "owner": "svierk",
+        "name": "salesforce-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "whq217/generating-slides": {
+        "owner": "whq217",
+        "name": "generating-slides",
+        "branch": "master",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "lucasbabur/jp-essay": {
+        "owner": "lucasbabur",
+        "name": "jp-essay",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "jangtrinh/design-os-vietnamese": {
+        "owner": "jangtrinh",
+        "name": "design-os-vietnamese",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "justsecretzone/Patchbook": {
+        "owner": "justsecretzone",
+        "name": "Patchbook",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "imtylervo/youtube-watch": {
+        "owner": "imtylervo",
+        "name": "youtube-watch",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "dmminga1983/minga-prompt-audit": {
+        "owner": "dmminga1983",
+        "name": "minga-prompt-audit",
+        "branch": "main",
+        "enabled": true
+    },
+    "xiongcp/stock-skill": {
+        "owner": "xiongcp",
+        "name": "stock-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "StartupBros-com/hov-stack": {
+        "owner": "StartupBros-com",
+        "name": "hov-stack",
+        "branch": "main",
+        "enabled": true
+    },
+    "Wellsonr/skillset": {
+        "owner": "Wellsonr",
+        "name": "skillset",
+        "branch": "main",
+        "enabled": true
+    },
+    "docaohieu2808/pdfx": {
+        "owner": "docaohieu2808",
+        "name": "pdfx",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "yuanhaorannnnnn/agent-skills": {
+        "owner": "yuanhaorannnnnn",
+        "name": "agent-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "cosmo-chang-1701/spec-ops-pipeline": {
+        "owner": "cosmo-chang-1701",
+        "name": "spec-ops-pipeline",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "janacryptoqueen/still-you": {
+        "owner": "janacryptoqueen",
+        "name": "still-you",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "umairmsm/forge": {
+        "owner": "umairmsm",
+        "name": "forge",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bibi8bi/claude-escort": {
+        "owner": "bibi8bi",
+        "name": "claude-escort",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

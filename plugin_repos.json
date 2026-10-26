@@ -43858,5 +43858,104 @@
     "repoOwner": "nyxandro",
     "repoName": "skills",
     "repoBranch": "main"
+  },
+  "hoobnn/hoobnn-agent-mods": {
+    "name": "hoobnn/hoobnn-agent-mods",
+    "description": "\u9002\u7528\u4e8e Claude Code\u3001pi \u548c DeepSeek Harness \u7684\u63d2\u4ef6\u5408\u96c6\uff1a\u72b6\u6001\u680f HUD\u3001\u4efb\u52a1\u8fdb\u5ea6\u6761\u3001Tailscale \u8282\u70b9\u72b6\u6001\u7b49 \u00b7 Mods for coding-agent harnesses",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "hoobnn",
+    "repoName": "hoobnn-agent-mods",
+    "repoBranch": "main"
+  },
+  "mihirkavi/open-media": {
+    "name": "mihirkavi/open-media",
+    "description": "Open-source app that brings your social world together: one feed across Open Media, Farcaster, Lens, Hive and DeSo, one inbox, one post to every network. Agent-ready: public API, MCP servers, WebMCP, and a plugin for...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mihirkavi",
+    "repoName": "open-media",
+    "repoBranch": "main"
+  },
+  "svierk/salesforce-skills": {
+    "name": "svierk/salesforce-skills",
+    "description": "\ud83e\udde0 Agent skills for Salesforce teams - packaged expert know-how for Claude Code and other AI coding agents, from DevOps to development and testing",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "svierk",
+    "repoName": "salesforce-skills",
+    "repoBranch": "main"
+  },
+  "jangtrinh/design-os-vietnamese": {
+    "name": "jangtrinh/design-os-vietnamese",
+    "description": "Deterministic Vietnamese Language, Typography, UX Writing & 10-Domain Copywriting Operating System for AI Agents (24 Registers, 7-Tier Pedagogy, 339 Golden Eval Pairs, 12 UKMC.v1 Modules)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jangtrinh",
+    "repoName": "design-os-vietnamese",
+    "repoBranch": "main"
+  },
+  "justsecretzone/Patchbook": {
+    "name": "justsecretzone/Patchbook",
+    "description": "Review skills for Claude: comment right on websites, apps, images, PDFs, audio and video, and Claude works through the patches.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "justsecretzone",
+    "repoName": "Patchbook",
+    "repoBranch": "main"
+  },
+  "imtylervo/youtube-watch": {
+    "name": "imtylervo/youtube-watch",
+    "description": "Let Claude watch a video: transcript, content-aware frames and contact sheets in one pass",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "imtylervo",
+    "repoName": "youtube-watch",
+    "repoBranch": "main"
+  },
+  "xiongcp/stock-skill": {
+    "name": "xiongcp/stock-skill",
+    "description": "AI agent skill (Claude Code / Codex) for deterministic K-line structure analysis of A-shares, HK & US stocks: triple-barrier risk plans, 15-day normal volatility range, no-lookahead backtest, JSON + PNG + offline HTML...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "xiongcp",
+    "repoName": "stock-skill",
+    "repoBranch": "main"
+  },
+  "macollins27/owner-rep": {
+    "name": "macollins27/owner-rep",
+    "description": "Claude Code mod that watches your AI coding agent for you and reports in plain English: what's really done, what was left out, and the exact message to send next. For founders and vibe coders who direct agents but don...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "macollins27",
+    "repoName": "owner-rep",
+    "repoBranch": "main"
+  },
+  "StartupBros-com/hov-stack": {
+    "name": "StartupBros-com/hov-stack",
+    "description": "House of Vibe Claude Code plugin marketplace: token-eater, pro-gate, wsl-cdp, skill-tuner, memory-dream.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "StartupBros-com",
+    "repoName": "hov-stack",
+    "repoBranch": "main"
+  },
+  "Wellsonr/skillset": {
+    "name": "Wellsonr/skillset",
+    "description": "Single-entry skill router for Claude Code \u2014 auto-catalog, auto-update, intent-based skill chains with propose-then-confirm",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Wellsonr",
+    "repoName": "skillset",
+    "repoBranch": "main"
+  },
+  "janacryptoqueen/still-you": {
+    "name": "janacryptoqueen/still-you",
+    "description": "Keeps your face and body yours in AI images. A Claude skill: one photo, a locked prompt, a canvas method for turned poses, and measured checks. Nano Banana, Gemini, Higgsfield. Free, MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "janacryptoqueen",
+    "repoName": "still-you",
+    "repoBranch": "main"
   }
 }

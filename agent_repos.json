@@ -6820,5 +6820,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "StartupBros-com/hov-stack": {
+    "owner": "StartupBros-com",
+    "name": "hov-stack",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "bibi8bi/claude-escort": {
+    "owner": "bibi8bi",
+    "name": "claude-escort",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }
