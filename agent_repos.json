@@ -6876,5 +6876,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "pvjbuilds/delegate-router": {
+    "owner": "pvjbuilds",
+    "name": "delegate-router",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "Cadasto/pgsql-coding-plugin": {
+    "owner": "Cadasto",
+    "name": "pgsql-coding-plugin",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

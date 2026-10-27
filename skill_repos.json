@@ -52135,5 +52135,97 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "squirrelscan/skills": {
+        "owner": "squirrelscan",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "pvjbuilds/delegate-router": {
+        "owner": "pvjbuilds",
+        "name": "delegate-router",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "HamedShams/whenship": {
+        "owner": "HamedShams",
+        "name": "whenship",
+        "branch": "main",
+        "enabled": true
+    },
+    "BubbleBrainBB/BB-Video": {
+        "owner": "BubbleBrainBB",
+        "name": "BB-Video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "funi-ai/claude-plugins": {
+        "owner": "funi-ai",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "OfficialSpicrawl/docs2skill": {
+        "owner": "OfficialSpicrawl",
+        "name": "docs2skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "Tedydev-web/tedy-kit": {
+        "owner": "Tedydev-web",
+        "name": "tedy-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "Cadasto/pgsql-coding-plugin": {
+        "owner": "Cadasto",
+        "name": "pgsql-coding-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ilan-uzan/duo-ready": {
+        "owner": "ilan-uzan",
+        "name": "duo-ready",
+        "branch": "main",
+        "enabled": true
+    },
+    "ADC1920/AI-Short-Drama-Studio": {
+        "owner": "ADC1920",
+        "name": "AI-Short-Drama-Studio",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "guidocameraeq/vibe-kit": {
+        "owner": "guidocameraeq",
+        "name": "vibe-kit",
+        "branch": "main",
+        "enabled": true
+    },
+    "sailxx/lomonosov-skill": {
+        "owner": "sailxx",
+        "name": "lomonosov-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "Spaghetticoders/developer-skills": {
+        "owner": "Spaghetticoders",
+        "name": "developer-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "robinalexandre/claude-code-kit": {
+        "owner": "robinalexandre",
+        "name": "claude-code-kit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

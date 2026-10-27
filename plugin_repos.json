@@ -44362,5 +44362,140 @@
     "repoOwner": "Gallyan",
     "repoName": "trouvable",
     "repoBranch": "main"
+  },
+  "squirrelscan/skills": {
+    "name": "squirrelscan/skills",
+    "description": "Agent skills for squirrelscan, the website QA tool for your coding agent (300+ audit rules).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "squirrelscan",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "ice-lfernandes/claude-code-mods": {
+    "name": "ice-lfernandes/claude-code-mods",
+    "description": "Six Claude Code mods: plan limits and context above the prompt, an allowlist coach for permission prompts, subagent tokens, tests in the status line, one-click actions and a quiet transcript",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ice-lfernandes",
+    "repoName": "claude-code-mods",
+    "repoBranch": "main"
+  },
+  "MikeGT4/agent-tree": {
+    "name": "MikeGT4/agent-tree",
+    "description": "Terminal side pane for Claude Code that draws a session's agents as a tree of boxes, with details, stop, timeline and model choice by click.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MikeGT4",
+    "repoName": "agent-tree",
+    "repoBranch": "main"
+  },
+  "HamedShams/whenship": {
+    "name": "HamedShams/whenship",
+    "description": "When will it ship, honestly? A tiny planner for small teams: live what-if Gantt, deadline risk and realistic dates. Works in the browser and inside Claude.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "HamedShams",
+    "repoName": "whenship",
+    "repoBranch": "main"
+  },
+  "againest1/bilingual-view": {
+    "name": "againest1/bilingual-view",
+    "description": "Chinese-English translation plugin (Mod) for Claude Code. Write prompts in Chinese, send them in English, and read replies in Chinese. Switch to the original text anytime. \u4e2d\u6587\u63d0\u95ee\uff0c\u82f1\u6587\u53d1\u9001\uff0c\u4e2d\u6587\u9605\u8bfb\uff0c\u968f\u65f6\u6838\u5bf9\u539f\u6587\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "againest1",
+    "repoName": "bilingual-view",
+    "repoBranch": "main"
+  },
+  "theab10hd/zone-playground": {
+    "name": "theab10hd/zone-playground",
+    "description": "Claude Code plugins for zOne work: plan and build features against the real code, review and test them with Playwright, handle your Azure DevOps bugs, tasks and PRs, and fill in your zOffice time sheet.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "theab10hd",
+    "repoName": "zone-playground",
+    "repoBranch": "main"
+  },
+  "funi-ai/claude-plugins": {
+    "name": "funi-ai/claude-plugins",
+    "description": "Claude Code plugins from Funi AI. genmedia-skills: agent skills for fal.ai's genmedia CLI (unofficial).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "funi-ai",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "Tedydev-web/tedy-kit": {
+    "name": "Tedydev-web/tedy-kit",
+    "description": "Draft-gated Claude Code plugin for PR reviews, dev, and PM. Reconciles PRD, Figma, and code\u2014blocking unapproved writes, rogue pushes, and stale publishes.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Tedydev-web",
+    "repoName": "tedy-kit",
+    "repoBranch": "main"
+  },
+  "m-tababi/session-handoff": {
+    "name": "m-tababi/session-handoff",
+    "description": "Claude Code mod: session handoffs on demand \u2014 write, resume, and restart into a fresh conversation with the handoff.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "m-tababi",
+    "repoName": "session-handoff",
+    "repoBranch": "main"
+  },
+  "Cadasto/pgsql-coding-plugin": {
+    "name": "Cadasto/pgsql-coding-plugin",
+    "description": "AI plugin for coding standards for PostgreSQL",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Cadasto",
+    "repoName": "pgsql-coding-plugin",
+    "repoBranch": "main"
+  },
+  "ilan-uzan/duo-ready": {
+    "name": "ilan-uzan/duo-ready",
+    "description": "Ten Claude Code skills for building and shipping iPhone Duo apps, with every claim sourced to Apple or labelled third-party",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ilan-uzan",
+    "repoName": "duo-ready",
+    "repoBranch": "main"
+  },
+  "guidocameraeq/vibe-kit": {
+    "name": "guidocameraeq/vibe-kit",
+    "description": "M\u00e9todo para dirigir Claude Code sin saber programar: skills que planean, montan y ordenan tus proyectos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guidocameraeq",
+    "repoName": "vibe-kit",
+    "repoBranch": "main"
+  },
+  "sailxx/lomonosov-skill": {
+    "name": "sailxx/lomonosov-skill",
+    "description": "A Claude Code tutor that never gives you the answer. Guides with a 5-step hint ladder and rewards effort with coins. Any subject: languages, code, math, science.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sailxx",
+    "repoName": "lomonosov-skill",
+    "repoBranch": "main"
+  },
+  "Spaghetticoders/developer-skills": {
+    "name": "Spaghetticoders/developer-skills",
+    "description": "Sei skill per Claude Code: dal ticket al rilascio, con metodo. Il regalo della live 'Come si lavora nel 2026'.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Spaghetticoders",
+    "repoName": "developer-skills",
+    "repoBranch": "main"
+  },
+  "robinalexandre/claude-code-kit": {
+    "name": "robinalexandre/claude-code-kit",
+    "description": "Skills, mods, hooks and a status line for Claude Code, plus a sync engine for your config across computers",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "robinalexandre",
+    "repoName": "claude-code-kit",
+    "repoBranch": "main"
   }
 }
