@@ -52344,5 +52344,97 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "rehan-remade/universal-modder": {
+        "owner": "rehan-remade",
+        "name": "universal-modder",
+        "branch": "main",
+        "enabled": true
+    },
+    "dantaspaulo/check-pre-lancamento": {
+        "owner": "dantaspaulo",
+        "name": "check-pre-lancamento",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stancsz/second-brain": {
+        "owner": "stancsz",
+        "name": "second-brain",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "FranciscoPrestes/cruise": {
+        "owner": "FranciscoPrestes",
+        "name": "cruise",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "AbhiramDwivedi/claude-ops": {
+        "owner": "AbhiramDwivedi",
+        "name": "claude-ops",
+        "branch": "main",
+        "enabled": true
+    },
+    "panchlab/humanizer-uk": {
+        "owner": "panchlab",
+        "name": "humanizer-uk",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "sarojkjha/aaj-marketing-skills": {
+        "owner": "sarojkjha",
+        "name": "aaj-marketing-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "JorgeCostaMacia/skills": {
+        "owner": "JorgeCostaMacia",
+        "name": "skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "inbrace-tech/claude-plugins": {
+        "owner": "inbrace-tech",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "dave8172/skills": {
+        "owner": "dave8172",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "aidevs-pt/devs-ai-skills": {
+        "owner": "aidevs-pt",
+        "name": "devs-ai-skills",
+        "branch": "master",
+        "enabled": true
+    },
+    "haiggoh/run-to-completion": {
+        "owner": "haiggoh",
+        "name": "run-to-completion",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MichaelYcJo/AgenticSeal": {
+        "owner": "MichaelYcJo",
+        "name": "AgenticSeal",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "vitalikryzhenkous/connectiq-watchface-kit": {
+        "owner": "vitalikryzhenkous",
+        "name": "connectiq-watchface-kit",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
     }
 }

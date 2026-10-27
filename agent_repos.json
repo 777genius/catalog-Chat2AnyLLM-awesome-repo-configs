@@ -6897,5 +6897,26 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "rehan-remade/universal-modder": {
+    "owner": "rehan-remade",
+    "name": "universal-modder",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "aidevs-pt/devs-ai-skills": {
+    "owner": "aidevs-pt",
+    "name": "devs-ai-skills",
+    "branch": "master",
+    "agentsPath": ".claude/agents",
+    "enabled": true
+  },
+  "MichaelYcJo/AgenticSeal": {
+    "owner": "MichaelYcJo",
+    "name": "AgenticSeal",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

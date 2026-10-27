@@ -44596,5 +44596,122 @@
     "repoOwner": "jmorenobl",
     "repoName": "fintube-analyst-auditor",
     "repoBranch": "main"
+  },
+  "rehan-remade/universal-modder": {
+    "name": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "rehan-remade",
+    "repoName": "universal-modder",
+    "repoBranch": "main"
+  },
+  "dantaspaulo/check-pre-lancamento": {
+    "name": "dantaspaulo/check-pre-lancamento",
+    "description": "Skill para Claude, Codex, Cursor e outros agentes: check pr\u00e9-lan\u00e7amento do seu app com 20 checagens de seguran\u00e7a + 10 de prontid\u00e3o (Lovable, Bolt, Replit, React, Next, Laravel, Django, Spring, Go\u2026). Por Paulo S\u00e9rgio D...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dantaspaulo",
+    "repoName": "check-pre-lancamento",
+    "repoBranch": "main"
+  },
+  "FranciscoPrestes/cruise": {
+    "name": "FranciscoPrestes/cruise",
+    "description": "Cruise control for Claude Code: context warnings with a one-press handoff, per-prompt effort steering and a short-reply mode",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "FranciscoPrestes",
+    "repoName": "cruise",
+    "repoBranch": "main"
+  },
+  "AbhiramDwivedi/claude-ops": {
+    "name": "AbhiramDwivedi/claude-ops",
+    "description": "Claude Code plugins: an audit of how you use Claude Code, and early warnings before you hit usage limits",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "AbhiramDwivedi",
+    "repoName": "claude-ops",
+    "repoBranch": "main"
+  },
+  "panchlab/humanizer-uk": {
+    "name": "panchlab/humanizer-uk",
+    "description": "humanizer-uk: \u0440\u0435\u0434\u0430\u043a\u0442\u0443\u0440\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0442\u0435\u043a\u0441\u0442\u0443 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u0456\u0432. \u041f\u0440\u0438\u0431\u0438\u0440\u0430\u0454 \u0428\u0406-\u0437\u0432\u043e\u0440\u043e\u0442\u0438, \u0440\u0443\u0441\u0438\u0437\u043c\u0438, \u043a\u0430\u043b\u044c\u043a\u0438 \u0437 \u043f\u043e\u043b\u044c\u0441\u044c\u043a\u043e\u0457 \u0439 \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457, \u043a\u0430\u043d\u0446\u0435\u043b\u044f\u0440\u0438\u0442 \u0456 \u043d\u0435 \u0437\u043c\u0456\u043d\u044e\u0454 \u0444\u0430\u043a\u0442\u0456\u0432. \u0421\u0442\u0430\u0432\u0438\u0442\u044c\u0441\u044f \u0432 \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u0439 \u0430\u0433\u0435\u043d\u0442 \u0437\u0456 \u0441\u043a\u0456\u043b\u0430\u043c\u0438: Claude Code, Codex, Cu...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "panchlab",
+    "repoName": "humanizer-uk",
+    "repoBranch": "main"
+  },
+  "sarojkjha/aaj-marketing-skills": {
+    "name": "sarojkjha/aaj-marketing-skills",
+    "description": "The math layer for marketing agents: 73 skills, 62 with deterministic engines that return numbers and a verdict. Keep your writing skills, add the arithmetic. MIT, no API key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "sarojkjha",
+    "repoName": "aaj-marketing-skills",
+    "repoBranch": "main"
+  },
+  "JorgeCostaMacia/skills": {
+    "name": "JorgeCostaMacia/skills",
+    "description": "Curated agent skills for AI coding agents \u2014 GitFlow, SOLID, clean/hexagonal architecture, DDD, testing/TDD and .NET validation and logging. Installable as a Claude Code plugin marketplace (agentskills.io standard).",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JorgeCostaMacia",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "inbrace-tech/claude-plugins": {
+    "name": "inbrace-tech/claude-plugins",
+    "description": "Curated Claude Code skills by Inbrace, grounded in Anthropic's official docs. Install as a plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "inbrace-tech",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "dave8172/skills": {
+    "name": "dave8172/skills",
+    "description": "Agent skills for Claude Code, Codex, Cursor and more: Upwork job sweeps, article-to-video explainers, RAM cleanup. Install one or all.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "dave8172",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
+  "aidevs-pt/devs-ai-skills": {
+    "name": "aidevs-pt/devs-ai-skills",
+    "description": "Free, reusable AI workflows for useful business work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "aidevs-pt",
+    "repoName": "devs-ai-skills",
+    "repoBranch": "master"
+  },
+  "haiggoh/run-to-completion": {
+    "name": "haiggoh/run-to-completion",
+    "description": "\ud83c\udfc3 A Claude Code plugin that offers continuous, autonomous multi-step execution \u2014 asking blocking questions up front, then running without stopping between routine steps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "haiggoh",
+    "repoName": "run-to-completion",
+    "repoBranch": "main"
+  },
+  "maxsoldev/pstash": {
+    "name": "maxsoldev/pstash",
+    "description": "Stash prompts for later and pop them back into Claude Code's input box. Instant, no model call.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "maxsoldev",
+    "repoName": "pstash",
+    "repoBranch": "main"
+  },
+  "MichaelYcJo/AgenticSeal": {
+    "name": "MichaelYcJo/AgenticSeal",
+    "description": "A workflow of agents that frames, builds, inspects and seals a change without asking anyone, and ends in a seal bound to a commit.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MichaelYcJo",
+    "repoName": "AgenticSeal",
+    "repoBranch": "main"
   }
 }
