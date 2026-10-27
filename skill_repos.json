@@ -52227,5 +52227,122 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "staskh/trading_skills": {
+        "owner": "staskh",
+        "name": "trading_skills",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "Thanatos9404/llmslim": {
+        "owner": "Thanatos9404",
+        "name": "llmslim",
+        "branch": "main",
+        "enabled": true
+    },
+    "tonyprots/motion-film-skill": {
+        "owner": "tonyprots",
+        "name": "motion-film-skill",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "tallpants/doordash-cli-claude-plugin": {
+        "owner": "tallpants",
+        "name": "doordash-cli-claude-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "szara7678/OpenAkashic": {
+        "owner": "szara7678",
+        "name": "OpenAkashic",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "magery-ai/triz-skill": {
+        "owner": "magery-ai",
+        "name": "triz-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nicholas-greenwood/agentic-engineering-skills": {
+        "owner": "nicholas-greenwood",
+        "name": "agentic-engineering-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "JouberthAlves/off-template-skills": {
+        "owner": "JouberthAlves",
+        "name": "off-template-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "joshsegatt/SeniorOS": {
+        "owner": "joshsegatt",
+        "name": "SeniorOS",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Pika-Labs/pika-create-plugin": {
+        "owner": "Pika-Labs",
+        "name": "pika-create-plugin",
+        "branch": "main",
+        "enabled": true
+    },
+    "Hagetino/launch-video": {
+        "owner": "Hagetino",
+        "name": "launch-video",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "marcellefter/mockship": {
+        "owner": "marcellefter",
+        "name": "mockship",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "YarlisAISolutions/yarlis-modernization": {
+        "owner": "YarlisAISolutions",
+        "name": "yarlis-modernization",
+        "branch": "main",
+        "skillsPath": ".claude/skills",
+        "enabled": true
+    },
+    "surbhi-bhor/learnloop-skill": {
+        "owner": "surbhi-bhor",
+        "name": "learnloop-skill",
+        "branch": "main",
+        "enabled": true
+    },
+    "DeMoth-1/saas-metrics-claude-skill": {
+        "owner": "DeMoth-1",
+        "name": "saas-metrics-claude-skill",
+        "branch": "master",
+        "enabled": true
+    },
+    "MosoFin/finance-ops-skills-index": {
+        "owner": "MosoFin",
+        "name": "finance-ops-skills-index",
+        "branch": "main",
+        "enabled": true
+    },
+    "cristobalchumaceiro/phd-tracker": {
+        "owner": "cristobalchumaceiro",
+        "name": "phd-tracker",
+        "branch": "main",
+        "enabled": true
+    },
+    "jmorenobl/fintube-analyst-auditor": {
+        "owner": "jmorenobl",
+        "name": "fintube-analyst-auditor",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

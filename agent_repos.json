@@ -6890,5 +6890,12 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "magery-ai/triz-skill": {
+    "owner": "magery-ai",
+    "name": "triz-skill",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

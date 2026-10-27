@@ -44497,5 +44497,104 @@
     "repoOwner": "robinalexandre",
     "repoName": "claude-code-kit",
     "repoBranch": "main"
+  },
+  "Thanatos9404/llmslim": {
+    "name": "Thanatos9404/llmslim",
+    "description": "Long-term memory for AI agents with no LLM call: an MCP server and Claude Code plugin, plus local-first context compression for LLM apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Thanatos9404",
+    "repoName": "llmslim",
+    "repoBranch": "main"
+  },
+  "magery-ai/triz-skill": {
+    "name": "magery-ai/triz-skill",
+    "description": "Agent skill for TRIZ problem solving: finds the contradiction, applies the 40 principles and contradiction matrix, and turns them into a validated action plan.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "magery-ai",
+    "repoName": "triz-skill",
+    "repoBranch": "main"
+  },
+  "offprompt/offprompt": {
+    "name": "offprompt/offprompt",
+    "description": "Hand a secret to a coding agent without the secret entering the transcript.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "offprompt",
+    "repoName": "offprompt",
+    "repoBranch": "main"
+  },
+  "JouberthAlves/off-template-skills": {
+    "name": "JouberthAlves/off-template-skills",
+    "description": "Anti-AI-slop design skills for coding agents: a brief, real research and three directions before any code.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "JouberthAlves",
+    "repoName": "off-template-skills",
+    "repoBranch": "main"
+  },
+  "joshsegatt/SeniorOS": {
+    "name": "joshsegatt/SeniorOS",
+    "description": "Claude Code, Codex & Google Antigravity skills and hooks that make coding agents prove their work: risk-proportional workflows, CI proof gates, debugging, code review and a guard for destructive commands. npx senioros",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "joshsegatt",
+    "repoName": "SeniorOS",
+    "repoBranch": "main"
+  },
+  "Pika-Labs/pika-create-plugin": {
+    "name": "Pika-Labs/pika-create-plugin",
+    "description": "Pika plugin for Claude Code, Codex and ChatGPT: make and edit images, video, music, sound effects and voice with Pika's creation apps.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Pika-Labs",
+    "repoName": "pika-create-plugin",
+    "repoBranch": "main"
+  },
+  "Hagetino/launch-video": {
+    "name": "Hagetino/launch-video",
+    "description": "Claude Code skill: premium brand intros and launch videos built in code, cut to the beat",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Hagetino",
+    "repoName": "launch-video",
+    "repoBranch": "main"
+  },
+  "marcellefter/mockship": {
+    "name": "marcellefter/mockship",
+    "description": "Mock it, approve it, ship it \u2014 Agent Skills for flag-gated clickable UI mocks and their promotion to production code",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "marcellefter",
+    "repoName": "mockship",
+    "repoBranch": "main"
+  },
+  "YarlisAISolutions/yarlis-modernization": {
+    "name": "YarlisAISolutions/yarlis-modernization",
+    "description": "Claude Code skills that turn legacy (mainframe COBOL/CICS/JCL/DB2) code into versioned, traceable BRD/FRD/SRD requirements, an implementation RTM and gap report, and a React + Spring Boot + DB2 migration design.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "YarlisAISolutions",
+    "repoName": "yarlis-modernization",
+    "repoBranch": "main"
+  },
+  "MosoFin/finance-ops-skills-index": {
+    "name": "MosoFin/finance-ops-skills-index",
+    "description": "A graded, continuously-verified index of agent skills for accounting and finance. Every entry graded for write authority, evidence discipline and blast radius.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MosoFin",
+    "repoName": "finance-ops-skills-index",
+    "repoBranch": "main"
+  },
+  "jmorenobl/fintube-analyst-auditor": {
+    "name": "jmorenobl/fintube-analyst-auditor",
+    "description": "\ud83d\udea6 Skill para tu asistente de IA (Claude, ChatGPT, Gemini, Codex\u2026): resume v\u00eddeos de bolsa de YouTube en un sem\u00e1foro de compra/venta y audita si el analista acert\u00f3 con precios reales. Est\u00e1ndar Agent Skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jmorenobl",
+    "repoName": "fintube-analyst-auditor",
+    "repoBranch": "main"
   }
 }
