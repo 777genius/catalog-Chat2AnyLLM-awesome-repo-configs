@@ -1,4 +1,13 @@
 {
+  "commentkeyword/agent-toolkit": {
+    "owner": "commentkeyword",
+    "name": "agent-toolkit",
+    "branch": "main",
+    "enabled": true,
+    "serverName": "com.commentkeyword/mcp",
+    "subPath": "server",
+    "note": "Dependency-free Node stdio MCP server for CommentKeyword: create and manage Instagram comment-to-DM keyword automations (create_keyword, update_keyword, list_keywords, get_keyword, delete_keyword, list_agents). Install pinned: npx -y github:commentkeyword/agent-toolkit#v0.2.0; MCPB bundle in release v0.2.0, in the official MCP Registry. Needs a CommentKeyword API token. MIT."
+  },
   "NicksAdvisory/lintelly-hr-deutschland": {
     "owner": "NicksAdvisory",
     "name": "lintelly-hr-deutschland",

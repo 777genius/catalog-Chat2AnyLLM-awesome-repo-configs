@@ -1,4 +1,11 @@
 {
+    "commentkeyword/agent-toolkit": {
+        "owner": "commentkeyword",
+        "name": "agent-toolkit",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "NicksAdvisory/lintelly-hr-deutschland": {
         "owner": "NicksAdvisory",
         "name": "lintelly-hr-deutschland",
