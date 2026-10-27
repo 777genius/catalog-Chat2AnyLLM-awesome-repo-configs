@@ -6862,5 +6862,19 @@
     "branch": "main",
     "agentsPath": "agents",
     "enabled": true
+  },
+  "tizonai/hyperui": {
+    "owner": "tizonai",
+    "name": "hyperui",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
+  },
+  "guavovic/launch-audit": {
+    "owner": "guavovic",
+    "name": "launch-audit",
+    "branch": "main",
+    "agentsPath": "agents",
+    "enabled": true
   }
 }

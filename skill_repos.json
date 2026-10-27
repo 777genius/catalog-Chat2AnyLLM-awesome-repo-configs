@@ -52024,5 +52024,109 @@
         "branch": "main",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "DUNHKpcc/Claude-Guardian": {
+        "owner": "DUNHKpcc",
+        "name": "Claude-Guardian",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "paullabs/edit-labs-ai": {
+        "owner": "paullabs",
+        "name": "edit-labs-ai",
+        "branch": "main",
+        "enabled": true
+    },
+    "Analytically-ai/truequery": {
+        "owner": "Analytically-ai",
+        "name": "truequery",
+        "branch": "main",
+        "enabled": true
+    },
+    "federbenjamin/feder-skills": {
+        "owner": "federbenjamin",
+        "name": "feder-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "tizonai/hyperui": {
+        "owner": "tizonai",
+        "name": "hyperui",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mksadoughi/standby": {
+        "owner": "mksadoughi",
+        "name": "standby",
+        "branch": "main",
+        "enabled": true
+    },
+    "lxucs/news-pool": {
+        "owner": "lxucs",
+        "name": "news-pool",
+        "branch": "main",
+        "enabled": true
+    },
+    "guavovic/launch-audit": {
+        "owner": "guavovic",
+        "name": "launch-audit",
+        "branch": "main",
+        "enabled": true
+    },
+    "nizarchtioui/cloudflare-origin-protection": {
+        "owner": "nizarchtioui",
+        "name": "cloudflare-origin-protection",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "why20261/xiaohongshu-topic-analysis": {
+        "owner": "why20261",
+        "name": "xiaohongshu-topic-analysis",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "why20261/douyin-video-words": {
+        "owner": "why20261",
+        "name": "douyin-video-words",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "guavovic/snes-dev-skills": {
+        "owner": "guavovic",
+        "name": "snes-dev-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Lusona/ai-skills": {
+        "owner": "Lusona",
+        "name": "ai-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "Kushal9889/claude-plugins": {
+        "owner": "Kushal9889",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
+    },
+    "TOMOSIA-VIETNAM/open-erd": {
+        "owner": "TOMOSIA-VIETNAM",
+        "name": "open-erd",
+        "branch": "main",
+        "enabled": true
+    },
+    "Gallyan/trouvable": {
+        "owner": "Gallyan",
+        "name": "trouvable",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }

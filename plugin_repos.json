@@ -44236,5 +44236,122 @@
     "repoOwner": "ADWilkinson",
     "repoName": "astack",
     "repoBranch": "main"
+  },
+  "paullabs/edit-labs-ai": {
+    "name": "paullabs/edit-labs-ai",
+    "description": "Edit Labs AI \u2014 plugin do Claude Code para v\u00eddeo vertical: cortes de podcast, colagem em camadas, curiosidade hist\u00f3rica, explicador Vox, document\u00e1rio de arquivo e decupagem. Exige Higgsfield.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "paullabs",
+    "repoName": "edit-labs-ai",
+    "repoBranch": "main"
+  },
+  "Analytically-ai/truequery": {
+    "name": "Analytically-ai/truequery",
+    "description": "The data standard that makes your AI coding agent better at data work.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Analytically-ai",
+    "repoName": "truequery",
+    "repoBranch": "main"
+  },
+  "federbenjamin/feder-skills": {
+    "name": "federbenjamin/feder-skills",
+    "description": "Six Claude Code skills that shape how Claude reasons and explains.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "federbenjamin",
+    "repoName": "feder-skills",
+    "repoBranch": "main"
+  },
+  "tizonai/hyperui": {
+    "name": "tizonai/hyperui",
+    "description": "Product copilot for Claude Code: one command (/hyperui) that designs, plans, builds, reviews and ships any app with a UI \u2014 grounded in HCI/UX theory (Norman, Nielsen, ISO 9241-110, Munzner). Browser-verified, TDD, opt...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tizonai",
+    "repoName": "hyperui",
+    "repoBranch": "main"
+  },
+  "mksadoughi/standby": {
+    "name": "mksadoughi/standby",
+    "description": "Claude Code plugin for Mac: talk to your session, transcribe meetings, and dictate in any app. Speech processing runs locally on Apple Silicon.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "mksadoughi",
+    "repoName": "standby",
+    "repoBranch": "main"
+  },
+  "lxucs/news-pool": {
+    "name": "lxucs/news-pool",
+    "description": "\u8ba9 AI agent \u66ff\u4f60\u8bfb\u65b0\u95fb\u5e76\u5c55\u793a\u603b\u7ed3\u7684 skill\uff1a\u8ba2\u9605\u6e90 \u2192 \u7b5b\u9009\u5408\u5e76 \u2192 \u4e2d\u6587\u6458\u8981 \u2192 \u672c\u5730\u9605\u8bfb\u5668\u3002\u8dd1\u5728\u73b0\u6709\u5927\u6a21\u578b\u8ba2\u9605\u91cc\uff0c\u65e0\u9700\u989d\u5916 API key\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lxucs",
+    "repoName": "news-pool",
+    "repoBranch": "main"
+  },
+  "guavovic/launch-audit": {
+    "name": "guavovic/launch-audit",
+    "description": "Auditoria antes de lan\u00e7ar um site, API ou aplicativo: seguran\u00e7a, risco jur\u00eddico no Brasil e prontid\u00e3o, com evid\u00eancia e dizendo o que n\u00e3o precisa.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guavovic",
+    "repoName": "launch-audit",
+    "repoBranch": "main"
+  },
+  "nizarchtioui/cloudflare-origin-protection": {
+    "name": "nizarchtioui/cloudflare-origin-protection",
+    "description": "Stop attackers from going around Cloudflare: an Agent Skill and zero-dependency tools to find, close and prove closed every path to your origin server.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nizarchtioui",
+    "repoName": "cloudflare-origin-protection",
+    "repoBranch": "main"
+  },
+  "guavovic/snes-dev-skills": {
+    "name": "guavovic/snes-dev-skills",
+    "description": "Skills pra agentes de c\u00f3digo: hardware, assembly 65816, ROM hacking, desmontagem e t\u00e9cnicas do Super Nintendo, com fonte.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "guavovic",
+    "repoName": "snes-dev-skills",
+    "repoBranch": "main"
+  },
+  "Lusona/ai-skills": {
+    "name": "Lusona/ai-skills",
+    "description": "Skills and native plugins for Claude Code, Codex, and Xcode that guide AI agents through planning, implementation, and verification with clear authorization and TDD policies.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Lusona",
+    "repoName": "ai-skills",
+    "repoBranch": "main"
+  },
+  "Kushal9889/claude-plugins": {
+    "name": "Kushal9889/claude-plugins",
+    "description": "Curated Claude Code plugin marketplace: one-command install of agent skills for context engineering, architecture review, AI-agent and Azure workflows.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Kushal9889",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "TOMOSIA-VIETNAM/open-erd": {
+    "name": "TOMOSIA-VIETNAM/open-erd",
+    "description": "An agent draws the ERD of any project from its source code, even without foreign keys. Interactive SVG, Excel and draw.io. Claude Code plugin.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "TOMOSIA-VIETNAM",
+    "repoName": "open-erd",
+    "repoBranch": "main"
+  },
+  "Gallyan/trouvable": {
+    "name": "Gallyan/trouvable",
+    "description": "Skills Claude Code pour le SEO et le GEO (visibilit\u00e9 dans ChatGPT, Perplexity, Gemini, AI Overviews), pens\u00e9s pour le march\u00e9 fran\u00e7ais : audits, fiche Google et SEO local, Search Console, llms.txt, rapports et propositi...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Gallyan",
+    "repoName": "trouvable",
+    "repoBranch": "main"
   }
 }
