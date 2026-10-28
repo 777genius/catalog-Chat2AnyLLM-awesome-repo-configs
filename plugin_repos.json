@@ -1,4 +1,13 @@
 {
+  "eurafaeldecarvalho/aplica": {
+    "name": "aplica",
+    "description": "Aplica: config-driven job search for Claude Code. Scores public job postings against your profile, flags likely ghost jobs, and applies in your own logged-in Chrome with your real data, under daily caps. Never invents answers, pays or uploads documents. Needs a paid Claude plan and Claude in Chrome; job boards may limit automated accounts. MIT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "eurafaeldecarvalho",
+    "repoName": "aplica",
+    "repoBranch": "main"
+  },
   "lambdasec/skills": {
     "name": "lambdasec-skills",
     "description": "Five Agent Skills: Frame security scanning (5 languages, MCP server), adaptive text classification, Pivotal Token Search reasoning analysis, local quantized models on Apple Silicon with mlx-optiq, and rsi-skill for scoring and hill-climbing prompts with any open model. Apache-2.0.",
