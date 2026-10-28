@@ -52551,5 +52551,12 @@
         "name": "claude-plugins",
         "branch": "main",
         "enabled": true
+    },
+    "Pabears/software-phase-theory": {
+        "owner": "Pabears",
+        "name": "software-phase-theory",
+        "branch": "master",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
