@@ -1,4 +1,13 @@
 {
+    "lambdasec/skills": {
+        "name": "lambdasec-skills",
+        "description": "Five Agent Skills: Frame security scanning (5 languages, MCP server), adaptive text classification, Pivotal Token Search reasoning analysis, local quantized models on Apple Silicon with mlx-optiq, and rsi-skill for scoring and hill-climbing prompts with any open model. Apache-2.0.",
+        "enabled": true,
+        "type": "marketplace",
+        "repoOwner": "lambdasec",
+        "repoName": "skills",
+        "repoBranch": "main"
+    },
   "commentkeyword/agent-toolkit": {
     "name": "commentkeyword",
     "description": "Plan the \"Comment KEYWORD\" CTA of an Instagram Reel and set up the automatic DM in CommentKeyword (Instagram's official API). Claude Code plugin with the comment-to-dm-cta skill and a dependency-free stdio MCP server; asks for confirmation before creating anything that messages people. Needs a CommentKeyword API token (Free plan included). MIT.",

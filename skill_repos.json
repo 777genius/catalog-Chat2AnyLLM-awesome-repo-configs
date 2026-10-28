@@ -1,4 +1,11 @@
 {
+    "lambdasec/skills": {
+        "owner": "lambdasec",
+        "name": "skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
     "commentkeyword/agent-toolkit": {
         "owner": "commentkeyword",
         "name": "agent-toolkit",
