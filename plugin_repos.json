@@ -44956,5 +44956,14 @@
     "repoOwner": "kritikmodi",
     "repoName": "deckloom",
     "repoBranch": "main"
+  },
+  "pqgventures/superpowers-mcp": {
+    "name": "superpowers",
+    "description": "Pay-per-call tools for Claude Code on one balance: web search and page reading, work emails, company records (including Brazilian CNPJ), social profiles, images, video and voice. Sign in once, no key.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "pqgventures",
+    "repoName": "superpowers-mcp",
+    "repoBranch": "main"
   }
 }

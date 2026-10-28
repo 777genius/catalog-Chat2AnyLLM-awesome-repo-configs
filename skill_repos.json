@@ -52667,5 +52667,12 @@
         "branch": "main",
         "skillsPath": "./",
         "enabled": true
+    },
+    "pqgventures/superpowers-mcp": {
+        "owner": "pqgventures",
+        "name": "superpowers-mcp",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
     }
 }
