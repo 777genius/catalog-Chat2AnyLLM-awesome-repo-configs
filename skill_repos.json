@@ -52436,5 +52436,113 @@
         "branch": "main",
         "skillsPath": ".claude/skills",
         "enabled": true
+    },
+    "liuhaisi2026212-maker/taishang-laojun": {
+        "owner": "liuhaisi2026212-maker",
+        "name": "taishang-laojun",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "wpgaurav/bricks-skills": {
+        "owner": "wpgaurav",
+        "name": "bricks-skills",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "wpgaurav/generateblocks-skills": {
+        "owner": "wpgaurav",
+        "name": "generateblocks-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "stevenguyenbt/mega-shot": {
+        "owner": "stevenguyenbt",
+        "name": "mega-shot",
+        "branch": "main",
+        "enabled": true
+    },
+    "tomw1808/flash-agents": {
+        "owner": "tomw1808",
+        "name": "flash-agents",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "nphu0811/pmg-skills": {
+        "owner": "nphu0811",
+        "name": "pmg-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "haiggoh/waypoints": {
+        "owner": "haiggoh",
+        "name": "waypoints",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ritesh-firodiya/canon-cli": {
+        "owner": "ritesh-firodiya",
+        "name": "canon-cli",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "knk1313/docs-rules": {
+        "owner": "knk1313",
+        "name": "docs-rules",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Vladic20/tvhead-studio": {
+        "owner": "Vladic20",
+        "name": "tvhead-studio",
+        "branch": "main",
+        "enabled": true
+    },
+    "Tyrion-hb/page-aligned-paper-translation": {
+        "owner": "Tyrion-hb",
+        "name": "page-aligned-paper-translation",
+        "branch": "main",
+        "enabled": true
+    },
+    "advnljs/4d-prototype-skill": {
+        "owner": "advnljs",
+        "name": "4d-prototype-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bladevilR/tanshi-baodian": {
+        "owner": "bladevilR",
+        "name": "tanshi-baodian",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "th3r-dev/th3-skills": {
+        "owner": "th3r-dev",
+        "name": "th3-skills",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ribato22/vibecheck": {
+        "owner": "ribato22",
+        "name": "vibecheck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "arhuman/claude-plugins": {
+        "owner": "arhuman",
+        "name": "claude-plugins",
+        "branch": "main",
+        "enabled": true
     }
 }

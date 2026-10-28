@@ -44713,5 +44713,113 @@
     "repoOwner": "MichaelYcJo",
     "repoName": "AgenticSeal",
     "repoBranch": "main"
+  },
+  "liuhaisi2026212-maker/taishang-laojun": {
+    "name": "liuhaisi2026212-maker/taishang-laojun",
+    "description": "\u592a\u4e0a\u8001\u541b\u00b7AI\u70bc\u4e39\u7089\uff1a\u6296\u97f3/\u5c0f\u7ea2\u4e66\u77ed\u89c6\u9891\u521b\u4f5c Skill\u3002\u4e0d\u77e5\u9053\u62cd\u5565\u3001\u4e0d\u4f1a\u5199\u7a3f\uff0c\u4e22\u7ed9\u4f60\u7684 AI\uff1a\u627e\u5bf9\u6807\u62c6\u7206\u6b3e\u3001\u9009\u9898\u3001\u7cfb\u5217\u7b56\u5212\u3001\u53e3\u64ad\u7a3f\u3001\u6807\u9898\u3001\u590d\u76d8\u3001\u53bbAI\u5473\u3002Claude Code / Codex \u7b49 npx \u4e00\u884c\u5b89\u88c5\uff0c\u8c46\u5305\u7b49\u804a\u5929\u667a\u80fd\u4f53\u7528 Bot \u7248\u3002",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "liuhaisi2026212-maker",
+    "repoName": "taishang-laojun",
+    "repoBranch": "main"
+  },
+  "frankbria/codeframe": {
+    "name": "frankbria/codeframe",
+    "description": "Your coding agent can\u2019t quietly undo what you already decided. PROOF9(TM) records a bug as a requirement, locks it to the code it affects, and checks it before every commit. A Claude Code plugin plus a CLI. Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "frankbria",
+    "repoName": "codeframe",
+    "repoBranch": "main"
+  },
+  "tomw1808/flash-agents": {
+    "name": "tomw1808/flash-agents",
+    "description": "Claude Code plugin: Claude steers, cheap flash models (DeepSeek V4.1 Flash, MiniMax M3.1 Flash) do the reading and typing. Each job runs in a disposable copy of your repo and returns a git patch you review and apply.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "tomw1808",
+    "repoName": "flash-agents",
+    "repoBranch": "main"
+  },
+  "nuromirzak/nibbl": {
+    "name": "nuromirzak/nibbl",
+    "description": "A tiny pixel pet that nibbles your bugs. Lives above your Claude Code prompt.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nuromirzak",
+    "repoName": "nibbl",
+    "repoBranch": "main"
+  },
+  "nphu0811/pmg-skills": {
+    "name": "nphu0811/pmg-skills",
+    "description": "Modular AI Skills for PowerPoint Motion Graphics (PMG). Teaches Claude, Cursor & Copilot to engineer broadcast-grade 60 FPS Morph presentations, 3D camera choreography, parallax & frosted glassmorphism in 100% native...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "nphu0811",
+    "repoName": "pmg-skills",
+    "repoBranch": "main"
+  },
+  "toranalytics/off-the-wall": {
+    "name": "toranalytics/off-the-wall",
+    "description": "Quotes your own past corrections back to Claude Code and Codex, reports what you correct most, and has the orchestrator name a model for each subagent.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toranalytics",
+    "repoName": "off-the-wall",
+    "repoBranch": "main"
+  },
+  "ritesh-firodiya/canon-cli": {
+    "name": "ritesh-firodiya/canon-cli",
+    "description": "canon: your domain knowledge and AI rules, kept in your repos and enforced. Claude Code plugin + CLI.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ritesh-firodiya",
+    "repoName": "canon-cli",
+    "repoBranch": "main"
+  },
+  "knk1313/docs-rules": {
+    "name": "knk1313/docs-rules",
+    "description": "\u65e5\u672c\u8a9e\u306e\u6587\u66f8\u3092\u3001\u5171\u901a\u306e\u8868\u8a18\u30fb\u6587\u4f53\u30eb\u30fc\u30eb\u3068\u6587\u66f8\u7a2e\u5225\u3054\u3068\u306e\u69cb\u6210\u306b\u6cbf\u3063\u3066\u66f8\u304f\u305f\u3081\u306eClaude Code\u30b9\u30ad\u30eb",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "knk1313",
+    "repoName": "docs-rules",
+    "repoBranch": "main"
+  },
+  "Vladic20/tvhead-studio": {
+    "name": "Vladic20/tvhead-studio",
+    "description": "Claude Code skill + local app: topic \u2192 narrated EN/RU doodle motion video (TV-head style, free Fish Audio voices via OpenRouter)",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Vladic20",
+    "repoName": "tvhead-studio",
+    "repoBranch": "main"
+  },
+  "th3r-dev/th3-skills": {
+    "name": "th3r-dev/th3-skills",
+    "description": "An skills that i was usage with real work",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "th3r-dev",
+    "repoName": "th3-skills",
+    "repoBranch": "main"
+  },
+  "ribato22/vibecheck": {
+    "name": "ribato22/vibecheck",
+    "description": "\ud83d\udea6 Pre-launch security audit for AI-built apps. Catches leaked API keys, missing Supabase RLS, open Firebase rules and billing abuse. Launch Score + GO/NO-GO, guided fixes, secret guard. Claude Code plugin & Agent Skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ribato22",
+    "repoName": "vibecheck",
+    "repoBranch": "main"
+  },
+  "arhuman/claude-plugins": {
+    "name": "arhuman/claude-plugins",
+    "description": "arhuman/claude-plugins \u2014 plugin marketplace.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "arhuman",
+    "repoName": "claude-plugins",
+    "repoBranch": "main"
   }
 }
