@@ -1,13 +1,13 @@
 {
-    "lambdasec/skills": {
-        "name": "lambdasec-skills",
-        "description": "Five Agent Skills: Frame security scanning (5 languages, MCP server), adaptive text classification, Pivotal Token Search reasoning analysis, local quantized models on Apple Silicon with mlx-optiq, and rsi-skill for scoring and hill-climbing prompts with any open model. Apache-2.0.",
-        "enabled": true,
-        "type": "marketplace",
-        "repoOwner": "lambdasec",
-        "repoName": "skills",
-        "repoBranch": "main"
-    },
+  "lambdasec/skills": {
+    "name": "lambdasec-skills",
+    "description": "Five Agent Skills: Frame security scanning (5 languages, MCP server), adaptive text classification, Pivotal Token Search reasoning analysis, local quantized models on Apple Silicon with mlx-optiq, and rsi-skill for scoring and hill-climbing prompts with any open model. Apache-2.0.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "lambdasec",
+    "repoName": "skills",
+    "repoBranch": "main"
+  },
   "commentkeyword/agent-toolkit": {
     "name": "commentkeyword",
     "description": "Plan the \"Comment KEYWORD\" CTA of an Instagram Reel and set up the automatic DM in CommentKeyword (Instagram's official API). Claude Code plugin with the comment-to-dm-cta skill and a dependency-free stdio MCP server; asks for confirmation before creating anything that messages people. Needs a CommentKeyword API token (Free plan included). MIT.",
@@ -44829,6 +44829,132 @@
     "type": "marketplace",
     "repoOwner": "arhuman",
     "repoName": "claude-plugins",
+    "repoBranch": "main"
+  },
+  "abdiraimov-otabek/dashboard-design-skill": {
+    "name": "abdiraimov-otabek/dashboard-design-skill",
+    "description": "A Claude Code skill for clean, honest dashboard UI: KPI tiles, charts, date pickers, ranked lists, states, layouts and a screenshot QA pass. Distilled from 127 shipped dashboards.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "abdiraimov-otabek",
+    "repoName": "dashboard-design-skill",
+    "repoBranch": "main"
+  },
+  "jgsystemsconsulting/jgs-se-knowledge-packs": {
+    "name": "jgsystemsconsulting/jgs-se-knowledge-packs",
+    "description": "71 open systems-engineering knowledge packs (+8 signposts) for coding agents: licence-vetted NASA, DoD, UK MoD, FAA, EASA, NIST, FDA, NRC, GAO, SEBoK and more, as on-demand Agent Skills.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "jgsystemsconsulting",
+    "repoName": "jgs-se-knowledge-packs",
+    "repoBranch": "main"
+  },
+  "oliverweissl/context-garden": {
+    "name": "oliverweissl/context-garden",
+    "description": "\ud83c\udf31 Context Garden is a context management suite for coding agents on multi-repo platforms. Shares system knowledge across repositories and agent swarms, and cuts what each agent reads: exact code ranges, clustered logs...",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "oliverweissl",
+    "repoName": "context-garden",
+    "repoBranch": "main"
+  },
+  "istb16/dev-orchestra": {
+    "name": "istb16/dev-orchestra",
+    "description": "Agent Skill that orchestrates software development across multiple AI coding CLIs: design, implement, test, independent multi-model review, triage, fix, re-test.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "istb16",
+    "repoName": "dev-orchestra",
+    "repoBranch": "main"
+  },
+  "bassnova42/arch-diagram-skill": {
+    "name": "bassnova42/arch-diagram-skill",
+    "description": "RokoAI arch-diagram: a Claude Code & Codex skill that turns any repo or article into an animated architecture diagram (HTML / PNG / MP4 / GIF / Mermaid) with a live trace log",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bassnova42",
+    "repoName": "arch-diagram-skill",
+    "repoBranch": "main"
+  },
+  "ajitta/dialectic-skills": {
+    "name": "ajitta/dialectic-skills",
+    "description": "Seven reasoning-and-review skills in one plugin (dia): Socratic dialogue, reductio ad absurdum, internal critique, review rounds. For Claude, Claude Code, Codex and ChatGPT.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "ajitta",
+    "repoName": "dialectic-skills",
+    "repoBranch": "main"
+  },
+  "bonusly/bonusly-claude-plugin": {
+    "name": "bonusly/bonusly-claude-plugin",
+    "description": "Bonusly's Claude Plugin",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "bonusly",
+    "repoName": "bonusly-claude-plugin",
+    "repoBranch": "main"
+  },
+  "afaqxdev/remaster": {
+    "name": "afaqxdev/remaster",
+    "description": "Turn any app into a premium Flutter app. Researched. Designed in Figma. Approved by you. Then built and audited.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "afaqxdev",
+    "repoName": "remaster",
+    "repoBranch": "main"
+  },
+  "Noem836/skillcheck": {
+    "name": "Noem836/skillcheck",
+    "description": "Check a Claude Code / Codex skill before you install it: which of your skills will it take requests from? Plus real trigger tests in your own setup.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "Noem836",
+    "repoName": "skillcheck",
+    "repoBranch": "main"
+  },
+  "MrMirhan/claude-buddy-chat": {
+    "name": "MrMirhan/claude-buddy-chat",
+    "description": "End-to-end encrypted, quantum-resistant chat between Claude Code users. A Claude Code mod with no server of its own.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "MrMirhan",
+    "repoName": "claude-buddy-chat",
+    "repoBranch": "main"
+  },
+  "toyaji/anti-stuck": {
+    "name": "toyaji/anti-stuck",
+    "description": "Keep Claude Code from getting stuck: hard time limits, forced reporting, background ledger, subagent budgets \u2014 plus framework packs (Flutter first). Share your stuck cases.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "toyaji",
+    "repoName": "anti-stuck",
+    "repoBranch": "main"
+  },
+  "DanielJorba/smart-view-skill": {
+    "name": "DanielJorba/smart-view-skill",
+    "description": "Claude skill to operate Oracle Smart View for Office (Oracle EPM Cloud, Essbase) safely from Claude Code: read-only Excel bridge, cube structure, ad hoc grids, reports, VBA and troubleshooting.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "DanielJorba",
+    "repoName": "smart-view-skill",
+    "repoBranch": "main"
+  },
+  "contember/zerops-contrib": {
+    "name": "contember/zerops-contrib",
+    "description": "Claude Code plugin for Zerops: a skill covering the platform, plus zops \u2014 a CLI generated from the Zerops OpenAPI document with complete public API coverage.",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "contember",
+    "repoName": "zerops-contrib",
+    "repoBranch": "main"
+  },
+  "kritikmodi/deckloom": {
+    "name": "kritikmodi/deckloom",
+    "description": "Let your AI build decks for you",
+    "enabled": true,
+    "type": "marketplace",
+    "repoOwner": "kritikmodi",
+    "repoName": "deckloom",
     "repoBranch": "main"
   }
 }

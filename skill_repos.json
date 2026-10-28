@@ -52558,5 +52558,114 @@
         "branch": "master",
         "skillsPath": "skills",
         "enabled": true
+    },
+    "abdiraimov-otabek/dashboard-design-skill": {
+        "owner": "abdiraimov-otabek",
+        "name": "dashboard-design-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "jgsystemsconsulting/jgs-se-knowledge-packs": {
+        "owner": "jgsystemsconsulting",
+        "name": "jgs-se-knowledge-packs",
+        "branch": "main",
+        "enabled": true
+    },
+    "oliverweissl/context-garden": {
+        "owner": "oliverweissl",
+        "name": "context-garden",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "techhorizonlabs/gearlist": {
+        "owner": "techhorizonlabs",
+        "name": "gearlist",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "istb16/dev-orchestra": {
+        "owner": "istb16",
+        "name": "dev-orchestra",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "bassnova42/arch-diagram-skill": {
+        "owner": "bassnova42",
+        "name": "arch-diagram-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "ajitta/dialectic-skills": {
+        "owner": "ajitta",
+        "name": "dialectic-skills",
+        "branch": "main",
+        "enabled": true
+    },
+    "bonusly/bonusly-claude-plugin": {
+        "owner": "bonusly",
+        "name": "bonusly-claude-plugin",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "afaqxdev/remaster": {
+        "owner": "afaqxdev",
+        "name": "remaster",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "Noem836/skillcheck": {
+        "owner": "Noem836",
+        "name": "skillcheck",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "MrMirhan/claude-buddy-chat": {
+        "owner": "MrMirhan",
+        "name": "claude-buddy-chat",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "toyaji/anti-stuck": {
+        "owner": "toyaji",
+        "name": "anti-stuck",
+        "branch": "main",
+        "enabled": true
+    },
+    "DanielJorba/smart-view-skill": {
+        "owner": "DanielJorba",
+        "name": "smart-view-skill",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "contember/zerops-contrib": {
+        "owner": "contember",
+        "name": "zerops-contrib",
+        "branch": "main",
+        "skillsPath": "skills",
+        "enabled": true
+    },
+    "mizane446/github-profile-optimizer": {
+        "owner": "mizane446",
+        "name": "github-profile-optimizer",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
+    },
+    "kritikmodi/deckloom": {
+        "owner": "kritikmodi",
+        "name": "deckloom",
+        "branch": "main",
+        "skillsPath": "./",
+        "enabled": true
     }
 }
